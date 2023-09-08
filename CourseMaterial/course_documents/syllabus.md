@@ -12,8 +12,8 @@ course will meet throughout the entire year but only for two days each week.
   file formats that use this to represent other kinds of data.
 - To learn the Python programming language which they will use to implement
   algorithms which manipulate data.
-- Enhance their problem solving skills to enable them to approach large, complex
-  problems and break them down into more manageable pieces.
+- To enhance problem solving skills to enable students to approach large,
+  complex problems and break them down into more manageable pieces.
 
 ## Required Texts and Materials
 
@@ -77,6 +77,8 @@ typically involve:
 - Projects: Sometimes classwork and homework will be part of a continuing
   group project. In this case, you will have to schedule time outside of class
   to work with your partner. This could be done using Zoom or Google Meet.
+- Exams: End of unit or end of semester tests that evaluate your understanding
+  of the material. Exams will be announced at least one week beforehand.
 
 At the beginning of the year, classwork and homework will either be submitted:
 manually at the _beginning_ of the next class or by uploading it to Schoology
