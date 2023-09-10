@@ -98,9 +98,9 @@ future work will build on previously covered concepts.
 Units will be weighted according to the amount of time that we spend on them,
 and unit grades will be broken down into the following categories:
 
-- Classwork: 10%
-- Homework: 25%
-- Quizzes: 25%
+- Classwork: 20%
+- Homework: 20%
+- Quizzes: 20%
 - Exams: 40%
 
 Grades for assignments will be posted on Schoology. You can expect to get a
