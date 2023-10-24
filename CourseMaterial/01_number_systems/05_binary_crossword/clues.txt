@@ -1,0 +1,41 @@
+https://crosswordspin.com/create -> Max of 25
+
+1111: The decimal number 15 (binary)
+1001101: The decimal number 77 (binary)
+1110000: The decimal number 112 (binary)
+
+118: The binary number 1110110 (decimal)
+51: The binary number 110011 (decimal)
+10010: The binary number 10011100011010 (decimal)
+
+251: The hexadecimal number fb (decimal)
+300: The hexadecimal number 12c  (decimal)
+
+11111: The decimal number 69905 (hexadecimal)
+0000000a: The decimal number 10 (hexadecimal)
+
+10101: A skinny b/w BMP of a white picket fence (binary)
+
+0000: Black (binary | octal | hexadecimal)
+110011: The color purple where each led is controlled by 2 bits
+000011: The color blue where each led is controlled by 2 bits
+111: The color white where each led is controlled by 1 bit
+010101: The color light grey where each light emitting diode is controlled by 2 bits
+101010: The color dark grey where each light emitting diode is controlled by 2 bits
+
+255: The highest possible number for an 8-bit binary number (decimal)
+126: The second highest possible number for a 7-bit binary number (decimal)
+
+101: The letter "A" in ASCII (octal)
+100000: A space in ASCII (binary)
+12: 0X31, 0X32 in ASCII
+APPLE: 0X41, 0X50, 0X50, 0X4C, 0X45 in ASCII
+
+111111: The loudest noise a speaker can make (binary)
+000001: The second quietest noise a speaker can make (binary)
+
+# Other clues
+
+11111111: The value of a "green" light emitting diode for the color yellow
+00000: A skinny b/w BMP of what you see with your eyes closed (binary)
+0a: The "new line" character in ASCII
