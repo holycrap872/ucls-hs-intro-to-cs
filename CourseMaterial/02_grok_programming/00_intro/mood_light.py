@@ -17,8 +17,8 @@ def run_game():
     keep_going = True
 
     red = 0
-    blue = 255
-    green = 255
+    blue = 0xFF
+    green = 0xFF
 
     while keep_going:
         # User Input
@@ -31,20 +31,20 @@ def run_game():
         direction = random.choice([1, -1])
         if change == "RED":
             red += direction * 20
-            if red > 255:
-                red = 255
+            if red > 0xFF:
+                red = 0xFF
             if red < 0:
                 red = 0
         elif change == "GREEN":
             green += direction * 20
-            if green > 255:
-                green = 255
+            if green > 0xFF:
+                green = 0xFF
             if green < 0:
                 green = 0
         else:
             blue += direction * 20
-            if blue > 255:
-                blue = 255
+            if blue > 0xFF:
+                blue = 0xFF
             if blue < 0:
                 blue = 0
 
