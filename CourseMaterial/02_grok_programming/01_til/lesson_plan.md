@@ -1,0 +1,12 @@
+- Opening problem
+    - What are the errors with these bits of code
+- TIL
+    - Show Josh's
+        - Explain why useful
+    - Talk through template
+    - Talk through rubric
+    - Cheat sheet you can bring to any test/exam in class
+- Grok Review
+- Grok Variables
+- Grok strings/ints
+- Go Grok!
