@@ -5,6 +5,8 @@
     - TIL
         - Who's got a good one?
         - Assess it
+        - Show what happens if make the entry a header
+            - Can see it in the document outline/summary
 - Talk about pair programming
     - Active partner
     - Good body language
