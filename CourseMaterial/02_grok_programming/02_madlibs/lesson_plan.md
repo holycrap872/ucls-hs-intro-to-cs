@@ -11,6 +11,20 @@
     - Active partner
     - Good body language
     - Act out a good and bad pair-programming exp
+- Mad Libs
+    - Do example
+    ```python
+    name = input("Enter a name: ")
+    color = input("Enter a color: ")
+    animal = input("Enter an animal: ")
+    number = int(input("Enter a number: "))
+
+    print(name, "walked into the forest looking for a normal", animal, ".")
+    print("Instead,", name, "got more than they could handle with", number)
+    print(color, animal + "s who were looking very hungry!")
+    print(name, "knew they could handle", number - 1, animal, "s, but", number, "was one too many")
+    print(name, "ran away very quickly")
+    ```
 - Have them do mad-libs in pairs
     - Once finish, rotate and do another group's
     - Must have:
