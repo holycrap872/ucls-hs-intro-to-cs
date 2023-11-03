@@ -10,7 +10,8 @@
 - Talk about pair programming
     - Active partner
     - Good body language
-    - Act out a good and bad pair-programming exp
+    - Pair Programming Theater:
+        - Act out a good and bad pair-programming exp
 - Mad Libs
     - Do example
     ```python
@@ -37,3 +38,4 @@
 Homework
 
 - TIL entry
+- Finish section 1
