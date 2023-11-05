@@ -38,4 +38,4 @@
 Homework
 
 - TIL entry
-- Finish section 1
+- Finish lesson 1
