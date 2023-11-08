@@ -23,7 +23,7 @@
     - What am I doing?
     - How does it compare to 20 questions?
 - Classwork
-    - Pick 8 words of your choosing
+    - Pick 4 words of your choosing
     - By asking yes or no questions, figure out what person chose
     - The weirder the questions the better
 - Go!

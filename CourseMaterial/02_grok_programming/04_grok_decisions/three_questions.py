@@ -6,26 +6,26 @@ if msft_product == "y":
     if is_geometry == "y":
         knifes_edge = input("Is it the sharp part of a knife? ")
         if knifes_edge == "y":
-            print("It's 'edge'")
+            print("Your word is 'edge'!")
         else:
-            print("It's 'surface'")
+            print("Your word is 'surface'!")
     else:
         in_books = input("Is it in books? ")
         if in_books == "y":
-            print("It's 'word'")
+            print("Your word is 'word'!")
         else:
-            print("It's 'bing'")
+            print("Your word is 'bing'!")
 else:
     is_sound = input("Is it word that describes the sounds animals make? ")
     if is_sound == "y":
         is_pig = input("Do pigs make this noise? ")
         if is_pig == "y":
-            print("It's 'squeal'")
+            print("Your word is 'squeal'!")
         else:
-            print("It's 'sing'")
+            print("Your word is 'sing'!")
     else:
         in_quiddich = input("Is it used in quiddich? ")
         if in_quiddich == "y":
-            print("It's 'snitch'")
+            print("Your word is 'snitch'!")
         else:
-            print("It's 'rat'")
+            print("Your word is 'rat'!")
