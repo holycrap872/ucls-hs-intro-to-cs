@@ -44,7 +44,7 @@ def produce_narrative(student_dict) -> None:
         elif 85 < hw_average < 92 and 93 < exam_average:
             print(f"{name}, you're off to a very good start. You did really well on the exam and quizzes. If you focus on being a bit more consistent with your homework, you will really excel. Keep up the good work!")
         elif 95 < hw_average and 87 < exam_average:
-            print(f"{name}, you're off to a very good start. You do a great job consistently completely the homework and you did well on the exam. I encourage you, however, you come see me before the next test with any questions you might have to really push your understanding to the next level.")
+            print(f"{name}, you're off to a very good start. You do a great job consistently completing the homework and you did well on the exam. I encourage you, however, you come see me before the next test with any questions you might have to really push your understanding to the next level.")
         else:
             print(f"{name} grade > 95")
     elif overall_grade > 90:
