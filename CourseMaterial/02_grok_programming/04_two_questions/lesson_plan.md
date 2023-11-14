@@ -15,7 +15,7 @@
 - Review
     - What are ifs/elses
     - When did you use them in scratch
-    - When might the be useful
+    - When might they be useful?
         - Bunch of real world examples
 - Break
 - Magic trick
