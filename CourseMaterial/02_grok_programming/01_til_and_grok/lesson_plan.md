@@ -18,7 +18,17 @@
         - Explain why useful
     - Talk through template
     - Talk through rubric
+        - Entry has useful title
+        - Entry has date
+        - Entry is in proper section
+        - Entry is 2-5 sentences
+        - Entry is in your own words
+        - Entry includes at least one example
+        - Entry is informational
+        - Entry is not a duplicate (direct OR close)
     - Cheat sheet you can bring to any test/exam in class
+        - Can do multiple entries per day
+        - I will grade the "worst one" to avoid note dumping
 - Grok Review
 - Grok Variables
 - Grok strings/ints
