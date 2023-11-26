@@ -7,7 +7,7 @@ incrementally modified on its way to becoming a useful output.
 
 This lesson involves three parts: research, reflection, and application.
 
-## Research
+## Research:
 
 Take the udacity "intro to shell" course. The course is available at
 https://www.udacity.com/course/shell-workshop--ud206 . The course has a _lot_ of
