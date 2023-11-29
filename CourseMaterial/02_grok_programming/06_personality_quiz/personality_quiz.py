@@ -22,10 +22,10 @@ if answer3.lower() == "a":
 
 # Calculate score to determine personality type
 if score == 0:
-    print("You are a Creative Thinker!")
+    print("""You're a "Creative Thinker"!""")
 elif score == 1:
-    print("You are a Practical Realist!")
+    print("""You're a "Practical Realist"!""")
 elif score == 2:
-    print("You are an Innovative Dreamer!")
+    print("""You're an "Innovative Dreamer"!""")
 else:
-    print("You are a Visionary Leader!")
+    print("""You're a "Visionary Leader"!""")
