@@ -19,6 +19,6 @@ in it's own place for two reasons:
     - https://learn.microsoft.com/en-us/training/modules/intro-to-git/
     - https://learn.microsoft.com/en-us/training/paths/intro-to-vc-git/
     - https://learngitbranching.js.org/
-- Vim
+- Vim / Markdown
     - https://linuxjourney.com/lesson/vim-text-editor
 - Vscode
