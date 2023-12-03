@@ -26,7 +26,7 @@ Have `https://www.truity.com/test/big-five-personality-test` open for comparison
     - Go through some TIL entries and discuss
 - Do Grok Lesson 4
 - Break
-- Personality quiz OR review quiz
+- Personality quiz
     - Do an example
     - Pair programming refresher
     - Hand out `personality_quiz_classword.py`
