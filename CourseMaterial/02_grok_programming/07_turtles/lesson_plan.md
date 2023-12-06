@@ -5,6 +5,12 @@
 
 ## Lesson Plan
 
+The goal of this lesson is to prepare students for loops. This is because Grok's
+loop lesson is a big jump in difficulty. Therefore, this lesson is intended to
+ease the students into the syntax and appreciate loops as things that can
+exploit patterns. In particular, I really stress the "logic puzzle-ness" of
+being able to identify and exploit patterns with loops.
+
 ### Setup
 
 `turtle_shapes_classword.docx` printed out
@@ -30,6 +36,7 @@
         - Have them come up with stuff
         - Loop as a hiking trail
     - Loop as a series of patterns
+        - Logic puzzle: can you identify the pattern at the heart of the problem?
 - Loops in python
     - For loops
     - Bunch of examples

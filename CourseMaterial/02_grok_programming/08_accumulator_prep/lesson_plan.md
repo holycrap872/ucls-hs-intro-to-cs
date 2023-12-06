@@ -1,34 +1,34 @@
 ## Essential Questions
 
-- How should we visualize if/elif/else and loops?
 - How do we use loops to model repeating patterns?
+- How can we utilize the accumulator pattern?
 
 ## Lesson Plan
 
+The goal of this lesson is to prepare the slower students for accumlators. This
+is because 50% of students get tripped up with the Grok question that asks you
+to reverse a string. By harping on the "accumulator" pattern, they won't become
+too frustrated.
+
 ### Setup
 
-The goal of this lesson is to prepare the slower students for loops. This is
-because the loop lesson is the largest jump in terms of complexity. Therefore,
-we'll do a bunch or prep and classwork to prepare students for it so that they
-don't become too frustrated.
+None
 
 ### Actual Lesson
 
 - Review
-    - String functions
     - if/elif/else
-- How do we think of if/elif/else in real life
-    - Various analogies (hiking trail)
-    - Some example "real life" programs
+    - loops
+    - turtles
 - How do we think about loops
     - Iterating through a list of things
-    - Bunch of sample programs
-    - Loop as a hiking trail
     - Loop as a series of patterns
 - Accumulator pattern
     - Empty shopping cart
     - Run through loop filling up shopping cart over and over
     - Trick of loops is to find the pattern
+- Do some accumulator problems together
+    - Sum of bowling pins
 - Start Grok
 
 #### Homework
