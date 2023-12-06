@@ -26,7 +26,7 @@
     - Iterating through a list of things
     - Various analogies
         - Go to school learn, go home
-    - Some example "real life" prgorams
+    - Some example "real life" programs
         - Have them come up with stuff
         - Loop as a hiking trail
     - Loop as a series of patterns
@@ -43,4 +43,7 @@
     - All about finding the pattern
 - Handle out classword
     - Read through
+    - Show examples of:
+        - How to comment out code
+        - How to exit screen
     - Go!
