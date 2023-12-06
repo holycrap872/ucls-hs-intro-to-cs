@@ -25,9 +25,13 @@ don't become too frustrated.
     - Bunch of sample programs
     - Loop as a hiking trail
     - Loop as a series of patterns
+- Accumulator pattern
+    - Empty shopping cart
+    - Run through loop filling up shopping cart over and over
+    - Trick of loops is to find the pattern
 - Start Grok
 
 #### Homework
 
 - TIL entry
-- Finish Grok Lesson 4
+- Finish Grok Lesson 5.2
