@@ -1,7 +1,7 @@
 from PIL import Image
 import numpy as np
 
-def image_to_emoji(image_path, max_size=26):
+def image_to_emoji(image_path, max_size=30):
     # Load the image
     img = Image.open(image_path)
 
@@ -24,7 +24,7 @@ def image_to_emoji(image_path, max_size=26):
         (255, 255, 255): "⬜",   # White
         (255, 0, 255): "🟪",     # Magenta
         (0, 0, 0): "⬛",         # Black
-        (0, 255, 255): "💙"      # Cyan (represented with a heart)
+        (0, 255, 255): "🟦"      # Cyan (represented with a heart)
     }
 
     # Function to find the nearest color
@@ -42,6 +42,6 @@ def image_to_emoji(image_path, max_size=26):
     return emoji_representation
 
 # Replace 'your_image_path.png' with the path to your image
-emoji_art = image_to_emoji('/Users/ericrizzi/Desktop/mario.png')
+emoji_art = image_to_emoji('/Users/ericrizzi/Desktop/penguin.png')
 print(emoji_art)
 
