@@ -54,3 +54,8 @@ being able to identify and exploit patterns with loops.
         - How to comment out code
         - How to exit screen
     - Go!
+
+#### Possible Extensions
+
+Use the turtle library to "draw" out an input binary string. For example, the
+string "101" would result in a 1, then a 0, then a 1 being "drawn"
