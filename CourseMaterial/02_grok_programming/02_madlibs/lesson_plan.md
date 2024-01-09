@@ -1,3 +1,11 @@
+## Essential Questions
+
+## Lesson Plan
+
+### Setup
+
+### Actual Lesson
+
 - Review
     - Grok stuff
         - 5 * "4"
@@ -35,7 +43,12 @@
 - Break
 - Grok
 
-Homework
+#### Homework
 
 - TIL entry
 - Finish lesson 1
+
+#### Extensions
+
+- ASCII art
+    - https://projects.raspberrypi.org/en/projects/about-me/6
