@@ -4,6 +4,12 @@
 
 ## Lesson Plan
 
+### Setup
+
+`EmojiPics Worksheet` in a GoogleDoc posted to Schoology
+
+### Actual Lesson
+
 - Quiz on Grok lessons up to 5.2
 - Start groking after this
     - Should be starting lesson 5.3 (accumulators)
@@ -33,3 +39,7 @@
 ### Homework
 
 TIL entry
+
+### Resouces
+
+- https://docs.google.com/document/d/1eRyqf4Wh6QenNvJX7IhwrWWl2eKnvaMdclrB-PerWaM
