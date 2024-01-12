@@ -35,6 +35,10 @@
     - Go!
 - About half way through pull them back for a quick refresher on grayscale and RGB
 - Go again!
+- Cool final trick
+    - Copy B/W data into a text file
+    - Shrink so that 2's are all lined up on right edge: Can see figure
+    - If then Make it so every other 2 is lined up on edge: Can see figure twice!
 
 ### Homework
 
