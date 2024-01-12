@@ -2,7 +2,7 @@
 
 1. Create a function that takes three integers as inputs and returns their sum. Then, call the function with the numbers 1, 6, 8 and print the result.
 
-2. What does the following program print out?
+2. Manually trace through the following program. What does it print out?
     ```python
     word = "cow"
     acc = ""
@@ -32,6 +32,9 @@
 6. Explain why functions are so important in Computer Science.
 
 # Answers
+# On
+# Next
+# Page
 
 1. Code:
 
@@ -67,8 +70,8 @@ print(acc)
 5. Pieces of the function:
     - The word that denotes a function is being created: `def`
     - The name of the function: `say_hi`
-    - The number of inputs to the function and their types: One and it's an integer
-    - What the function returns and its type: It returns a string that says "hi NAME"
+    - The number of inputs to the function and their types: One and it's an int
+    - What the function returns and its type: It returns a string that says `"hi NAME"`
     - The function call: `say_hi("Carl")`
 
-6. Functions are important for two reasons. First, they help minimize the amount of code in a program; wherever  there is repeated code, it can be put inside a function so it only needs to be written once. Second, it allows people to work together. Once person can work on the code _inside_ the function and the other can just assume the function works and call it. This allows people to split work effectively.
+6. Functions are important for two reasons. First, they help minimize the amount of code in a program; wherever there is repeated code, it can be put inside a function so it only needs to be written once. Second, it allows people to work together. Once person can work on the code _inside_ the function and the other can just assume the function works and call it. This allows people to split work effectively.
