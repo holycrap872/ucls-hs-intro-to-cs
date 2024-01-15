@@ -70,7 +70,7 @@ print(acc)
 5. Pieces of the function:
     - The word that denotes a function is being created: `def`
     - The name of the function: `say_hi`
-    - The number of inputs to the function and their types: One and it's an int
+    - The number of inputs to the function and their types: One and it's a string
     - What the function returns and its type: It returns a string that says `"hi NAME"`
     - The function call: `say_hi("Carl")`
 
