@@ -14,7 +14,7 @@ This worksheet is intended to be both a refresher on how computers represent inf
 
 Use the code below to answer the following questions and complete the required tasks.
 
-```
+```python
 def do_something_0(pixels):
     for pixel in pixels:
         if pixel == "0":
@@ -58,7 +58,7 @@ What would be a better name for the function than `do_something_0()`?
 
 >
 
-What data value would lead to a 4x4 checkerboard?
+What value of the `data` variable would lead to a 4x4 checkerboard?
 
 >
 
@@ -72,7 +72,7 @@ Alter the program so it prints out the negative of the picture (black where it w
 
 Use the code below to answer the following questions and complete the required tasks.
 
-```
+```python
 def do_something_1(pixels):
     row = ""
     for i in range(0, len(pixels), 2):
@@ -125,7 +125,7 @@ Why is resetting the accumulator via the line `row = ""` at the bottom of the fu
 
 >
 
-What data value would lead to a 2x2 checkerboard?
+What value of the `data` variable would lead to a 2x2 checkerboard?
 
 >
 
@@ -133,11 +133,11 @@ Copy the *Grayscale EmojiPic* data from the bottom of this document into the `da
 
 >
 
-Alter the program so it prints out a black border around the image. Take a screenshot of **the resulting EmojiPic** and paste it here.
+Alter the program so it prints out a red square emoji (🟥) border around the image. Take a screenshot of **the resulting EmojiPic** and paste it here.
 
-## Problem 3 (Optional: 5 bonus points on lowest grade)
+## Problem 3
 
-Now it’s your turn to write code. Your goal is to create a program that uses two (nested) for loops to print out the EmojiPic stored in the *Color EmojiPic 1* data. Each pixel in the picture is represented by a three-digit tuple that represents RGB values. For example, 101 would be magenta. The dimensions of the picture are 21x40.
+Now it’s your turn to write code. Your goal is to create a program that uses two (nested) `for` loops to print out the EmojiPic stored in the *Color EmojiPic 1* data. Each pixel in the picture is represented by a three-digit tuple that represents RGB values. For example, 101 would be magenta. The picture is 21 pixels wide and 40 pixels high.
 
 **BEFORE** you begin coding, answer the following questions:
 

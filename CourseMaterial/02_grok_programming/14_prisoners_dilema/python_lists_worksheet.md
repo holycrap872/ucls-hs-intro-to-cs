@@ -8,7 +8,7 @@ Instructions:
 
 ---
 
-This worksheet is intended to further your understanding of lists and to demonstrate how the prisoner’s dilemma works. Work through each task with the help of a partner (being sure to type/run each bit of code yourself).
+This worksheet is intended to further your understanding of lists and to demonstrate the prisoner’s dilemma game. Work through each task with the help of a partner (being sure to type/run each bit of code yourself).
 
 ## Problem 1:
 
@@ -68,7 +68,7 @@ Take a screenshot of **your code in Grok** and paste it here.
 
 Now we’re going to get started with the prisoner’s dilemma. Below is code for a two round "game" between two prisoners. Use the code to answer the following questions and complete the required tasks.
 
-```
+```python
 def prisoner_bot_0(my_choices, other_choices):
     return "cooperate"
 
@@ -86,11 +86,14 @@ for i in range(2):
   b1_choice = prisoner_bot_1(b1_choices, b0_choices)
  
   if b0_choice == "cooperate" and b1_choice == "cooperate":
-    b0_score = b0_score + 5
-    b1_score = b1_score + 5
-  else:
+    b0_score = b0_score + 3
+    b1_score = b1_score + 3
+  elif b0_choice == "defect" and b1_choice == "defect":
     b0_score = b0_score + 1
     b1_score = b1_score + 1
+  else:
+    b0_score = b0_score + 5
+    b1_score = b1_score + 0
 
   print("Rnd", i, "Bot 0:", b0_choice, "- Bot 1:", b1_choice)
   b0_choices.append(b0_choice)
@@ -170,11 +173,11 @@ Were your predictions correct? If not, what mistakes did you make?
 
 >
 
-Alter the code so the bot only cooperates for the first two rounds. What specifically did you change?
+Alter the body of the function so the bot only cooperates for the first two rounds. What specifically did you change?
 
 >
 
-Alter the code so the bot only cooperates for the first and last round. What specifically did you change?
+Alter the body of the function so the bot only cooperates for the first and last round. What specifically did you change?
 
 >
 
@@ -211,7 +214,7 @@ Were your predictions correct? If not, what mistakes did you make?
 
 >
 
-Alter the code so the bot only defects if the other bot defected **in the first round**. What specifically did you change?
+Alter the body of the function so the bot only defects if the other bot defected **in the first round**. What specifically did you change?
 
 >
 
@@ -235,7 +238,7 @@ What do you think the score will be after five rounds against the `prisoner_bot_
 
 >
 
-**NEXT**, you can begin coding. Create an entirely new function for your bot (using the name you came up with from question 2) right below the two existing prisoner bot functions. Once you’re done, run the code.
+**NEXT**, you can begin coding. Create an entirely new function for your bot (using the name you came up with from question 2) right below the two existing prisoner bot functions. Once you’re done, modify the code so you're playing against `prisoner_bot_1()`. Finally, run the code.
 
 Were your predictions correct? If not, what mistakes did you make?
 
@@ -247,9 +250,9 @@ Take a screenshot of **your bot’s code** in Grok and paste it here.
 
 Finally, we’re going to host our own tournament of bots. The rules are pretty simple: 1000 times we’re going to randomly pick two bots to "fight". We’ll sum the scores of each bot over those 1000 "fights"; the winner will be the bot with the highest overall score.
 
-Use the code below to answer the following questions and complete the required tasks.
+Use the code below to help you answer the following questions and complete the required tasks.
 
-```
+```python
 import random
 
 scores = [0, 0, 0]
@@ -273,7 +276,7 @@ What does the keyword `import` mean? What does it mean to `import random`?
 
 >
 
-The lines `b0_index = random.randint(0, 2)` and `b0_choice = bots[b0_index](b0_choices, b1_choices)` are related. What do you think they do?
+The lines `b0_index = random.randint(0, 2)` and `b0_choice = bots[b0_index](b0_choices, b1_choices)` are related - and complex. What do you think they do?
 
 >
 

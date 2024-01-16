@@ -45,4 +45,5 @@ twenty minutes or so of lecture with the remainder being a worksheet.
     - `add_one(num)`, `greet(saying, name)`
     - In each case, identify name, inputs, outputs, function call
 - Walk through `python_functions_worksheet`
+    - Note: YOU MUST RUN YOUR CODE!!!
     - Go!

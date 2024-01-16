@@ -8,7 +8,7 @@ Instructions:
 
 ---
 
-This worksheet is intended to be both an introduction to functions and to refresh your memory on what you have learned so far in python. Work through each task with the help of a partner (being sure to type/run each bit of code yourself).
+This worksheet is intended to be both an introduction to functions and to refresh your memory on what you have learned so far in Python. Work through each task with the help of a partner (being sure to type/run each bit of code yourself).
 
 ## Problem 1:
 
@@ -52,13 +52,13 @@ What would be a better name for the function than `do_something_0()`?
 
 >
 
-A line of code in the program is "unnecessary". Which one?
+One of the lines of code in the program is "unnecessary". Which one?
 
 >
 
 Modify **the body of the function** so it does multiplication rather than addition. Then, modify **the body of the function** so that if the result of the multiplication is greater than 1000, the program prints out "whoa, big number!".
 
-A "function call" is where you call/invoke the function (I do this on the second and third to last lines of the program above). Create two "function calls" of your own below my function calls. One or your function calls should result in the "whoa" being printed out and one should not. Run the code to make sure it does what you expect it to do.
+A "function call" is where you call/invoke the function (I do this on the second and third to last lines of the program above). Create two "function calls" of your own below my function calls. One of your function calls should result in the "whoa" being printed out and one should not. Run the code to make sure it does what you expect it to do.
 
 Take a screenshot of **your code in Grok** (including the changes from the previous questions) and paste it here.
 
@@ -151,15 +151,15 @@ What would be a better name for the input variable than `x`?
 
 >
 
-Alter the body of the function to make it create a triangle. What did you change?
+Alter the body of the function to make it create a triangle. What specifically did you change?
 
 >
 
-Alter the body of the function to make it create a hexagon. What did you change?
+Alter the body of the function to make it create a hexagon. What specifically did you change?
 
 >
 
-Alter the body of the function so it has another input (num_sides) that determines the number of sides a shape should have. Then, use that input to create the desired shape. For example, `make_shape(100, 8)` should make an octagon that has sides of length 100. Note: the trick is to turn 360 / num_sides at each side. Test your function with 2 calls.
+Alter the function so it has another input (`num_sides`) that determines the number of sides a shape should have. Then, alter the body of the function so it uses that input to create the desired shape. For example, `make_shape(100, 8)` should make an octagon that has sides of length 100. Note: the trick is to turn 360 / num_sides at each side. Test your function with 2 calls.
 
 Take a screenshot of **your code in Grok** and paste it here.
 
