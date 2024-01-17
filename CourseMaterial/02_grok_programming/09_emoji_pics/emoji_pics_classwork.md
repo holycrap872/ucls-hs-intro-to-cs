@@ -15,19 +15,19 @@ This worksheet is intended to be both a refresher on how computers represent inf
 Use the code below to answer the following questions and complete the required tasks.
 
 ```python
-def do_something_0(pixels):
-    for pixel in pixels:
-        if pixel == "0":
+def do_something_0(data):
+    for datum in data:
+        if datum == "0":
             print("⬛", end="")
-        elif pixel == "1":
+        elif datum == "1":
             print("⬜", end="")
-        elif pixel == "2":
+        elif datum == "2":
             print("")
         else:
             print("Unexpected value")
 
-data  = "112002"
-do_something_0(data)
+info  = "112002"
+do_something_0(info)
 ```
 
 **BEFORE** running the program, answer the following questions:

@@ -16,20 +16,20 @@ color_emoji_pic_2 = "11111111111111111111111111111111111111111111111111111111111
 
 
 # Problem 1
-def bw_decoder(pixels):
-    for pixel in pixels:
-        if pixel == "0":
+def bw_decoder(data):
+    for dataum in data:
+        if dataum == "0":
             print("⬛", end="")
-        elif pixel == "1":
+        elif dataum == "1":
             print("⬜", end="")
-        elif pixel == "2":
+        elif dataum == "2":
             print("")
         else:
             print("Unexpected value")
 
 
-data = bw_emoji_pic_2
-bw_decoder(data)
+info = bw_emoji_pic_2
+bw_decoder(info)
 
 
 # Problem 2
