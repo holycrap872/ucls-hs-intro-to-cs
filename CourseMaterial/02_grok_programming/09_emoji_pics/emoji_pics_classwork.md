@@ -36,15 +36,11 @@ How many inputs to the `do_something_0()` function are there? What is the type (
 
 >
 
-What is the output/result of the function (if any) and what is its type?
+Given what's in the `info` variable, what do you think will be printed to the screen when you run the code?
 
 >
 
 Why is the use of a "2" necessary? What is its purpose?
-
->
-
-What do you think will be printed to the screen when you run the code?
 
 >
 
@@ -58,15 +54,15 @@ What would be a better name for the function than `do_something_0()`?
 
 >
 
-What value of the `data` variable would lead to a 4x4 checkerboard?
+What value of the `info` variable would lead to a 4x4 checkerboard? Hint: `info = "101020…"`
 
 >
 
-Copy the *Black and White EmojiPic* data from the bottom of this document into the `data` variable. What picture is produced when you run the program?
+Copy the *Black and White EmojiPic* data from the bottom of this document into the `info` variable. What picture is produced when you run the program?
 
 >
 
-Alter the program so it prints out the negative of the picture (black where it was white and white where it was black). Take a screenshot of **the resulting EmojiPic** and paste it here.
+Alter the **body of the function** so it prints out the negative of the picture (black where it was white and white where it was black). Take a screenshot of **the resulting EmojiPic** and paste it here.
 
 ## Problem 2
 
@@ -89,8 +85,8 @@ def do_something_1(pixels):
             print(row)
             row = ""
 
-data =  "1122102201220022"
-do_something_1(data)
+info =  "1122102201220022"
+do_something_1(info)
 ```
 
 **BEFORE** running the program, answer the following questions:
@@ -103,11 +99,11 @@ What does the line of code `pixel = pixels[i : i + 2]` do? How does it relate to
 
 > 
 
-Why is the use of a "22" necessary rather than just a "2"?
+Given what's in the `info` variable, what do you think will be printed to the screen when you run the code?
 
 >
 
-What do you think will be printed to the screen when you run the code?
+Why is the use of a "22" necessary rather than just a "2"?
 
 >
 
@@ -125,19 +121,19 @@ Why is resetting the accumulator via the line `row = ""` at the bottom of the fu
 
 >
 
-What value of the `data` variable would lead to a 2x2 checkerboard?
+What value of the `info` variable would lead to a 2x2 black and white checkerboard (no gray)?
 
 >
 
-Copy the *Grayscale EmojiPic* data from the bottom of this document into the `data` variable. What picture is produced when you run the program?
+Copy the *Grayscale EmojiPic* data from the bottom of this document into the `info` variable. What picture is produced when you run the program?
 
 >
 
-Alter the program so it prints out a red square emoji (🟥) border around the image. Take a screenshot of **the resulting EmojiPic** and paste it here.
+Alter the **body of the function** so it prints out a red square emoji (🟥) border around the image. Take a screenshot of **the resulting EmojiPic** and paste it here.
 
 ## Problem 3
 
-Now it’s your turn to write code. Your goal is to create a program that uses two (nested) `for` loops to print out the EmojiPic stored in the *Color EmojiPic 1* data. Each pixel in the picture is represented by a three-digit tuple that represents RGB values. For example, 101 would be magenta. The picture is 21 pixels wide and 40 pixels high.
+Now it’s your turn to write code. Your goal is to create a program that uses two (nested) `for` loops to print out the EmojiPic stored in the *Color EmojiPic 1* data. Each pixel in the picture is represented by a three-digit tuple that represents RGB values. For example, 101 would be magenta. The picture is 21 pixels wide and 29 pixels high.
 
 **BEFORE** you begin coding, answer the following questions:
 

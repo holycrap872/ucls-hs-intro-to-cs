@@ -20,21 +20,18 @@
 - Classwork prep
     - Today going to do first real, interesting program
         - Going to give you the code b/c reading/understanding code most important skill
-    - What are accumulators
-    - Run through initial program in emoji pics
-        - What is it doing?
-        - Why `row = ""`
-        - What happens if we replace it with emojis?
-            - Called "mapping"
-            - Replacing one type of thing with another
-                - {"1": white, "0": black}
-            - For those at dictionaries, here's an example
-- Classwork
-    - Have them read over worksheet
-    - Walk through code and show the variables they will be "using"
-    - Go!
-- About half way through pull them back for a quick refresher on grayscale and RGB
-- Go again!
+    - Review Data Representation
+        - Text
+        - Numbers
+        - Pictures
+    - Review Pictures/colors
+        - Pictures are just a bunch of pixels
+        - Black => 0, White => 1
+        - RGB
+        - Grayscale
+- Hand out classwork
+- Go!
+    - Do all of Problem 1, Section 1 (before running the program) together
 - Cool final trick
     - Copy B/W data into a text file
     - Shrink so that 2's are all lined up on right edge: Can see figure
