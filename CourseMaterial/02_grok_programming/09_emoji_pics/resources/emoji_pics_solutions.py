@@ -55,7 +55,32 @@ grayscale_decoder(data)
 
 
 # Problem 3
-def color_decoder(pixels, width, height):
+def color_decoder_1(pixels, width, height):
+    pixel_index = 0
+    for _ in range(height):
+        for _ in range(width):
+            pixel = pixels[pixel_index : pixel_index + 3]
+            if pixel == "111":
+                print("⬜", end="")
+            elif pixel == "000":
+                print("⬛", end="")
+            elif pixel == "100":
+                print("🟥", end="")
+            elif pixel == "001":
+                print("🟦", end="")
+            elif pixel == "010":
+                print("🟩", end="")
+            elif pixel == "110":
+                print("🟨", end="")
+            elif pixel == "101":
+                print("🟪", end="")
+            elif pixel == "011":
+                print("🩵", end="")
+            pixel_index = pixel_index + 3
+        print()
+
+
+def color_decoder_2(pixels, width, height):
     for _ in range(height):
         for _ in range(width):
             pixel = pixels[0:3]
@@ -80,8 +105,8 @@ def color_decoder(pixels, width, height):
 
 
 data = color_emoji_pic_1
-color_decoder(data, 21, 40)
+color_decoder_1(data, 21, 29)
 
 # Problem 4
 data = color_emoji_pic_2
-color_decoder(data, 20, 30)
+color_decoder_2(data, 20, 30)
