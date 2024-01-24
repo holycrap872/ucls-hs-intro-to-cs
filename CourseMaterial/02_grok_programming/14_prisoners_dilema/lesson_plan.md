@@ -24,8 +24,11 @@
     - Create function stubs (aka: `prisoner_1(other_choices):`)
 - Where do we see these types of situations?
     - Abstract problem of cooperation
-    - Other ideas
+    - Other ideas?
         - Write up on board and leave them there
+        - Possible ideas if quiet:
+            - Pack animals hunting
+            - On time/late for party
 - Program together
     - Use the `prisoner_1(other_choices):` as a base
     - Explain the functions
@@ -39,5 +42,5 @@
 - Start worksheet
     - Explain that it is an encoding of this game
     - Slowly work up to building your own bot in python
-    - Will play all the big bots against eachother in an "arena"
+    - Will play all the big bots against each other in an "arena"
 - Go!
