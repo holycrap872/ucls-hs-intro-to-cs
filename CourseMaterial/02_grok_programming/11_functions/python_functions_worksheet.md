@@ -10,7 +10,7 @@ Instructions:
 
 This worksheet is intended to be both an introduction to functions and to refresh your memory on what you have learned so far in Python. Work through each task with the help of a partner (being sure to type/run each bit of code yourself).
 
-## Problem 1:
+## Problem 1
 
 Use the code below to answer the following questions and complete the required tasks.
 

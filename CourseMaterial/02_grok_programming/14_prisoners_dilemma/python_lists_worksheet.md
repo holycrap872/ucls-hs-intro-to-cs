@@ -272,7 +272,11 @@ for j in range(1000):
 
 **BEFORE** running the program, answer the following questions:
 
-What does the keyword `import` mean? What does it mean to `import random`?
+What does the keyword `import` mean?
+
+>
+
+What does it mean to `import random`?
 
 >
 
