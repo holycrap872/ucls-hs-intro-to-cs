@@ -47,3 +47,17 @@
     - Slowly work up to building your own bot in python
     - Will play all the big bots against each other in an "arena"
 - Go!
+
+### Day 2
+
+- Review
+    - Opening problem as first problem from worksheet
+    - Lists
+    - Remind them quiz next class
+        - Practice quiz will be posted
+- Go over code and explain what each piece is holding
+
+#### Things they get confused by:
+
+- What the `b0_choices` and `b1_choices` lists means?
+- Why the variables ar
