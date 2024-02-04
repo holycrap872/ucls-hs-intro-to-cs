@@ -11,22 +11,6 @@
 
 ### Actual Lesson
 
-#### Day 1
-
-- Quiz
-- Grok
-- Review quiz
-
-##### Homework
-
-- Grok Lesson 7.1
-- Stanford lecture
-    - https://youtu.be/Y0Oa4Lp5fLE?si=wP3IQ2-WXaBaQ-Z9&t=2490
-        - 41:12 to 48:43
-    - Be prepared for "reading" quiz
-
-#### Day 2
-
 - Review
 - Prisoner's dilemma debrief
     - Quick, one question quiz on Stanford's Bio lecture
@@ -41,6 +25,3 @@
 #### Homework
 
 - While loops assessment
-
-- Do quiz
-- Grok
