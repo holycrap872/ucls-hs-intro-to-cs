@@ -33,7 +33,7 @@
 # Next
 # Page
 
-1. The program prints out the list `[3, 6, 12, 24, 48]`.
+1. The program prints out the list `[3, 9, 27, 81, 243]`.
 
 2. Code:
 
