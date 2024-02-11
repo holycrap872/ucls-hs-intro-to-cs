@@ -11,17 +11,27 @@
 
 ### Actual Lesson
 
+- Quick, one question quiz on Stanford's Bio lecture
+    - "What is the optimal strategy"
 - Review
-- Prisoner's dilemma debrief
-    - Quick, one question quiz on Stanford's Bio lecture
-        - "What is the optimal strategy"
-    - Talk about lecture
-    - Do big tournament of all bots
-        - Explain how similar to biology
-        - Winner gets candy
+    - Prisoner's dilemma debrief
+        - Do big tournament of all bots
+            - Winner gets candy
+        - Talk about lecture
+            - Why is this question important in biology?
+            - Why is tit-for-tat a good strategy
+                - Eye for an eye
+                - Turn the other cheek
+            - How drive to extinction?
 - While loops lecture
+    - Real life while loops
+    - difference between `for` and `while`
+        - Convert various `for` loops to `while` loops
+        - Convert various `while` loops to `for` loops
+    - `==` vs `!=`
 - Grok
 
 #### Homework
 
-- While loops assessment
+- TIL Entry
+- Finish through Grok 7.3
