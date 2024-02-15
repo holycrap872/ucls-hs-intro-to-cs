@@ -11,8 +11,8 @@
 
 ### Actual Lesson
 
-- Quick, one question quiz on Stanford's Bio lecture
-    - "What is the optimal strategy"
+- Quick, one question quiz on Prisoner's Dilemma "reading"
+    - "What is the optimal strategy" -> "tit-for-tat"
 - Review
     - Prisoner's dilemma debrief
         - Do big tournament of all bots
