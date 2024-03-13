@@ -16,8 +16,11 @@
 ### Actual Lesson
 
 - Review
-    - Debugging
-    - Breakpoints
+    - Lightbot
+    - Recursion
+        - Lightbot calls it loops, but actually recursion
+    - Functions
+    - Python functions
 - Today going to go back to talking about fractals
     - Talked about it at the beginning of class
     - Let's see who remembers
