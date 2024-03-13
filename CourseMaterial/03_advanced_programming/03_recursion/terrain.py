@@ -1,7 +1,45 @@
-import pygame
 import random
 
-def diamond_square(size, roughness):
+import pygame
+
+
+def diamond_square_helper(arr, size, roughness):
+    half = size // 2
+    if half == 0:
+        return
+
+    for y in range(half, len(arr) - 1, size):
+        for x in range(half, len(arr[0]) - 1, size):
+            # Diamond step
+            avg = (
+                arr[y - half][x - half] + arr[y - half][x + half] + arr[y + half][x - half] + arr[y + half][x + half]
+            ) / 4.0
+            arr[y][x] = avg + random.uniform(-roughness, roughness)
+
+    for y in range(0, len(arr), half):
+        for x in range((y + half) % size, len(arr[0]), size):
+            # Square step
+            avg = arr[(y - half) % (len(arr) - 1)][x] + arr[(y + half) % (len(arr) - 1)][x]
+            count = 2
+            if x - half >= 0:
+                avg += arr[y][(x - half) % (len(arr[0]) - 1)]
+                count += 1
+            if x + half < len(arr[0]):
+                avg += arr[y][(x + half) % (len(arr[0]) - 1)]
+                count += 1
+            arr[y][x] = avg / count + random.uniform(-half, half) * roughness
+
+    diamond_square_helper(arr, size // 2, roughness / 2)
+
+
+def diamond_square_recursive(size, roughness):
+    arr = [[0 for _ in range(size)] for _ in range(size)]
+    arr[0][0] = arr[0][size - 1] = arr[size - 1][0] = arr[size - 1][size - 1] = size
+    diamond_square_helper(arr, size - 1, roughness)
+    return arr
+
+
+def diamond_square_iterative(size, roughness):
     # Initialize the 2D array with zeros
     arr = [[0 for _ in range(size + 1)] for _ in range(size + 1)]
 
@@ -42,7 +80,8 @@ def diamond_square(size, roughness):
 
     return arr
 
-def render_landscape(screen, landscape):
+
+def render_landscape(screen: pygame.Surface, landscape: list[list[int]]):
     sky_color = (135, 206, 235)  # Blue sky
     screen.fill(sky_color)
 
@@ -51,7 +90,8 @@ def render_landscape(screen, landscape):
 
     for y in range(len(landscape)):
         # Generate points for the mountain polygon
-        points = [(0, screen.get_height())]  # Start at bottom left
+        points = []
+        points.append((0, screen.get_height()))  # Start at bottom left
         for x, height in enumerate(landscape[y]):
             # Convert height to a vertical position
             height = int(height * height_factor)
@@ -60,8 +100,9 @@ def render_landscape(screen, landscape):
         points.append((screen.get_width(), screen.get_height()))  # End at bottom right
 
         # Draw the mountain polygon
-        color = (0, 10 + (y // 5), 0)
+        color = (0, 0 + (y // 5), 0)
         pygame.draw.polygon(screen, color, points)
+
 
 def main():
     pygame.init()
@@ -70,7 +111,8 @@ def main():
     screen = pygame.display.set_mode((size, size))
     pygame.display.set_caption("Mountain Landscape")
 
-    landscape = diamond_square(size - 1, roughness=100)
+    # landscape = diamond_square_iterative(size - 1, 100)  # Adjust roughness as desired
+    landscape = diamond_square_recursive(size, 100)  # Adjust roughness as desired
 
     running = True
     while running:
@@ -83,6 +125,6 @@ def main():
 
     pygame.quit()
 
+
 if __name__ == "__main__":
     main()
-
