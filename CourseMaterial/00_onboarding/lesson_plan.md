@@ -21,7 +21,7 @@ Getting to know you sheet printed out
         - Who's heard of recursion?
         - Define it
         - Can help art
-            - Show sierpinksi triangle and explain it
+            - Show Sierpinski triangle and explain it
             - Show picture of a tree
             - Go to https://codepen.io/hippiefuturist/full/NRWOxM
                 - Make sure branches recursive levels are initially set to 0
