@@ -1,0 +1,3 @@
+- Set breakpoints at particular spots
+- Debug simple to hard problems
+- Requires `vscode`
