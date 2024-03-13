@@ -33,7 +33,9 @@ an add-on worksheet at the end.
         - 0
     - Have them count up from 0 - 16
         - Can anyone see the patterns
+        - https://youtu.be/v83Uvg_ySK8?si=v3vHeVW9aANa8eal&t=8
         - https://studio.code.org/s/odometer/lessons/1/levels/1
+        - https://www.youtube.com/watch?v=vf4_i-sBebU
     - Two on board problems
         - decimal -> binary
         - binary -> decimal
