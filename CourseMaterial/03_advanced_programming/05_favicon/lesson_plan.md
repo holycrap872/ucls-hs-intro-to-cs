@@ -40,6 +40,12 @@
 
 ### Day 2
 
+#### Setup
+
+- https://studio.code.org/s/pixelation/lessons/5/levels/1 open
+
+#### Actual Lesson
+
 - Review
     - Bitmaps
     - Colors
@@ -56,7 +62,7 @@
     - Favicon due ...
 - Any questions?
 
-#### Code.org PokeBall Image Data
+#### Code.org Image Data
 
 ```
 10
