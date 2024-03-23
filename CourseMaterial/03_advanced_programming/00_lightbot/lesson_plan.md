@@ -1,5 +1,8 @@
 ## Essential Questions
 
+- How do functions actually work?
+- What is the "function call stack"?
+
 ## Lesson Plan
 
 ### Setup
@@ -15,6 +18,10 @@
     - Functions
         - What are they?
         - Why are they so powerful?
+- Function call stack
+    - Program pauses and waits for answer from function
+    - Give example
+    - Walk through a visual where the calling code pauses while the function completes
 - Today starting advanced python unit with a game
     - Lightbot
         - Available on Macs, IPhones, and Android

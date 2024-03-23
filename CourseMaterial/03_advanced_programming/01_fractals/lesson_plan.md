@@ -21,6 +21,9 @@
         - Lightbot calls it loops, but actually recursion
     - Functions
     - Python functions
+- Lightbot level with turtles
+    - Do staircase level with turtle
+    - See `example/turtle_recursion.py`
 - Today going to go back to talking about fractals
     - Talked about it at the beginning of class
     - Let's see who remembers
