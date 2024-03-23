@@ -42,12 +42,21 @@ TARGET_SQUARE_COORD_DICT = {
 
 FILE_NAME_KEY = "filename"
 TARGET_LIST_KEY = "target_list"
+SPEED_KEY = "speed"
 
 
-def init_maze(background_path: str, x: int, y: int) -> None:
+def __handle_speed():
+    speed: int = CONFIG_DICT[SPEED_KEY]
+    if speed != 0:
+        wait = (6 - speed) * 0.1
+        time.sleep(wait)
+
+
+def init_maze(background_path: str, *, x: int, y: int, speed: int) -> None:
     file_name = os.path.basename(background_path)
     CONFIG_DICT[FILE_NAME_KEY] = file_name
     CONFIG_DICT[TARGET_LIST_KEY] = TARGET_SQUARE_COORD_DICT[file_name].copy()
+    CONFIG_DICT[SPEED_KEY] = speed
 
     turtle.bgpic(background_path)
 
@@ -58,11 +67,11 @@ def init_maze(background_path: str, x: int, y: int) -> None:
     turtle.setheading(0)
     turtle.pendown()
     turtle.pencolor("red")
-    turtle.speed(5)
+    turtle.speed(speed)
 
 
 def forward(num_pixels: int) -> None:
-    time.sleep(0.5)
+    __handle_speed()
     turtle.forward(num_pixels)
 
     target_coord_list: typing.List[SquareCoord] = CONFIG_DICT[TARGET_LIST_KEY]
@@ -79,12 +88,12 @@ def forward(num_pixels: int) -> None:
 
 
 def left(degrees: int) -> None:
-    time.sleep(0.5)
+    __handle_speed()
     turtle.left(degrees)
 
 
 def right(degrees: int) -> None:
-    time.sleep(0.5)
+    __handle_speed()
     turtle.right(degrees)
 
 

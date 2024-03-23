@@ -4,7 +4,7 @@ from turtle_wrapper import *
 
 # load the appropriate image
 def solve_maze_0() -> None:
-    init_maze("CourseMaterial/03_advanced_programming/07_python_mazes/examples/maze_0.png", -60, 170)
+    init_maze("CourseMaterial/03_advanced_programming/07_python_mazes/examples/maze_0.png", x=-60, y=170, speed=0)
 
     # write your code below
     forward(100)
@@ -14,9 +14,6 @@ def solve_maze_0() -> None:
     forward(50)
     left(90)
     forward(130)
-
-    # press enter in the Terminal to exit the program
-    input("Press enter when done")
 
 
 def do_swoosh():
@@ -29,26 +26,21 @@ def do_swoosh():
 
 
 def solve_maze_1() -> None:
-    init_maze("CourseMaterial/03_advanced_programming/07_python_mazes/examples/maze_1.png", -400, -160)
+    init_maze("CourseMaterial/03_advanced_programming/07_python_mazes/examples/maze_1.png", x=-400, y=-160, speed=0)
 
     # write your code below
     forward(-20)
     for i in range(5):
         do_swoosh()
 
-    # press enter in the Terminal to exit the program
-    input("Press enter when done")
-
 
 def solve_maze_2() -> None:
-    init_maze("CourseMaterial/03_advanced_programming/07_python_mazes/examples/maze_2.png", -130, -80)
+    init_maze("CourseMaterial/03_advanced_programming/07_python_mazes/examples/maze_2.png", x=-130, y=-80, speed=5)
 
     while True:
         forward(53)
         if on_red():
             left(90)
-
-    input("Press enter when done")
 
 
 if __name__ == "__main__":
