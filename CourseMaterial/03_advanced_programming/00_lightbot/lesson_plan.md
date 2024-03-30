@@ -7,6 +7,9 @@
 
 ### Setup
 
+- Robozzle worksheet
+    - https://docs.google.com/document/d/1geA35sBsmh0JVb86Vq6VlK-M6cPrrpXxdgqqpOUq6Yc
+    - Until switch over to LightBot
 - LightBot installed on all computers
 
 ### Actual Lesson
