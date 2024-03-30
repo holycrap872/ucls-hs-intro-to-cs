@@ -95,24 +95,24 @@ def render_landscape(screen: pygame.Surface, landscape: list[list[int]]):
         for x, height in enumerate(landscape[y]):
             # Convert height to a vertical position
             height = int(height * height_factor)
-            mod_height = screen.get_height() - (height + 350)
+            mod_height = screen.get_height() - (height + 250)
             points.append((x, mod_height))
         points.append((screen.get_width(), screen.get_height()))  # End at bottom right
 
         # Draw the mountain polygon
-        color = (0, 0 + (y // 5), 0)
+        color = (0, 0 + (y // 3), 0)
         pygame.draw.polygon(screen, color, points)
 
 
 def main():
     pygame.init()
 
-    size = 1025  # Must be 2^n + 1 for the algorithm
+    size = 513  # Must be 2^n + 1 for the algorithm
     screen = pygame.display.set_mode((size, size))
     pygame.display.set_caption("Mountain Landscape")
 
-    # landscape = diamond_square_iterative(size - 1, 100)  # Adjust roughness as desired
-    landscape = diamond_square_recursive(size, 100)  # Adjust roughness as desired
+    landscape = diamond_square_iterative(size - 1, 100)  # Adjust roughness as desired
+    # landscape = diamond_square_recursive(size, 100)  # Adjust roughness as desired
 
     running = True
     while running:
