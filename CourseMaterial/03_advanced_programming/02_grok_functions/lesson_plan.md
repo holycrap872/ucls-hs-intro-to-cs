@@ -20,10 +20,15 @@
 - Today going to do Grok's functions
     - Should _mostly_ be a review
     - Still read background information carefully
+        - Pay particular attention to how `return` works
+        - What does it mean when there's no `return`, vs `return`, vs `return x`?
     - Lot of use of the `replace()` function
         - How does it work?
         - Create simple "replace single character" replace as a class
         - Real one is more complex
+    - Walk through what Grok wants
+        - Particular function signature (must be name they want)
+        - NO `print()` (remove function calls after you test your own code)
 - Go!
 
 #### Homework
