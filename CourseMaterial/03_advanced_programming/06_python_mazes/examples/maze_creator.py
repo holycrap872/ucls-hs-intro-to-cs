@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 import turtle
 
-from turtle_levels import LEVEL_0, get_color
+from turtle_levels import LEVEL_0, LEVEL_1, LEVEL_2, LEVEL_3, get_color
 
 
 def draw_box(t: turtle.Turtle, color: str) -> None:
@@ -52,4 +52,4 @@ def draw_level(level: list[list[str]]) -> None:
     screen.mainloop()
 
 
-draw_level(LEVEL_0)
+draw_level(LEVEL_1)

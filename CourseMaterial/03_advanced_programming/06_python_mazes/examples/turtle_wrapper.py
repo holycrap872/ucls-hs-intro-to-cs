@@ -21,7 +21,7 @@ def __handle_speed():
         time.sleep(wait)
 
 
-def _get_color(x: int, y: int) -> typing.Optional[str]:
+def sample_color(x: int, y: int) -> typing.Optional[str]:
     file_name = CONFIG_DICT[FILE_NAME_KEY]
     level_data = FILE_TO_LEVEL_MAP[file_name]
 
@@ -62,6 +62,7 @@ def init_maze(background_path: str, *, x: int, y: int, speed: int) -> None:
     turtle.goto(x, y)
     turtle.setheading(0)
     turtle.pendown()
+    turtle.pensize(5)
     turtle.pencolor("red")
     turtle.speed(speed)
 
@@ -81,8 +82,24 @@ def right(degrees: int) -> None:
     turtle.right(degrees)
 
 
-def on_red() -> bool:
+def _on_color(color: str) -> bool:
     assert FILE_NAME_KEY in CONFIG_DICT
 
     x, y = turtle.pos()
-    return _get_color(int(x), int(y)) == "red"
+    return sample_color(int(x), int(y)) == color
+
+
+def on_red() -> bool:
+    return _on_color("red")
+
+
+def on_green() -> bool:
+    return _on_color("green")
+
+
+def on_blue() -> bool:
+    return _on_color("blue")
+
+
+def on_yellow() -> bool:
+    return _on_color("yellow")
