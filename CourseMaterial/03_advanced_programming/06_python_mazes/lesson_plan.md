@@ -14,7 +14,8 @@ Solve bunch of mazes/logic puzzles
 Final is to create own puzzle and share with someone else
 Provide functions that can help them
 
-https://docs.google.com/presentation/d/1uyNuS4S4Ia9tmAEIopm5pkICCM7P_Pzi7kfYR4t_-Og
+https://docs.google.com/document/d/1fekLawCFuocIC7UNs41wR1hAvdX_QMzMMIOz599dnUU/edit?usp=sharing
+https://github.com/holycrap872/turbozzle
 
 
 Rules:
