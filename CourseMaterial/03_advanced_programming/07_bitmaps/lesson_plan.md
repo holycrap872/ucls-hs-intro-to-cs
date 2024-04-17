@@ -1,13 +1,30 @@
+## Essential Questions
+
+- What properties do files need in order to be run by computers?
+- What are Bitmaps are what kind of data do they store?
+
+## Lesson Plan
+
 ### Setup
 
-- `simple.bmp` on the desktop of every computer
-- A backup called `.simple.bmp` on the desktop of every computer
+- `simple.bmp` loaded up on Schoology
+- BitMap worksheet loaded up on Schoology
+    - https://docs.google.com/document/d/1l6cYOHgc4svrhHIA_bq6oGIQXa7OGLsPTTuATS6NgbE
 
 ### Actual Lesson
 
 - Review
+    - vscode
+    - Turbozzle
+    - Functions
+- Today, going way back to pictures
+    - What do we remember about pictures?
     - BitPic data
+        - 1-bit pictures
+        - 1, 0 -> black/white
     - EmojiPic data
+        - 3-bit pictures
+        - RGB, YCM, WB
 - BitMaps
     - Real file format
     - Uncompressed
