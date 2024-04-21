@@ -53,7 +53,7 @@
 
 #### Homework
 
-- None
+- TIL entry on what "metadata" in a file is used for
 
 ### Day 2
 
