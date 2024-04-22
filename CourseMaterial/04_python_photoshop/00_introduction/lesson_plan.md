@@ -8,7 +8,9 @@
 ### Setup
 
 - `PythoShop.zip` loaded up into Schoology
-- First two Assignments loaded up in Schoology
+    - Built version of https://github.com/dwheadon/PythoShop/tree/bmp
+    - See README.md for build instructions
+- First two assignments loaded up in Schoology
     - Introduction
     - Change a Pixel
 
