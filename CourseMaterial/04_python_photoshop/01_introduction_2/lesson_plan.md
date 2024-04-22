@@ -7,9 +7,6 @@
 
 ### Setup
 
-- `PythoShop.zip` loaded up into Schoology
-    - Built version of https://github.com/dwheadon/PythoShop/tree/bmp
-    - See README.md for build instructions
 - Third assignment loaded up in Schoology
     - Changing multiple pixels
 
@@ -19,9 +16,10 @@
     - PythoShop
     - Tools vs. Filters
     - Helper functions
+    - How to run PythoShop
 - Class tool
     - Create a class tool to create an x wherever the user clicks
-    - Why a filter and not a tool?
+    - Why a tool and not a filter?
     - Figure it out together
 - Minutia
     - Testing
@@ -37,3 +35,7 @@
 - Show assignment
     - Talk through
 - Go!
+
+### Homework
+
+- TIL entry on topic of your choice
