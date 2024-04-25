@@ -28,7 +28,7 @@
         - Eventually move to GoogleDrive so I can auto-grade everything
     - Cheating
         - Will get caught
-        - Variable changes get caught by abstract sytax trees
+        - Variable changes get caught by abstract syntax trees
         - Honestly a little hard to detect in the beginning with small programs
         - People always get caught at the end when functions get harder
         - Just work hard in class and won't have to worry about it
