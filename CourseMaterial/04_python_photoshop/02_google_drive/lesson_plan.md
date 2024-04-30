@@ -3,7 +3,18 @@
 ### Setup
 
 - Have `reflective_symmetry` tool coded and ready to go
-    - Symmetry around the origin
+    ```
+    @export_tool
+    def do_something(image, clicked_coordinate, color, **kwargs):
+        height = get_height(image) - 1
+        width = get_width(image) - 1
+        x, y = clicked_coordinate
+        set_pixel_rgb(image, (x, y), color)
+        set_pixel_rgb(image, (width - x, y), color)
+        set_pixel_rgb(image, (x, height - y), color)
+        set_pixel_rgb(image, (width - x, height - y), color)
+
+    ```
 - Fourth assignment loaded up in Schoology
     - Drawing lines
 
@@ -17,6 +28,7 @@
 - Loops in PythoShop
     - Why loops useful?
     - Create a border filter as a class
+        - First do one pixel border than multi-pixel border
 - Start assignment
 - Before end of class, have students:
     - Create GoogleDrive folder via website
