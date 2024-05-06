@@ -11,8 +11,8 @@
     - Built version of https://github.com/dwheadon/PythoShop/tree/bmp
     - See README.md for build instructions
 - First two assignments loaded up in Schoology
-    - Introduction
-    - Change a Pixel
+    - `00_introducing_pythoshop`
+    - `01_change_a_pixel`
 
 ### Actual Lesson
 
@@ -25,7 +25,7 @@
     - Editing images
     - Use everything you know so far: loops, conditionals, libraries, functions, etc
 - PythoShop walkthrough
-    - Pay attention, bad if miss something now
+    - Pay attention: bad if miss something now
     - Basic project setup 
         - Only will ever change `image_manip.py`
         - How to run
@@ -45,7 +45,6 @@
     - Get lab computer set up
     - Go on assignment
 
-### Whole-class Extension
+### Homework
 
-- Reflective symmetry
-    (x, y) | (width - x, y) | (x, height - y) | (width - x, height - y)
+- Finish both assignments (if didn't finish in class)

@@ -1,3 +1,8 @@
+## Essential Questions
+
+- How can I use python to edit images?
+- How do I effectively share my work with myself and others?
+
 ## Lesson Plan
 
 ### Setup
@@ -21,10 +26,10 @@
 ### Actual Lesson
 
 - Review
+    - PRIMM of `reflective_symmetry`
     - How to run
     - Tools vs. filters
     - Set/get pixel
-    - PRIMM of `reflective_symmetry`
 - Loops in PythoShop
     - Why loops useful?
     - Create a border filter as a class
@@ -36,5 +41,9 @@
     - Close out out `vscode`
     - Log into GoogleDrive on Desktop/laptop
     - Navigate to new folder in GoogleDrive
-    - Drag PythoShop to GoogleDrive folder
+    - Drag `PythoShop` to GoogleDrive folder
     - Reopen `vscode` from that location 
+
+### Homework
+
+- None
