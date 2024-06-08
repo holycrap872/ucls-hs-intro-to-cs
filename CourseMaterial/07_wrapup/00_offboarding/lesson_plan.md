@@ -18,17 +18,14 @@
     - Loops
 - Last class of the year... time to reflect
     - Goal of reflection is to solidify knowledge and improve
-- Programming debrief
-    - What was easy?
-    - What was hard?
-    - What is useful for the future, and what isn't?
-- Reflect on various lessons
+- Reflect on various topics covered
     - Things learned:
-        - Bits, bytes, ASII, pictures
-        - Ascii Scavenger hunt
+        - Bits, bytes
+        - ASCII Scavenger hunt
+        - Pictures
         - Grok
-        - Turtles
         - Madlibs
+        - Turtles
         - EmojiPics
         - Prisoner's dilemma
         - Recursion
@@ -38,6 +35,10 @@
         - Turbozzle
         - PythoShop
     - What was the point of each of these?
+- Programming debrief
+    - What was easy?
+    - What was hard?
+    - What is useful for the future, and what isn't?
 - Why I love programming
     - Force you to understand ideas
     - Work with others
