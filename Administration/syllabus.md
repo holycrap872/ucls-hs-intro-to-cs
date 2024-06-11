@@ -1,10 +1,9 @@
 # Introduction to Computer Science
 
-This yearlong course aims to more deeply explore what computers are and how they
-work. Students will learn why computers must use zeros and ones, how this can be
-used to represent different kinds of data, and how that data can be stored,
-transmitted and manipulated by algorithms / computer code. This half-credit
-course will meet throughout the entire year but only for two days each week.
+This half-credit, year-long course aims to more deeply explore what computers
+are and how they work. Students will learn why computers must use zeros and
+ones, how this can be used to represent different kinds of data, and how that
+data can be stored, transmitted, and manipulated by algorithms / computer code.
 
 ## Learning Objectives
 
@@ -98,13 +97,13 @@ future work will build on previously covered concepts.
 Units will be weighted according to the amount of time that we spend on them,
 and unit grades will be broken down into the following categories:
 
-- Classwork: 20%
+- Classwork: 30%
 - Homework: 20%
 - Quizzes: 20%
-- Exams: 40%
+- Exams: 30%
 
-Grades for assignments will be posted on Schoology. You can expect to get a
-progress report at the end of each unit.
+Grades for assignments will be posted on Schoology. Your current grade within
+the class will always be available to you.
 
 ## Time Expectations
 
@@ -121,11 +120,12 @@ The time required to cover the various units in this course may vary but this is
 the general sequence and approximate length of the topics we will cover.
 Students can expect an assessment at the end of each of these units:
 
-- Digital representation of numbers and text (5 weeks)
-- Introduction to programming (8 weeks)
-- Digital representation of images (4 weeks)
-- Image processing project (8 weeks)
-- Efficient storage and transmission of data (5 weeks)
+- Digital representation of numbers and text (4 weeks)
+- Introduction to programming (7 weeks)
+- Programming in practice (7 weeks)
+- Fractals and Recursion (4 weeks)
+- Image processing project (7 weeks)
+- Efficient storage and transmission of data (1 week)
 
 ## Academic Integrity Policy
 
@@ -167,4 +167,3 @@ after 7am.
 
 If you miss a class, you should review the materials on Schoology and follow up
 with me if there’s anything there that you don’t understand.
-
