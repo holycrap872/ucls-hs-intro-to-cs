@@ -114,19 +114,6 @@ With programming, it is very easy to get stuck. You are advised to start early
 on assignments so that if you do get stuck, you will be able to take advantage
 of the many times that I am available for appointments.
 
-## Course Scope & Sequence and/or Course Calendar
-
-The time required to cover the various units in this course may vary but this is
-the general sequence and approximate length of the topics we will cover.
-Students can expect an assessment at the end of each of these units:
-
-- Digital representation of numbers and text (4 weeks)
-- Introduction to programming (7 weeks)
-- Programming in practice (7 weeks)
-- Fractals and Recursion (4 weeks)
-- Image processing project (7 weeks)
-- Efficient storage and transmission of data (1 week)
-
 ## Academic Integrity Policy
 
 You are encouraged to work together with your fellow classmates during class

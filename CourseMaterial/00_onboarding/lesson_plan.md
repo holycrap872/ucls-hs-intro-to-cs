@@ -1,21 +1,42 @@
+## Essential Questions
+
+- What are the topics covered by the course?
+- What are the expectations of the class?
+
 ## Lesson Plan
 
 ### Setup
 
-Getting to know you sheet printed out
+- 2x photo rosters printed out
+    - One for attendance
+    - One for "emergency book"
+- `initial_questionnaire.docx` printed out
 
 ### Actual Lesson
 
-- Introduce self
-    - AWS spiel
-    - Show website stuff
-- Get everyone's name
-- Explain goal of course
-- Go through syllabus and course description
-    - Read various important questions
-    - Walk through to class
+- Introduction
+    - Get everyone's name
+    - Introduce self
+        - AWS spiel
+        - Show website stuff
+- Explain goals of course
+    - Independence, confidence, thinking of computers as a tool
+- Syllabus
+    - Talk through syllabus
+        - Emphasize if need help, come find me
+        - 9th graders need to show independence
+    - Things understand
+    - Things don't understand
+- Course overview
+    - Walk-through of class
     - Any questions?
+- Reiterate goals of course
 - Explain homework
+    - Sign up for appointment with me via Google Calendar
+    - Prove that you can make appointment
+    - Prove that you can find me
+    - Note: Not an actual 15m meeting, a lot of student's get confused by this
+- Field trip to CS office
 - If have time:
     - Recursion:
         - Who's heard of recursion?
@@ -28,7 +49,8 @@ Getting to know you sheet printed out
             - Infinite fern
                 - https://youtu.be/Zh4oVYty61M?si=34V-WuqAFQC64uN2
 - Distribute "getting to know you" sheet
+    - `initial_questionnaire.docx`
 
 ### Homework
 
-- Sign up with instructor
+- Make appointment with instructor
