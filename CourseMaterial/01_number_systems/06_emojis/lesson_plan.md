@@ -6,28 +6,39 @@
 
 ### Setup
 
-Sublime Text installed on computers
-`emoji_classwork.docx` printed out
+- Sublime Text installed on computers
+- `emoji_classwork` GoogleDoc printed out
+    - https://docs.google.com/document/d/10esTMQ7dVPqxuLoiB1pYsntUwUWHYAAu8rS1RyC4kWs
+    - Printed b/c they're sketching
 
 ### Actual Lesson
 
 - Reflection
     - Bits, Binary, ASCII
     - Standards
-- Demonstrate with an emoji via Sublime
+- Emoji Riddles
+- Today going to explore how emojis are encoded
+- Open up HexFiend and show what it can do
     - Save empty file to the desktop
-    - Insert the emoji in unicode mode
-        - cmd-ctrl-space gets you the emoji panel
-    - Reopen in hex mode
-    - Reemphasize
-        - Make sure you know what mode you're in
-        - Save to the desktop
-        - DONT use capital letters with sublime text
+    - Why can't I do 0x0g?
+    - Why can HexFiend open any file?
+- Put TextEdit and HexFiend side by side
+    - Put HexFiend in "reload unmodified" mode
+        - `Edit` -> `Reload Unmodified`
+- Demo
+    - Put an emoji into TextEdit
+    - Alter emoji in HexFiend
+- Reemphasize
+    - Make sure you know what mode you're in
+    - Save to the desktop
+        - DON'T use capital letters with sublime text
     - Show some student's emoji riddles on the board
-    - To end, emphasize that 1's and 0's don't mean anything until interpretted
+    - To end, emphasize that 1's and 0's don't mean anything until interpreted
+- Hand out worksheet
+    - Any questions?
+    - Go!
+- Reflection
 
 ## Resources
 
-https://www.youtube.com/watch?v=MijmeoH9LT4&pp=ygUVY29tcHV0ZXJwaGlsZSB1bmljb2Rl
-
-
+- https://www.youtube.com/watch?v=MijmeoH9LT4&pp=ygUVY29tcHV0ZXJwaGlsZSB1bmljb2Rl
