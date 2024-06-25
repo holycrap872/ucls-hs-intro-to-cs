@@ -46,8 +46,6 @@
             - Show picture of a tree
             - Go to https://codepen.io/hippiefuturist/full/NRWOxM
                 - Make sure branches recursive levels are initially set to 0
-            - Infinite fern
-                - https://youtu.be/Zh4oVYty61M?si=34V-WuqAFQC64uN2
 - Distribute "getting to know you" sheet
     - `initial_questionnaire.docx`
 

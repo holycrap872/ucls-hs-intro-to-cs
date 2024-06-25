@@ -11,7 +11,8 @@ an add-on worksheet at the end.
 
 ### Setup
 
-16, 8, 4, 2, 1 dot pages
+- 16, 8, 4, 2, 1 dot pages
+- Youtube videos loaded up
 
 ### Lesson Plan
 
