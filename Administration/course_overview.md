@@ -13,6 +13,7 @@
 - How do computers represent and store different types of information?
 - Why are different number systems used in computing, and what are their advantages?
 - How does the encoding of data affect its storage and transmission?
+- How do standards enable communication?
 
 #### Formative Assessments:
 
