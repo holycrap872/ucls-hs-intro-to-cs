@@ -8,8 +8,8 @@
 
 - Sublime Text installed on computers
 - `emoji_classwork` GoogleDoc printed out
-    - https://docs.google.com/document/d/10esTMQ7dVPqxuLoiB1pYsntUwUWHYAAu8rS1RyC4kWs
     - Printed b/c they're sketching
+    - https://docs.google.com/document/d/10esTMQ7dVPqxuLoiB1pYsntUwUWHYAAu8rS1RyC4kWs
 
 ### Actual Lesson
 
