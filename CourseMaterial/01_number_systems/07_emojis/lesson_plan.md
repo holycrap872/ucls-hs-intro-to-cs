@@ -6,7 +6,7 @@
 
 ### Setup
 
-- Sublime Text installed on computers
+- HexFiend installed on computers
 - `emoji_classwork` GoogleDoc printed out
     - Printed b/c they're sketching
     - https://docs.google.com/document/d/10esTMQ7dVPqxuLoiB1pYsntUwUWHYAAu8rS1RyC4kWs
@@ -38,6 +38,14 @@
     - Any questions?
     - Go!
 - Reflection
+    - https://www.unicode.org/emoji/proposals.html 
+    - https://www.unicode.org/alloc/Pipeline.html
+    - Why is unicode consortium necessary?
+    - What happens when an emoji is "approved"
+    - Skin colors
+        - Just put a bunch of extra stuff after the base yellow person
+    - What happens when send an emoji to your friend on your phone with a different OS?
+        - https://www.helloleads.io/blog/wp-content/uploads/2020/07/examples-that-appear-in-different-platforms-1024x806.png
 
 ## Resources
 
