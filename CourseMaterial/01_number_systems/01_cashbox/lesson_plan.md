@@ -8,7 +8,9 @@
 ### Setup
 
 - POGIL Roles printed out
-- `cashboxes_classwork.docx` printed out
+- `cashboxes_classwork` GoogleDoc printed out
+    - Printed b/c they're sketching
+    - https://docs.google.com/document/d/1esNFXNXknUZ8u6ecfAX23CCBElGLJUJnZ275CTJN3lY
 - YouTube videos loaded up:
     - Infinite fern: https://youtu.be/Zh4oVYty61M?si=34V-WuqAFQC64uN2
 
