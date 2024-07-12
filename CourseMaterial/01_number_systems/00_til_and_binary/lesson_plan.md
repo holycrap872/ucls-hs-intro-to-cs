@@ -1,26 +1,39 @@
 ## Essential Questions:
 
-- How do computers store and represent certain types of information?
 - How do I solidify my understanding of difficult material?
+- How do computers store and represent certain types of information?
 
 ## Lesson Plan
 
+The goal in this class it two-fold. First, we are trying to introduce students
+to the long-running "Today I Learned" GoogleDoc. This document is intended to be
+a way for students to identify things topics they are confused about and work
+through their confusion. In addition, we will start to talk about "digital
+representation" by talking about binary numbers.
+
 ### Setup
 
-- Have Josh's GitHub repo up and ready to talk about
+- YouTube video loaded up
+    - https://youtu.be/Zh4oVYty61M?si=34V-WuqAFQC64uN2
+- Josh's GitHub repo up and ready to talk about
 - TIL template deployed on Schoology
     - https://docs.google.com/document/d/1ynScUCTYosNu9PKraO--jkVsilk-S9OxNUXmhR1HxsI
+- 16, 8, 4, 2, 1 dot pages printed out
 
 ### Actual Lesson
 
 - Reflection
     - Syllabus
     - Recursion
+        - https://youtu.be/Zh4oVYty61M?si=34V-WuqAFQC64uN2
+        - How is this like recursion?
 - Before starting first unit, going to cover TIL
     - Show Josh's
         - https://github.com/jbranchaud/til
-        - Go into `mac` folder and find something interesting
-        - Explain why useful
+        - Go into `chrome` folder and find something interesting
+    - Why is this useful?
+        - Forces identification/articulation of confusion
+        - Easy to reload past knowledge
     - Talk through template
     - Talk through rubric
         - Entry has useful title
@@ -37,11 +50,34 @@
 - First unit will be on "digital representation"
     - What does "digital" mean?
     - What does "digital representation" mean?
-- What do people know about how pictures are stored on a computer?
+- What do people know about how information is stored on a computer?
     - Only thing computers understand: 1's and 0's -> binary
     - Today going to talk about binary
 - Basically do CS Unplugged lesson on binary
-    - TODO
+    - 5 volunteers
+        - Each gets a dot
+    - Have them do certain numbers
+        - 1
+        - 13
+        - 23
+        - 0
+    - Have them count up from 0 - 16
+        - Can anyone see the patterns?
+- Two on board problems
+    - decimal -> binary
+    - binary -> decimal
+- Can store more than 10 numbers on fingers
+    - Lot of people show me four whenever I drive
+    - 132 if I did something very aggressive
+- How much can a _x_ store:
+    - Octopus
+    - Upside down elephant
+    - Star fish
+    - Penguin
+- TIL homework
+    - Tonight doing a TIL on binary numbers
+    - What would a good entry look like?
+        - Write one together
 
 ## Homework
     

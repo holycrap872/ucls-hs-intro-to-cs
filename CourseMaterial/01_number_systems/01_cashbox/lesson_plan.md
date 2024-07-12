@@ -7,7 +7,6 @@
 
 ### Setup
 
-- POGIL Roles printed out
 - `cashboxes_classwork` GoogleDoc printed out
     - Printed b/c they're sketching
     - https://docs.google.com/document/d/1esNFXNXknUZ8u6ecfAX23CCBElGLJUJnZ275CTJN3lY
@@ -17,16 +16,19 @@
 ### Actual Lesson
 
 - Reflection
-    - Syllabus
-    - Recursion
-    - Watch infinite ferns video
-        - https://youtu.be/Zh4oVYty61M?si=34V-WuqAFQC64uN2
-        - How is this like recursion?
-- Today going to talk about number systems
+    - TIL
+    - Binary
+- TIL reviews
+    - Good examples
+    - Bad examples
+    - Will eventually "spin the wheel" so be prepared
+- Today going to talk continue to talk about number systems
     - What are number systems you know about?
-- POGIL Roles
+- Pair programming roles
     - Explain
-    - POGIL theater
+        - Switch 
+        - Only navigator can ask questions
+    - Pair programming theater
 - Explain activity
     - Work through in groups
     - Hand out
@@ -35,4 +37,4 @@
 
 #### Homework
 
-- TIL on 
+- TIL on topic of your choice
