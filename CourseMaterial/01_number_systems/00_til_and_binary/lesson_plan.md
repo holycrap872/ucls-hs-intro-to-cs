@@ -18,6 +18,7 @@ representation" by talking about binary numbers.
 - Josh's GitHub repo up and ready to talk about
 - TIL template deployed on Schoology
     - https://docs.google.com/document/d/1ynScUCTYosNu9PKraO--jkVsilk-S9OxNUXmhR1HxsI
+    - https://docs.google.com/document/d/1j5vw3IYppMSfC5TPs2JEx6PjW4-oDo8FrpmEhXEj7lA
 - 16, 8, 4, 2, 1 dot pages printed out
 
 ### Actual Lesson
@@ -36,14 +37,7 @@ representation" by talking about binary numbers.
         - Easy to reload past knowledge
     - Talk through template
     - Talk through rubric
-        - Entry has useful title
-        - Entry has date
-        - Entry is in proper section
-        - Entry is 2-5 sentences
-        - Entry is in your own words
-        - Entry includes at least one example
-        - Entry is informational
-        - Entry is not a duplicate (direct OR close)
+        - https://docs.google.com/document/d/1j5vw3IYppMSfC5TPs2JEx6PjW4-oDo8FrpmEhXEj7lA
     - Cheat sheet you can bring to any test/exam in class
         - Can do multiple entries per day
         - I will grade the "worst one" to avoid note dumping
