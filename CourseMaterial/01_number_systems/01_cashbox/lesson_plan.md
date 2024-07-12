@@ -32,3 +32,7 @@
     - Hand out
     - Any questions?
 - Go!
+
+#### Homework
+
+- TIL on 

@@ -1,8 +1,3 @@
-## Learning Objective:
-
-- Understand how bits can represent color
-- Be able to encode and decode simple bitmaps
-
 ## Essential Questions:
 
 - How do computers store and represent certain types of information?
@@ -12,58 +7,42 @@
 
 ### Setup
 
+- Have Josh's GitHub repo up and ready to talk about
+- TIL template deployed on Schoology
+    - https://docs.google.com/document/d/1ynScUCTYosNu9PKraO--jkVsilk-S9OxNUXmhR1HxsI
+
 ### Actual Lesson
 
 - Reflection
     - Syllabus
     - Recursion
+- Before starting first unit, going to cover TIL
+    - Show Josh's
+        - https://github.com/jbranchaud/til
+        - Go into `mac` folder and find something interesting
+        - Explain why useful
+    - Talk through template
+    - Talk through rubric
+        - Entry has useful title
+        - Entry has date
+        - Entry is in proper section
+        - Entry is 2-5 sentences
+        - Entry is in your own words
+        - Entry includes at least one example
+        - Entry is informational
+        - Entry is not a duplicate (direct OR close)
+    - Cheat sheet you can bring to any test/exam in class
+        - Can do multiple entries per day
+        - I will grade the "worst one" to avoid note dumping
 - First unit will be on "digital representation"
-- Today going to talk about pictures
+    - What does "digital" mean?
+    - What does "digital representation" mean?
 - What do people know about how pictures are stored on a computer?
-    - Only thing computers understand: 1's and 0's
-    - Each picture broken down into things called pixels
-        - Show in preview
-        - Zoom in
-        - Just a bunch of small rectangles stuck together
-- Start easy
-    - How represent black and white?
-        - 0 represent black (turn lights off)
-        - 1 represent white (turn lights on)
-- Do two examples together
-    - Teacup Picture
-        - Ask them if they can see what it is
-        - First row would be encoded 1,1,1, ...
-        - How would next row be encoded?
-            - Next row is 1, 0, 0, ...
-        - Missing row is encoded 1, seven 0's, 1, 1, 0, 1
-    - House Picture
-        - Have student come up
-        - Decode the following for me
-        - Missing rows are:
-            - two 1's, one 0, seven 1's, one 0, one 1
-            - three 1's, seven 0's, two 1's
-- Today going to make our own art
-    - Going to make your own black and white design on this paper
-    - Encode it and trade it with someone
-    - Share to see if you came up with the right thing
-- After the bring everyone back together
-    - What did we learn?
-    - What is different between what we did and real pictures?
-- How do we get more colors?
-    - More bits!
-    - RGB
-    - Put a little water on your phone
-    - RGB slider in word
-    - RGB Lattice
-- Pixels can be anything
-    - What are some examples?
-        Legos
-            - `https://u-mercari-images.mercdn.net/photos/m36573424237_1.jpg?width=1024&height=1024&format=pjpg&auto=webp&fit=crop&_=1653373109`
-        Paintballs
-            - `https://youtu.be/fKK933KK6Gg?t=84`
-- Show real pictures in vim mode
+    - Only thing computers understand: 1's and 0's -> binary
+    - Today going to talk about binary
+- Basically do CS Unplugged lesson on binary
+    - TODO
 
 ## Homework
     
-- Schoology assessment on 
-    - `assessment.md`
+- TIL on binary numbers
