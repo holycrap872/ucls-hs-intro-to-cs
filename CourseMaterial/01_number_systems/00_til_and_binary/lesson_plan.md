@@ -5,22 +5,19 @@
 
 ## Essential Questions:
 
-- Understand how computers store and represent certain types of information
+- How do computers store and represent certain types of information?
+- How do I solidify my understanding of difficult material?
 
 ## Lesson Plan
 
 ### Setup
-
-- 1 copy of the house
-- 1 copy of the teacup
-- Buncha copies of the blank "bit map"
-- Buncha scrap paper
 
 ### Actual Lesson
 
 - Reflection
     - Syllabus
     - Recursion
+- First unit will be on "digital representation"
 - Today going to talk about pictures
 - What do people know about how pictures are stored on a computer?
     - Only thing computers understand: 1's and 0's
@@ -67,4 +64,6 @@
 - Show real pictures in vim mode
 
 ## Homework
+    
+- Schoology assessment on 
     - `assessment.md`
