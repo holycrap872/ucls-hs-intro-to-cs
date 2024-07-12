@@ -16,6 +16,10 @@ Example of someone's "two questions" program to run
     - Critique it
     - Exponential vs. Linear growth
 - Grok Lesson 3
+- Discussion about how to approach documentation
+    - How do you read documentation?
+    - How do you know it's sinking in?
+    - How much effort do you spend understanding vs. applying
 
 #### Homework
 
