@@ -6,7 +6,8 @@
 
 ### Setup
 
-`EmojiPics Worksheet` in a GoogleDoc posted to Schoology
+- `EmojiPics Worksheet` in a GoogleDoc posted to Schoology
+    - https://docs.google.com/document/d/1eRyqf4Wh6QenNvJX7IhwrWWl2eKnvaMdclrB-PerWaM
 
 ### Actual Lesson
 
@@ -39,8 +40,4 @@
 
 ### Homework
 
-TIL entry
-
-### Resouces
-
-- https://docs.google.com/document/d/1eRyqf4Wh6QenNvJX7IhwrWWl2eKnvaMdclrB-PerWaM
+- TIL entry
