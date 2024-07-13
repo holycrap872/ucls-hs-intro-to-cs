@@ -5,12 +5,19 @@
 
 ## Lesson Plan
 
+This lesson will really focus on the importance of identifying what "type" of
+primitive a particular part of the program is. To do this, will talk about
+different operations that can be done on various primitives.
+
+### Setup
+
+- None
+
 ### Actual Lesson
 
 - Review
     - Variables
-    - `int`
-    - Mad libs
+    - Strings vs. integers
 - TIL Entries
     - Find some good ones and put into slide show
 - Python primitives
@@ -26,6 +33,5 @@
 
 ### Homework
 
-- TIL Entry
-- Finish lesson 2 of Grok
-- Prep for quiz
+- TIL entry on topic of choice
+- Finish Grok Module 2

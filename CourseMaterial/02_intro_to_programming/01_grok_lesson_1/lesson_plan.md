@@ -27,7 +27,7 @@ variables, and printing.
     - How do you feel about Grok?
         - Easy to understand
         - What is useful, what is hard?
-- Strings vs Integers
+- Strings vs integers
     - Why data types are important
     - `"4"` vs `4`
     - `"4" + "4"` vs `4 + 4` 
@@ -37,5 +37,5 @@ variables, and printing.
 
 ### Homework
 
-- Finish Module 1
 - TIL entry on topic of choice
+- Finish Grok Module 1

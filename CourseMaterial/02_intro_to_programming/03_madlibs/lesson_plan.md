@@ -1,8 +1,13 @@
 ## Essential Questions
 
+- How do computer programs interact with users?
+- What can we assume about incoming data?
+
 ## Lesson Plan
 
 ### Setup
+
+- Example MadLib loaded up somewhere (see code below)
 
 ### Actual Lesson
 
@@ -46,7 +51,7 @@
 #### Homework
 
 - TIL entry
-- Finish lesson 1
+- Prep for quiz
 
 #### Extensions
 
