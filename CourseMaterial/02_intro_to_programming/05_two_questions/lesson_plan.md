@@ -1,23 +1,23 @@
 ## Essential Question
 
+- How do we make programs that react to their environment?
+- What is the best way to search for a desired value?
+
 ## Lesson Plan
 
 ### Setup
 
-`three_questions.py` read to run
+- `three_questions.py` ready to run
 
 ### Actual Lesson
 
-- Quiz on lessons 1 and 2
-- Start groking after this
-    - Should be starting lesson 3
-    - Let Grok for 15 - 20m
+- Opening problem(s)
+    - PRIMM on ability to identify syntax errors in conditionals
 - Review
     - What are ifs/elses
     - When did you use them in scratch
     - When might they be useful?
         - Bunch of real world examples
-- Break
 - Magic trick
     - Pick a number between 1 and thousand
     - What am I doing?

@@ -1,22 +1,28 @@
 ## Essential Questions
 
+- How do we make programs that react to their environment?
+- Why are conditionals so powerful?
+
 ## Lesson Plan
 
 ### Setup up
 
-Example of someone's "two questions" program to run
+- Schoology quiz for first two modules ready to go
 
 ### Actual Lesson
 
+- Opening problem
+- Give quiz
 - Review
-    - if, if/else, if/elif/else
-- TIL Review
-- Two Questions review
-    - Play someone's game
-    - Critique it
-    - Exponential vs. Linear growth
-- Grok Lesson 3
+    - Strings
+    - Integers
+    - `input()`
+- Conditionals
+    - Talk about in the abstract
+    - Compare to Scratch
+    - "evaluates to True"
+- Go!
 
 #### Homework
 
-- Finish grok lesson 3
+- TIL entry on topic of choice

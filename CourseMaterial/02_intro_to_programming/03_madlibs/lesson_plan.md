@@ -5,26 +5,26 @@
 
 ## Lesson Plan
 
+In this lesson, we introduce student's to the `input()` function and talk about
+how it is used. In particular, we focus on how it returns strings from the user
+and then how we can manipulate that data however we'd like. To drive the point
+home, students then make their own Mad Libs and share them amongst themselves.
+
 ### Setup
 
-- Example MadLib loaded up somewhere (see code below)
+- Students enrolled in "Turtle Playground" course
 
 ### Actual Lesson
 
 - Review
     - Grok stuff
+        - String vs. integers
         - 5 * "4"
-        - Multiple inputs
     - TIL
         - Who's got a good one?
         - Assess it
-        - Show what happens if make the entry a header
-            - Can see it in the document outline/summary
-- Talk about pair programming
-    - Active partner
-    - Good body language
-    - Pair Programming Theater:
-        - Act out a good and bad pair-programming exp
+- Talk `input()`
+    - Returns a string, so what does "please enter a number" entail?
 - Mad Libs
     - Do example
     ```python
@@ -39,7 +39,7 @@
     print(name, "knew they could handle", number - 1, animal, "s, but", number, "was one too many")
     print(name, "ran away very quickly")
     ```
-- Have them do mad-libs in pairs
+- Have them do Mad Libs in pairs
     - Once finish, rotate and do another group's
     - Must have:
         - A variable that take a string and uses it
