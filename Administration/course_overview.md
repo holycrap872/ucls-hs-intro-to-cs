@@ -50,19 +50,19 @@
 
 - End of unit exam
 
-## Unit 2 - Programming in Practice
+## Unit 2 - Fractals and Recursion
 
 #### Objectives:
 
-- Become comfortable using conditionals and loops
-- Understand creation of/iteration over lists
 - Utilize and create functions with inputs
-- Practice various debugging techniques
+- Properly visualize function calls
+- Utilize recursion to model natural processes
 
 #### Essential Questions:
 
-- How do features such as lists and functions enable the creation of more general programs?
-- How can computers be used to solve problems in other disciplines?
+- What are functions such a powerful way of decomposing problems?
+- What happens in a program when a function is called?
+- Why is recursion so common in natural systems?
 
 #### Formative Assessments:
 
@@ -75,19 +75,19 @@
 
 - End of unit exam
 
-## Unit 3 - Fractals and Recursion
+## Unit 3 - Programming in Practice
 
 #### Objectives:
 
-- Properly visualize function calls
+- Become comfortable using conditionals and loops
 - Articulate the similarities/differences between recursion and loops
-- Utilize recursion to model natural processes
+- Understand creation of/iteration over lists
+- Practice various debugging techniques
 
 #### Essential Questions:
 
-- What happens in a program when a function is called?
-- What is recursion and why is it such a powerful way of decomposing problems?
-- Why is recursion so common in natural systems?
+- How do features such as lists and functions enable the creation of more general programs?
+- How can computers be used to solve problems in other disciplines?
 
 #### Formative Assessments:
 
