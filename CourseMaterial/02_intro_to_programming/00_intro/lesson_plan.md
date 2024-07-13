@@ -1,13 +1,13 @@
 ## Essential Questions
 
--
-- 
+- What is a program?
+- How can Grok help teach syntax and CS principles?
 
 ## Lesson Plan
 
 ### Setup
 
-Load students into grok
+- Load students into Grok via .csv file
 
 ### Actual Lesson
 
@@ -22,10 +22,10 @@ Load students into grok
     - Who has used Scratch before?
     - Who has used Python before?
 - What words do you remember from programming?
-    - if
+    - `if`
     - repeat
     - variable...
-- Few examples of the power of python:
+- Few examples of the power of Python:
     - ChatGPT:
         - https://github.com/tensorflow/gnn
     - Fishy
@@ -39,10 +39,14 @@ Load students into grok
 - Grok
     - Useful for learning syntax
     - Have everyone log in
-    - Read through the grok intro together
+    - Read through the Grok intro together
     - What is it asking?
+- First mark/submit problem in Grok
     - Do first one together
-- Grok Partners
+        - Submit
+        - Mark
+    - Show how finicky it can be with spacing
+- Getting help in Grok
     - Ask partner first
     - Look in documentation
     - Raise hand
@@ -50,7 +54,12 @@ Load students into grok
     - Explain pattern
         - Come in
         - Opening problem
-        - Do grok
+        - Do Grok
         - Reflect
     - Each day will have a goal that you need to get to by
     - Occasional quizzes to make sure people are learning
+- Go!
+
+#### Homework
+
+- None
