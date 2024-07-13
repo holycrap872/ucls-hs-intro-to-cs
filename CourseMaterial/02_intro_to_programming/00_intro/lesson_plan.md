@@ -5,9 +5,18 @@
 
 ## Lesson Plan
 
+This lesson has two purposes. First, it is intended to show students the power
+of Python and to allow them to see how Python is similar to the previous ways
+they have learned to program. This is done by showing students three different
+types of Python uses and then showing them the code behind the applications.
+
+In addition, this lesson gets students started on Grok's "Python for Beginners"
+course.
+
 ### Setup
 
-- Load students into Grok via .csv file
+- Load students into Grok via `.csv` file
+- Register students for "Python for Beginners" course
 
 ### Actual Lesson
 
@@ -32,8 +41,8 @@
         - https://freefishy.org/
         - `object_fishy.py`
     - Mood light
-        - `colors.py`
-- Investigate mood light
+        - `mood_light.py`
+- Investigate `mood_light.py`
     - What are some words we see?
     - Show scratch and show that has very similar words
 - Grok
