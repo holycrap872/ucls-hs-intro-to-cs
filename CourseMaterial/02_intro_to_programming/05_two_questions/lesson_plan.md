@@ -5,9 +5,16 @@
 
 ## Lesson Plan
 
+In this lesson, students will be given a chance to use conditionals in a
+creative way. In particular, they will create a "connections-esque" game where
+they have to figure out which of a set of words a user is thinking of simply by
+asking y/n questions.
+
 ### Setup
 
 - `three_questions.py` ready to run
+- GoogleDoc loaded up in Schoology
+    - https://docs.google.com/document/d/1LOTwfDylpD5fnUC1dwykx5nrTQwpntYi2X0pwWtR2Jw
 
 ### Actual Lesson
 
@@ -30,7 +37,8 @@
 
 #### Homework
 
-- TIL entry
+- TIL entry on topic of your choice
+- Finish Grok Module 3
 
 ### Other possible ideas
 

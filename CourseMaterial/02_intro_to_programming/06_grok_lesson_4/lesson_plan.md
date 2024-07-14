@@ -5,22 +5,23 @@
 
 ## Lesson Plan
 
-In this class, students will reflect on everything that they've done over the
-past few classes: conditionals, "two questions", and `input()`. After this,
-students will talk about how to get the most out of modules since they are so
-text heavy. The class will discuss the best ways to read/understand
+Grok Module 4 is a bit of a reprieve since it's mostly a review. Therefore,
+students will be given the chance to reflect on everything that they've done
+over the past few classes: conditionals, "Two Questions", and `input()`. After
+this, students will talk about how to get the most out of modules since they are
+so text heavy. The class will discuss the best ways to read/understand
 documentation.
 
 ### Setup up
 
-- Example of someone's "two questions" program to run
+- Example of someone's "Two Questions" program to run
 
 ### Actual Lesson
 
 - Opening problem
 - Review
     - if, if/else, if/elif/else
-- Two Questions review
+- "Two Questions" review
     - Play someone's game
     - Critique it
 - Understanding documentation

@@ -13,6 +13,8 @@ home, students then make their own Mad Libs and share them amongst themselves.
 ### Setup
 
 - Students enrolled in "Turtle Playground" course
+- Python Strings Worksheet loaded in Schoology
+    - https://docs.google.com/document/d/1-AwvVtv59yDz-mvorbLMAJdnjadjgOmC5QAquUhNyp0
 
 ### Actual Lesson
 
