@@ -50,7 +50,7 @@
 
 - End of unit exam
 
-## Unit 2 - Fractals and Recursion
+## Unit 2 - Functions and Fractals
 
 #### Objectives:
 
