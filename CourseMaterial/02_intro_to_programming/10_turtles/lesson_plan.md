@@ -5,15 +5,16 @@
 
 ## Lesson Plan
 
-The goal of this lesson is to prepare students for loops. This is because Grok's
-loop lesson is a big jump in difficulty. Therefore, this lesson is intended to
-ease the students into the syntax and appreciate loops as things that can
-exploit patterns. In particular, I really stress the "logic puzzle-ness" of
-being able to identify and exploit patterns with loops.
+The goal of this lesson is to reinforce and visualize loops as taught in Grok.
+In particular, I really stress the "logic puzzle-ness" of being able to identify
+and exploit patterns with loops.
 
 ### Setup
 
-`turtle_shapes_classword.docx` printed out
+- GoogleDoc about loops/turtles loaded up into Schoology
+    - https://docs.google.com/document/d/1M3QkPWw4FBevTRVVvPYrpMLnrxy3whFOzJG3GN-qLyo
+- YouTube video loaded up
+    - "I like turtles": https://www.youtube.com/watch?v=CMNry4PE93Y
 
 ### Actual Lesson
 
@@ -48,7 +49,7 @@ being able to identify and exploit patterns with loops.
     - Show code
     - Make a square
     - All about finding the pattern
-- Handle out classword
+- Handle out classwork
     - Read through
     - Show examples of:
         - How to comment out code
