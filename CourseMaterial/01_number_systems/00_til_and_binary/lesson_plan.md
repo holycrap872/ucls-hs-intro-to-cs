@@ -5,16 +5,16 @@
 
 ## Lesson Plan
 
-The goal in this class it two-fold. First, we are trying to introduce students
+The goal of this class is two-fold. First, we are trying to introduce students
 to the long-running "Today I Learned" GoogleDoc. This document is intended to be
-a way for students to identify things topics they are confused about and work
-through their confusion. In addition, we will start to talk about "digital
+a way for students to identify topics they are confused about and work through
+their confusion. In addition, we will start to talk about "digital
 representation" by talking about binary numbers.
 
 ### Setup
 
 - YouTube video loaded up
-    - https://youtu.be/Zh4oVYty61M?si=34V-WuqAFQC64uN2
+    - Infinite fern: https://youtu.be/Zh4oVYty61M?si=34V-WuqAFQC64uN2
 - Josh's GitHub repo up and ready to talk about
 - TIL template deployed on Schoology
     - https://docs.google.com/document/d/1ynScUCTYosNu9PKraO--jkVsilk-S9OxNUXmhR1HxsI
@@ -57,7 +57,7 @@ representation" by talking about binary numbers.
         - 0
     - Have them count up from 0 - 16
         - Can anyone see the patterns?
-- Two on board problems
+- Do two board problems on board
     - decimal -> binary
     - binary -> decimal
 - Can store more than 10 numbers on fingers
@@ -73,6 +73,10 @@ representation" by talking about binary numbers.
     - What would a good entry look like?
         - Write one together
 
-## Homework
+### Homework
     
 - TIL on binary numbers
+
+### Resources
+
+- https://www.youtube.com/watch?v=Wy6-FXtLMV8

@@ -5,14 +5,19 @@
 ## Lesson Plan
 
 Today we are reviewing and building on the previous two lessons that had to do
-with binary and hexadecimal. Student's will revisit how different number systems
+with binary and hexadecimal. Students will revisit how different number systems
 work and then learn new language having to do with the size of information
-with words like GigaByte, TeraByte, etc.
+with words like bit, byte, nibble.
 
 ### Setup
 
 - Youtube videos loaded up
-    - https://www.youtube.com/watch?v=Wy6-FXtLMV8
+    - Cardboard Odometer: https://youtu.be/v83Uvg_ySK8?si=v3vHeVW9aANa8eal&t=8
+- Various "odometers" loaded up
+    - https://studio.code.org/s/odometer/lessons/1/levels/1
+- `binary_hw` GoogleDoc printed out
+    - Printed b/c they have to show their work and draw
+    - https://docs.google.com/document/d/1OVhUWFlEIlsp_gH8zQgWGpHzvemCEDKYeitS9gKngZ8
 
 ### Lesson Plan
 
@@ -29,10 +34,11 @@ with words like GigaByte, TeraByte, etc.
     - Have students grade partner's TIL
 - Today going to talk a more about binary
 - Show different odometers for number systems
-    - https://youtu.be/v83Uvg_ySK8?si=v3vHeVW9aANa8eal&t=8
     - https://studio.code.org/s/odometer/lessons/1/levels/1
-    - https://www.youtube.com/watch?v=vf4_i-sBebU
-- Two on board problems
+        - What does this illustrate about yesterday's worksheet?
+    - Cardboard odometer
+        - https://youtu.be/v83Uvg_ySK8?si=v3vHeVW9aANa8eal&t=8
+- Do two problems on the board
     - decimal -> binary
     - binary -> decimal
 - Computers store everything in bytes
@@ -45,3 +51,7 @@ with words like GigaByte, TeraByte, etc.
 ### Homework
 
 - `binary_homework.docx`
+
+### Resources
+
+- Binary Adder: https://www.youtube.com/watch?v=vf4_i-sBebU
