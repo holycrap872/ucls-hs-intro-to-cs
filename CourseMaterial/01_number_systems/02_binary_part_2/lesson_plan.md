@@ -51,6 +51,7 @@ with words like bit, byte, nibble.
 ### Homework
 
 - `binary_homework.docx`
+- TIL entry on topic of your choice
 
 ### Resources
 

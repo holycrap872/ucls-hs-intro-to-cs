@@ -4,15 +4,23 @@
 
 ## Lesson Plan
 
+In this class, students will be given a worksheet that will lead them towards
+understanding the power of hexadecimal. It will culminate with them being
+prepared to take a quiz on decimal/binary/hex at the beginning of next class.
+
 ### Setup
 
-- `hex_classwork.docx` printed out
+- `hex_classwork` GoogleDoc printed out
+    - https://docs.google.com/document/d/1W78ZKpljpYbSOuBPiIZ7HeDdjppLFt70yxR65a2MYX4
+- `hex_hw` GoogleDoc printed out
+    - https://docs.google.com/document/d/1osuLJE9oAnvgQAfeegF0ETATsofoaKNIx-_WLV3xXlo
 
 ### Actual Lesson
 
 - Review
-    - Questions in binary quiz
-    - Binary, Decimal
+    - Binary and decimal
+    - Go through a few TILs
+    - Do a few sample problems on the board
 - Today going to do Hexadecimal
     - Why hexadecimal
         - 6 + 10
@@ -20,15 +28,21 @@
 - Quick questions
     - How do 17?
     - How do 32?
-- Pair programming roles
+- Pair programming review
     - Going to do another exploration with pair programming
     - Who remembers roles
         - What are they and what do they do?
 - Hexadecimal sheet
-    - Allow them to choose their own groups b/c otherwise leads to passivity
-    - Call the lesson with 8m left and do a quick summation
+    - Divide up into new groups as determined by teacher
+    - Hand out worksheet
+    - Give a few minutes to look through it
+    - Any questions?
+    - Go
+- Call the lesson with ~5m left and do a quick summation
+- Reminder: quiz at beginning of next class
+    - Feel free to add entry to TIL, but will be graded
+- Hand out homework
 
-## Homework
+### Homework
 
-- `hex_homework.docx`
-
+- `hex_hw`
