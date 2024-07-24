@@ -24,7 +24,6 @@
     - Lick thumb and put it on phone: what colors do you see?
     - RGB
     - Show RGB lattice
-    - Standards/conventions
     - Decode a picture together
 - RGB formally
     - Sliders in word
