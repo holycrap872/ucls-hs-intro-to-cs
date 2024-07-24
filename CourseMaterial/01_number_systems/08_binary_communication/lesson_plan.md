@@ -7,6 +7,10 @@
 
 ### Setup
 
+- `binary_communications` GoogleDoc worksheet printed out
+    - 
+- Practice exam loaded up in Schoology
+
 ### Actual Lesson
 
 - Standards on top of standards
@@ -15,3 +19,8 @@
 - Compare with morse code
 - Tradeoff between more information and more clarity
     - CS (and economics) is the science of tradeoffs
+
+### Homework
+
+- Practice Exam (optional)
+    - Available on Schoology
