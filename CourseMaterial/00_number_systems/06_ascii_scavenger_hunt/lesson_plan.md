@@ -21,7 +21,11 @@ and protocols for allowing people to communicate.
 
 - Review
     - Hex, binary, decimal
-    - Do a few conversion problems on the board
+        - Do a few conversion problems on the board
+    - Hex and color
+    - What is HexFiend?
+- TIL entries
+    - Review a few
 - Today, going to do a scavenger hunt
     - Go over rules
     - Each group has their own unique path, so don't follow

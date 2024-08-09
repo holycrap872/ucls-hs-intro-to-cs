@@ -4,6 +4,14 @@
 
    - A: Smile
 
+2. What color is represented by the three bytes 0x00FF00?
+
+   - A: Green
+
+3. What color is represented by the three bytes 0xFF00FF?
+
+   - A: Magenta
+
 2. Assume that your internet can send *three thousand bits per second*. How many
    6x6 pictures like the one above could it send in a minute?
 
