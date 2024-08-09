@@ -100,7 +100,7 @@
 
 - End of unit exam
 
-## Unit 4 - PythonShop
+## Unit 4 - PythoShop
 
 #### Objectives:
 
