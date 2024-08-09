@@ -12,8 +12,9 @@ prepared to take a quiz on decimal/binary/hex at the beginning of next class.
 
 - `hex_classwork` GoogleDoc printed out
     - https://docs.google.com/document/d/1W78ZKpljpYbSOuBPiIZ7HeDdjppLFt70yxR65a2MYX4
-- `hex_hw` GoogleDoc printed out
+- `hex_review_hw` GoogleDoc printed out
     - https://docs.google.com/document/d/1osuLJE9oAnvgQAfeegF0ETATsofoaKNIx-_WLV3xXlo
+    - Printed out so can show work
 
 ### Actual Lesson
 
@@ -21,7 +22,7 @@ prepared to take a quiz on decimal/binary/hex at the beginning of next class.
     - Binary and decimal
     - Go through a few TILs
     - Do a few sample problems on the board
-- Today going to do Hexadecimal
+- Today going to do hexadecimal
     - Why hexadecimal
         - 6 + 10
     - What symbols to represent hexadecimal numbers bigger than 9?
@@ -33,6 +34,7 @@ prepared to take a quiz on decimal/binary/hex at the beginning of next class.
     - Who remembers roles
         - What are they and what do they do?
 - Hexadecimal sheet
+    - Activity is intended to be self-explanatory
     - Divide up into new groups as determined by teacher
     - Hand out worksheet
     - Give a few minutes to look through it
@@ -45,4 +47,4 @@ prepared to take a quiz on decimal/binary/hex at the beginning of next class.
 
 ### Homework
 
-- `hex_hw`
+- `hex_review_hw`

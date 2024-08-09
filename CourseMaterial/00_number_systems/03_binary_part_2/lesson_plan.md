@@ -4,17 +4,17 @@
 
 ## Lesson Plan
 
-Today we are reviewing and building on the previous two lessons that had to do
-with binary and hexadecimal. Students will revisit how different number systems
-work and then learn new language having to do with the size of information
-with words like bit, byte, nibble.
+In this class, students review and build on the previous two lessons (binary
+and hexadecimal). Students will revisit how different number systems work and
+then learn new language having to do with the size of information with words
+like bit, byte, nibble.
 
 ### Setup
 
-- Youtube videos loaded up
-    - Cardboard Odometer: https://youtu.be/v83Uvg_ySK8?si=v3vHeVW9aANa8eal&t=8
 - Various "odometers" loaded up
     - https://studio.code.org/s/odometer/lessons/1/levels/1
+- Youtube videos loaded up
+    - Cardboard Odometer: https://youtu.be/v83Uvg_ySK8?si=v3vHeVW9aANa8eal&t=8
 - `binary_hw` GoogleDoc printed out
     - Printed b/c they have to show their work and draw
     - https://docs.google.com/document/d/1OVhUWFlEIlsp_gH8zQgWGpHzvemCEDKYeitS9gKngZ8
@@ -24,9 +24,9 @@ with words like bit, byte, nibble.
 - Opening Problem
 - Review last class
     - Different cashboxes
-    - Base 10 -> decimal
-    - Base 2 -> binary
-    - How did convert between decimal number and binary cash box
+    - Base-10 -> decimal
+    - Base-2 -> binary
+    - How do you convert between a decimal number and binary cashbox
     - "Pushup comic" discussion
         - Need either d or b prefix
 - TIL debrief
@@ -50,7 +50,7 @@ with words like bit, byte, nibble.
 
 ### Homework
 
-- `binary_homework.docx`
+- `binary_hw` worksheet
 - TIL entry on topic of your choice
 
 ### Resources

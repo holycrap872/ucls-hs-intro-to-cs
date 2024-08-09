@@ -5,6 +5,10 @@
 
 ## Lesson Plan
 
+The goal of this class is to set the standards and expectations for the rest
+of the year. The class is intentionally boring to make clear that this class is
+closer in tenor to a math class than a "fun elective".
+
 ### Setup
 
 - 2x photo rosters printed out
@@ -83,10 +87,10 @@ should **remember the time** of the appointment.
 
 FOURTH: Drop by the Computer Science office and tell me the time of your
 appointment so I can verify that you have your timezone setup correctly. If I am
-NOT THERE, write you name and your appointment time on the whiteboard outside
-my desk.
+NOT THERE, write you name and your appointment time on the whiteboard by my
+desk.
 
-This will prove that you know how to use my appointment calendar AND you know
-where the Computer Science office is located, so there is no excuse for not
+This will **prove** that you know how to use my appointment calendar AND you
+know where the Computer Science office is located, so there is no excuse for not
 utilizing this resource in the future.
 ```

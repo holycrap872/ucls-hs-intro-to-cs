@@ -5,11 +5,11 @@
 
 ## Lesson Plan
 
-The goal of this class is two-fold. First, we are trying to introduce students
-to the long-running "Today I Learned" GoogleDoc. This document is intended to be
-a way for students to identify topics they are confused about and work through
-their confusion. In addition, we will start to talk about "digital
-representation" by talking about binary numbers.
+The goal of this class is two-fold. First, in introduces students to the
+long-running "Today I Learned" GoogleDoc. This document is intended to be a way
+for students to identify topics they are confused about and work through their
+confusion. Second, we will start to talk about "digital representation" by
+talking about binary numbers.
 
 ### Setup
 
@@ -17,8 +17,8 @@ representation" by talking about binary numbers.
     - Infinite fern: https://youtu.be/Zh4oVYty61M?si=34V-WuqAFQC64uN2
 - Josh's GitHub repo up and ready to talk about
 - TIL template deployed on Schoology
-    - https://docs.google.com/document/d/1ynScUCTYosNu9PKraO--jkVsilk-S9OxNUXmhR1HxsI
-    - https://docs.google.com/document/d/1j5vw3IYppMSfC5TPs2JEx6PjW4-oDo8FrpmEhXEj7lA
+    - Template: https://docs.google.com/document/d/1ynScUCTYosNu9PKraO--jkVsilk-S9OxNUXmhR1HxsI
+    - Rubric: https://docs.google.com/document/d/1j5vw3IYppMSfC5TPs2JEx6PjW4-oDo8FrpmEhXEj7lA
 - 16, 8, 4, 2, 1 dot pages printed out
 
 ### Actual Lesson
@@ -28,7 +28,7 @@ representation" by talking about binary numbers.
     - Recursion
         - https://youtu.be/Zh4oVYty61M?si=34V-WuqAFQC64uN2
         - How is this like recursion?
-- Before starting first unit, going to cover TIL
+- Before starting first unit, going to cover "Today I Learned"
     - Show Josh's
         - https://github.com/jbranchaud/til
         - Go into `chrome` folder and find something interesting
@@ -38,7 +38,7 @@ representation" by talking about binary numbers.
     - Talk through template
     - Talk through rubric
         - https://docs.google.com/document/d/1j5vw3IYppMSfC5TPs2JEx6PjW4-oDo8FrpmEhXEj7lA
-    - Cheat sheet you can bring to any test/exam in class
+    - TIL is cheat-sheet you can bring to any test/exam in class
         - Can do multiple entries per day
         - I will grade the "worst one" to avoid note dumping
 - First unit will be on "digital representation"
@@ -61,7 +61,7 @@ representation" by talking about binary numbers.
     - decimal -> binary
     - binary -> decimal
 - Can store more than 10 numbers on fingers
-    - Lot of people show me four whenever I drive
+    - Lot of people show me the number four whenever I drive
     - 132 if I did something very aggressive
 - How much can a _x_ store:
     - Octopus
