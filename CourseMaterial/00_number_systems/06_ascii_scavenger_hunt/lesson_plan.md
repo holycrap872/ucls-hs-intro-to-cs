@@ -23,12 +23,15 @@ and protocols for allowing people to communicate.
     - Hex, binary, decimal
         - Do a few conversion problems on the board
     - Hex and color
-    - What is HexFiend?
+    - What is HexFiend and why is it so powerful?
 - TIL entries
     - Review a few
+    - "Grade" as a class
 - Today, going to do a scavenger hunt
     - Go over rules
+        - Come back when find clue!!!
     - Each group has their own unique path, so don't follow
+- Go!
 - Hit on standards
     - Why so important
     - What other standards?
