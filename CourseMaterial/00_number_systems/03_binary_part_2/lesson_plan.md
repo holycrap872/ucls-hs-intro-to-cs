@@ -47,6 +47,11 @@ like bit, byte, nibble.
     - Biggest number in a nibble
 - Netflix sending different amounts of data
     - GigaByte, TeraByte, PetaByte
+- What happens when add a place
+    - Decimal: 10x number
+    - Binary: 2x number
+    - QR codes
+        - How many numbers can a 10x10 QR code represent?
 
 ### Homework
 

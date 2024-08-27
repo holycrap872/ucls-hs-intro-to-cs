@@ -68,6 +68,9 @@ talking about binary numbers.
     - Upside down elephant
     - Star fish
     - Penguin
+    - What happens every time you add a place?
+        - binary: number doubles
+        - decimal: number 10x
 - TIL homework
     - Tonight doing a TIL on binary numbers
     - What would a good entry look like?
