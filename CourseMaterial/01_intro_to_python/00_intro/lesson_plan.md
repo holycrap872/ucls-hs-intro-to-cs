@@ -5,18 +5,18 @@
 
 ## Lesson Plan
 
-This lesson has two purposes. First, it is intended to show students the power
+This lesson has three purposes. First, it is intended to show students the power
 of Python and to allow them to see how Python is similar to the previous ways
 they have learned to program. This is done by showing students three different
 types of Python uses and then showing them the code behind the applications.
-
 In addition, this lesson gets students started on Grok's "Python for Beginners"
-course.
+course. Finally, it serves as a bit of an advertisement for my ML/AI class.
 
 ### Setup
 
-- Load students into Grok via `.csv` file
-- Register students for "Python for Beginners" course
+- Setup Grok
+    - Load students into Grok via `.csv` file
+    - Register students for "Python for Beginners" course
 
 ### Actual Lesson
 
@@ -43,32 +43,38 @@ course.
     - Mood light
         - `mood_light.py`
 - Investigate `mood_light.py`
+    - Notice/wonder
     - What are some words we see?
-    - Show scratch and show that has very similar words
-- Grok
+    - Show Scratch and show that has very similar words
+- Introduce Grok
     - Useful for learning syntax
-    - Have everyone log in
+    - Good for auto-grading
+    - Lots of lessons!
+- Have everyone log in
+    - Use Google account
+- Do class version of Grok
     - Read through the Grok intro together
     - What is it asking?
-- First mark/submit problem in Grok
-    - Do first one together
-        - Submit
-        - Mark
+    - First mark/submit problem in Grok
+        - Do first one together
+            - Submit
+            - Mark
     - Show how finicky it can be with spacing
-- Getting help in Grok
+- What are ways to get help with Grok
     - Ask partner first
     - Look in documentation
     - Raise hand
 - Expectations
-    - Explain pattern
+    - Average day will look like:
         - Come in
         - Opening problem
         - Do Grok
         - Reflect
+        - Homework if don't finish
     - Each day will have a goal that you need to get to by
     - Occasional quizzes to make sure people are learning
 - Go!
 
 #### Homework
 
-- None
+- TIL entry on topic of your choice
