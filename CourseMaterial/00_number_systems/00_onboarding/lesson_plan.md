@@ -78,11 +78,11 @@ FIRST: Make sure you're using your UCLS Google account. You **MUST** use your
 UCLS Google account to make this appointment or you will not get credit for this
 assignment.
 
-SECOND: Go to the main page for this course and navigate into the "Course
-Documents" folder. Click on the "Appointment Calendar" link.
+SECOND: Go to the Schoology page for this course and navigate into the
+"Administration" folder. Click on the "Appointment Calendar" link.
 
 THIRD: Setup a **FAKE** appointment to see your instructor sometime on either
-September 16th (Saturday), September 17th (Sunday), or September 23 (Saturday).
+September 14th (Saturday), September 15th (Sunday), or September 21st (Saturday).
 This is a fake appointment, so you should not actually come in for it but you
 should **remember the time** of the appointment.
 
