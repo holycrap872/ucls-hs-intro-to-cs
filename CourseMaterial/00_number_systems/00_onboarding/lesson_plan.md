@@ -14,7 +14,8 @@ closer in tenor to a math class than a "fun elective".
 - 2x photo rosters printed out
     - One for attendance
     - One for "emergency book"
-- `initial_questionnaire.docx` printed out
+- `onboarding_questionnaire` GoogleDoc printed out
+    - https://docs.google.com/document/d/1bW9b2NI0djoE6E-tIGxNxXCssTkwl12l5mdgXjBWh_E
 
 ### Actual Lesson
 
@@ -68,7 +69,7 @@ closer in tenor to a math class than a "fun elective".
             - Go to https://codepen.io/hippiefuturist/full/NRWOxM
                 - Make sure branches recursive levels are initially set to 0
 - Distribute "getting to know you" sheet
-    - `initial_questionnaire.docx`
+    - `onboarding_questionnaire`
 
 ### Homework
 
