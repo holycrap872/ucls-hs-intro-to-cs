@@ -14,6 +14,8 @@ closer in tenor to a math class than a "fun elective".
 - 2x photo rosters printed out
     - One for attendance
     - One for "emergency book"
+- Proper dates put into "Appointment Assignment"
+- Dates added to Google Appointment Calendar that match those dates
 - `onboarding_questionnaire` GoogleDoc printed out
     - https://docs.google.com/document/d/1bW9b2NI0djoE6E-tIGxNxXCssTkwl12l5mdgXjBWh_E
 
@@ -68,6 +70,30 @@ closer in tenor to a math class than a "fun elective".
             - Show picture of a tree
             - Go to https://codepen.io/hippiefuturist/full/NRWOxM
                 - Make sure branches recursive levels are initially set to 0
+            - Show recursion program with turtles
+                ```
+                from turtle import *
+
+                def do_something_2(cur_size, num_levels):
+                    if num_levels <= 1:
+                        for i in range(3):
+                        forward(10)
+                        right(120)
+                    else:
+                        pensize(num_levels)
+                        forward(cur_size)
+                        left(30)
+                        do_something_2(cur_size / 2, num_levels - 1)
+                        right(60)
+                        do_something_2(cur_size / 2, num_levels - 1)
+                        left(30)
+                        back(cur_size)
+
+                # speed(0)  # Uncomment this line to make the turtle go fast
+                left(90)
+                backward(50)
+                do_something_2(100.0, 5)
+                ```
 - Distribute "getting to know you" sheet
     - `onboarding_questionnaire`
 
@@ -95,3 +121,5 @@ This will **prove** that you know how to use my appointment calendar AND you
 know where the Computer Science office is located, so there is no excuse for not
 utilizing this resource in the future.
 ```
+
+> Note: Make sure to replace existing dates w/ correct dates AND to set up calendar
