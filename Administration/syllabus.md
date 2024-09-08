@@ -9,8 +9,8 @@ data can be stored, transmitted, and manipulated by algorithms / computer code.
 
 - To learn binary (the number system of electrical machines) and various data /
   file formats that use this to represent other kinds of data.
-- To learn the Python programming language which they will use to implement
-  algorithms which manipulate data.
+- To learn the Python programming language, which they will use to implement
+  algorithms that manipulate data.
 - To enhance problem solving skills to enable students to approach large,
   complex problems and break them down into more manageable pieces.
 
@@ -86,7 +86,7 @@ submitted by saving the work to a Google Drive folder which students will share
 with their instructor (also by 11:59 PM before the next class). Quizzes will
 be done on Schoology. 
 
-Late or revised homework, projects and quizzes will be accepted with a
+Late or revised homework, projects, and quizzes will be accepted with a
 letter-grade penalty up until the end of a unit. Once we move on to the next
 unit, no late or revised work from the prior units will be accepted. In practice,
 though, you will want to complete any missing assignments as soon as possible as
