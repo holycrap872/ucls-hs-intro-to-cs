@@ -14,13 +14,12 @@ class on binary relates.
 
 ### Setup
 
-- Odometer site loaded up
-    - https://studio.code.org/s/odometer/lessons/1/levels/1
-        - Delete `<tr>` for Octal and "Custom"
+- TIL ownership turned back over to original person
+    - TIL excel sheet made
 - `cashboxes_classwork` GoogleDoc printed out
     - https://docs.google.com/document/d/1esNFXNXknUZ8u6ecfAX23CCBElGLJUJnZ275CTJN3lY
     - Printed b/c they're working in pairs
-    - Divided so that will get new sheet once finish previous sheet
+    - Collated so that will get new sheet once finish previous sheet
 
 ### Actual Lesson
 
@@ -54,4 +53,5 @@ class on binary relates.
 
 #### Homework
 
+- Reflection sheet (if didn't finish in class)
 - TIL on what a "base-X number system" means

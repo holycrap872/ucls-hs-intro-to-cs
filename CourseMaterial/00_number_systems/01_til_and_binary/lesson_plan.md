@@ -16,6 +16,7 @@ talking about binary numbers.
 - YouTube video loaded up
     - Infinite fern: https://youtu.be/Zh4oVYty61M?si=34V-WuqAFQC64uN2
 - Josh's GitHub repo up and ready to talk about
+    - https://github.com/jbranchaud/til
 - TIL template deployed on Schoology
     - Template: https://docs.google.com/document/d/1ynScUCTYosNu9PKraO--jkVsilk-S9OxNUXmhR1HxsI
     - Rubric: https://docs.google.com/document/d/1j5vw3IYppMSfC5TPs2JEx6PjW4-oDo8FrpmEhXEj7lA
@@ -57,7 +58,7 @@ talking about binary numbers.
         - 0
     - Have them count up from 0 - 16
         - Can anyone see the patterns?
-- Do two board problems on board
+- Do two problems on board
     - decimal -> binary
     - binary -> decimal
 - Can store more than 10 numbers on fingers
@@ -71,6 +72,9 @@ talking about binary numbers.
     - What happens every time you add a place?
         - binary: number doubles
         - decimal: number 10x
+- Why binary
+    - Originally both decimal and binary computers
+    - Binary won... why?
 - TIL homework
     - Tonight doing a TIL on binary numbers
     - What would a good entry look like?
