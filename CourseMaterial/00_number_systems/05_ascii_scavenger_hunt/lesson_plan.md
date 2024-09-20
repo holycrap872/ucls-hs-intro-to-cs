@@ -19,19 +19,20 @@ and protocols for allowing people to communicate.
 
 ### Actual Lesson
 
+- Collect homework
 - Review
     - Hex, binary, decimal
         - Do a few conversion problems on the board
-    - Hex and color
-    - What is HexFiend and why is it so powerful?
 - TIL entries
-    - Review a few
+    - Review a few on hex
     - "Grade" as a class
 - Today, going to do a scavenger hunt
     - Go over rules
+        - Timer of 5m every time you leave the classroom.
         - Come back when find clue!!!
     - Each group has their own unique path, so don't follow
 - Go!
+- Reconvene with 10m left
 - Hit on standards
     - Why so important
     - What other standards?
@@ -42,3 +43,5 @@ and protocols for allowing people to communicate.
 ### Homework
 
 - TIL on ASCII
+- Assessment on Schoology
+    - Up to 20 retakes

@@ -27,7 +27,7 @@ prepared to take a quiz on decimal/binary/hex at the beginning of next class.
     - Do a few sample problems on the board
 - Show LOTR clip
     - https://youtu.be/i6LGJ7evrAg?si=1OSXS3fVbOS8tNrK
-    - What is happing here?
+    - What is happening here?
     - If this was a computer, what would be different
         - byte -> 8 bonfires
 - Today going to do hexadecimal
@@ -56,4 +56,4 @@ prepared to take a quiz on decimal/binary/hex at the beginning of next class.
 ### Homework
 
 - `hex_review_hw`
-- TIL entry on topic of your choice
+- TIL entry on hexadecimal
