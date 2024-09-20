@@ -1,12 +1,12 @@
 ## Essential Questions
 
-- How can hexadecimal be used to efficiently represent bytes of information?
+- How can hex be used to efficiently represent information stored in a computer?
 
 ## Lesson Plan
 
 In this class, students will be given a worksheet that will lead them towards
 understanding the power of hexadecimal. It will culminate with them being
-prepared to take a quiz on decimal/binary/hex at the beginning of next class.
+prepared to articulate why hex is so commonly seen w/ computers.
 
 ### Setup
 
@@ -49,8 +49,8 @@ prepared to take a quiz on decimal/binary/hex at the beginning of next class.
     - Any questions?
     - Go
 - Call the lesson with ~5m left and do a quick summation
-- Reminder: quiz at beginning of next class
-    - Feel free to add entry to TIL, but will be graded
+    - Why is hex so common
+    - How many bytes in 0xDEADBEEF
 - Hand out homework
 
 ### Homework

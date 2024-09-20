@@ -17,9 +17,16 @@ worksheet that has them using HexFiend to create/alter emojis.
 
 ### Actual Lesson
 
+- Announcements:
+    - Test coming up
+    - Collect crosswords
 - Reflection
     - Bits, Binary, ASCII
     - Standards
+    - 1's and 0's don't mean anything until interpretted
+        - Show four hex digits
+            - how many bytes?
+            - What does it mean: in text, in colors, in number?
 - Emoji Riddles
     - house, candy, house -> "home sweet home"
 - Today going to explore how emojis are encoded
@@ -58,6 +65,7 @@ worksheet that has them using HexFiend to create/alter emojis.
 ### Homework
 
 - TIL entry on unicode
+- Schoology assessment
 
 ### Resources
 

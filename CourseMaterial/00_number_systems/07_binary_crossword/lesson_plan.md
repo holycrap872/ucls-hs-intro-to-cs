@@ -1,6 +1,6 @@
 ## Essential Questions
 
-- How do we represent text with hex?
+- How do we represent images with hex?
 - Why is context important when decoding data in a computer?
 
 ## Lesson:
@@ -13,25 +13,38 @@ context in order to be properly understood.
 
 ### Setup
 
-- HexFiend installed on computers
+- RGB lattice for demo purposes
+- Candy for students who got highest scores in "the flippy bit game"
 - `bits_and_binary_review.pdf` printed out
 
 ### Actual Lesson
 
-- Reflection
-    - Scavenger hunt
-    - ASCII
-    - Importance of standards
-- HexFiend demo
-    - Create a file that says "hi!" in HexFiend
-    - Open it up with TextEdit
-- HexFiend jokes
-    - Break up into pairs
-    - Find a short joke
-    - Encode it
 - Review
-    - What does this show?
-- Start second part of class: binary crossword
+    - ASCII
+    - Hex
+    - HexFiend
+- Today going to talk about other kinds of data
+    - So far: numbers, text
+- Pictures
+    - When in MS did black/white
+    - Do picture of tea cup
+- How do colored picture?
+    - Lick thumb and put it on phone: what colors do you see?
+    - RGB
+    - Show RGB lattice
+    - Decode a picture together
+- RGB formally
+    - Sliders in word
+        - Relate to lattice
+    - 3 bytes per color
+- Hex in real images
+    - HexFiend of bitmap
+        - `simple.bmp`
+    - Represent/guess various colors
+    - Will eventually do this at end of year
+- Do bunch of hex memes
+    - Why are they funny?
+- Set up binary crossword
     - Do small example in slide show
 - Break up into pairs
 - Give half the pairs page 1 to work on and half the pairs page 2
@@ -54,5 +67,6 @@ context in order to be properly understood.
 
 ## Homework
 
+- TIL entry on RGB
 - Finish `bits_and_binary_review.pdf`
     - Note: I changed the answer for question 22 from 0xAPPLE -> 0xBEEF

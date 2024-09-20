@@ -1,61 +1,59 @@
 ## Essential Questions
 
 - Why is hexadecimal so common in CS?
-- Where do we see hexadecimal 
+- Where do we see hexadecimal?
 
 ## Lesson Plan
 
 In this class, students see places where hex shows up in the computer. In
 particular, students are introduced to topics/tools that will recur throughout
 the year including HexFiend and RBG colors. Finally, the class ends with playing
-"the flippy bit game" to bring a little fun to what's been a bit of a boring
-slog.
+"the flippy bit game".
 
 ### Setup
 
-- RGB lattice for demo purposes
 - Compiled version of `simple.c` (`gcc -o simple simple.c`)
-- Candy for the person who gets highest score in "the flippy bit game"
+- HexFiend installed on computers
+- `hexfiend_classwork` GoogleDoc printed out
+    - Printed b/c they're sketching
+    - https://docs.google.com/document/d/10esTMQ7dVPqxuLoiB1pYsntUwUWHYAAu8rS1RyC4kWs
+- Flippybit GoogleDoc shared on Schoology
 
 ### Actual Lesson
 
-- Collect homework
-- Reminder: Quiz on hex and binary
-    - If finish early, can play flippy bit game
-    - High score gets a candy bar
 - Review
     - Hex, decimal, binary
-- Pictures
-    - When in MS did black/white
-    - Do picture of tea cup
-- How do colored picture?
-    - Lick thumb and put it on phone: what colors do you see?
-    - RGB
-    - Show RGB lattice
-    - Decode a picture together
-- RGB formally
-    - Sliders in word
-        - Relate to lattice
-    - 3 bytes per color
-- Hex in real images
-    - HexFiend of bitmap
-        - `simple.bmp`
-    - Represent/guess various colors
-    - Will eventually do this at end of year
-- Hex in real code
-    - Show c program that just prints out "hello" (`simple.c`)
-    - Explain (briefly) compilation
-        - `gcc -o simple simple.c`
-    - Show objdump of program
-        - `objdump -D simple | less`
-- Do bunch of hex memes
-    - Why are they funny?
-- Show flippy bit game
-    - High score gets candy
+    - ASCII
+    - Standards
+- Why hex so important
+    - More compact representation of binary
+- Show places where hex is used
+    - Colors in Microsoft Work sliders
+    - Objdump
+    - Wireshark
+- Show HexFiend
+    - HexFiend can read every single file on a computer: why?
+- Open up HexFiend and show what it can do
+    - Save empty file to the desktop
+    - Why can't I type 0x0G?
+    - Why can HexFiend open any file?
+- HexFiend Demo
+    - Put TextEdit and HexFiend side by side
+        - Put HexFiend in "reload unmodified" mode
+            - `Edit` -> `Reload Unmodified`
+- Today you're going to alter fundamental bits
+    - Walk through hexfiend
+    - Have log in
+    - Hand out worksheet
+    - Go!
+- Reconvene
+    - What did you see?
+- Start homework if there's time
+    - Homework is to get above 10 in a row in flippy bit game
+        - Take screenshot
+    - Top three scores get candybars of their choice
 
  #### Homework
  
- - Schoology assessment
-    - Based on `assessment.md`
-    - 20 retakes
- - TIL on RGB and Hex
+ - TIL entry on why hex is so common
+ - Flippy bit game
