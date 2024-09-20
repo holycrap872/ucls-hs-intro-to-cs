@@ -1,0 +1,10 @@
+- How many symbols does binary have
+- How many symbols does hex have
+- Match the following hex/decimal numbers
+- What is the following hex number in decimal
+- What is the following decimal number in hex
+- In ASCII, what is the encoding of this word
+- What are these bytes in ASCII?
+- Why is hex so prevalent in computers
+- How many bytes are the following ascii characters?
+- Why are standards important?

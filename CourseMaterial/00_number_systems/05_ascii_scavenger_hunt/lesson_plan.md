@@ -23,6 +23,7 @@ and protocols for allowing people to communicate.
 - Review
     - Hex, binary, decimal
         - Do a few conversion problems on the board
+    - Bytes, nibbles
 - TIL entries
     - Review a few on hex
     - "Grade" as a class
