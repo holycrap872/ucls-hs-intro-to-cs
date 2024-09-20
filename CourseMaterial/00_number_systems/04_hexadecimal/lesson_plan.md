@@ -10,6 +10,8 @@ prepared to take a quiz on decimal/binary/hex at the beginning of next class.
 
 ### Setup
 
+- YouTube video loaded up
+    - https://youtu.be/i6LGJ7evrAg?si=1OSXS3fVbOS8tNrK
 - `hex_classwork` GoogleDoc printed out
     - https://docs.google.com/document/d/1W78ZKpljpYbSOuBPiIZ7HeDdjppLFt70yxR65a2MYX4
 - `hex_review_hw` GoogleDoc printed out
@@ -20,8 +22,14 @@ prepared to take a quiz on decimal/binary/hex at the beginning of next class.
 
 - Review
     - Binary and decimal
+    - Bits, bytes, nibbles
     - Go through a few TILs
     - Do a few sample problems on the board
+- Show LOTR clip
+    - https://youtu.be/i6LGJ7evrAg?si=1OSXS3fVbOS8tNrK
+    - What is happing here?
+    - If this was a computer, what would be different
+        - byte -> 8 bonfires
 - Today going to do hexadecimal
     - Why hexadecimal
         - 6 + 10
@@ -48,3 +56,4 @@ prepared to take a quiz on decimal/binary/hex at the beginning of next class.
 ### Homework
 
 - `hex_review_hw`
+- TIL entry on topic of your choice

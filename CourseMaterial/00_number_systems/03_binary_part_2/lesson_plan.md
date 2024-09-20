@@ -23,6 +23,8 @@ like bit, byte, nibble.
 ### Lesson Plan
 
 - Opening Problem
+    - Convert 0b -> 0d and 0d -> 0b
+    - **Collect homework** while doing this
 - Review last class
     - Different cashboxes
     - Base-10 -> decimal
@@ -53,6 +55,7 @@ like bit, byte, nibble.
     - Binary: 2x number
     - QR codes
         - How many numbers can a 10x10 QR code represent?
+- Hand out worksheet
 
 ### Homework
 
