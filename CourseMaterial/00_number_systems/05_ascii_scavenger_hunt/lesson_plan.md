@@ -14,8 +14,8 @@ and protocols for allowing people to communicate.
 ### Setup
 
 - Scavenger hunt set up
-    - Clues distributed around school
     - https://docs.google.com/spreadsheets/d/1-6gDOtzs0r-PXiVjRgclm6DzgXySXCEntQzXS9CB3tU
+    - Clues distributed around school
 
 ### Actual Lesson
 

@@ -5,9 +5,9 @@
 ## Lesson Plan
 
 In this class, students are exploring how altering hex encodings can result
-in changing the text/emojis stored in a text file. The class begins with a
-little fun in the form of emoji riddles. Then, students work through a emoji
-worksheet that has them using HexFiend to create/alter emojis.
+in changing the emojis stored in a text file. The class begins with a little
+fun in the form of emoji riddles. Then, students work through a emoji worksheet
+that has them using HexFiend to create/alter emojis.
 
 ### Setup
 

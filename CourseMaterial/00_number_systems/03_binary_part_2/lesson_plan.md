@@ -5,7 +5,7 @@
 ## Lesson Plan
 
 In this class, students review and build on the previous two lessons (binary
-and hexadecimal). Students will revisit how different number systems work and
+and cashboxes). Students will revisit how different number systems work and
 then learn new language having to do with the size of information with words
 like bit, byte, nibble.
 

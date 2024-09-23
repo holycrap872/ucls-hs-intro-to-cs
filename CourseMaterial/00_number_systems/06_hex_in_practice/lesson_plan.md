@@ -16,8 +16,9 @@ the year including HexFiend and RBG colors. Finally, the class ends with playing
 - HexFiend installed on computers
 - `hexfiend_classwork` GoogleDoc printed out
     - Printed b/c they're sketching
-    - https://docs.google.com/document/d/10esTMQ7dVPqxuLoiB1pYsntUwUWHYAAu8rS1RyC4kWs
+    - https://docs.google.com/document/d/1QBQFZy7oRVLWU8Fvbh-ymdTY-KpSJ-f1M6pmo1ItcpA
 - Flippybit GoogleDoc shared on Schoology
+    - https://docs.google.com/document/d/1lYOHIIgLehjzlOMM8j1c-otZITgJmejcPuDSzgpgOBA
 
 ### Actual Lesson
 
@@ -48,6 +49,7 @@ the year including HexFiend and RBG colors. Finally, the class ends with playing
     - Go!
 - Reconvene
     - What did you see?
+    - Unlimited power meme
 - Start homework if there's time
     - Homework is to get above 10 in a row in flippy bit game
         - Take screenshot

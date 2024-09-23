@@ -5,11 +5,9 @@
 
 ## Lesson:
 
-In this class, students are basically reviewing ASCII. There are two mini
-activities that address this. First, students use HexFiend for the first time
-byt themselves to write their own joke in hex. Second, students do (a part of)
-a binary crossword puzzle. The point of the puzzle is that numbers require
-context in order to be properly understood.
+In this class, students are basically reviewing hex representation in computers.
+Students do (a part of) a binary crossword puzzle. The point of the puzzle is
+that numbers require context in order to be properly understood.
 
 ### Setup
 

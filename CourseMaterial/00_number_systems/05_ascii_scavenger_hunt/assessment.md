@@ -6,5 +6,5 @@
 - In ASCII, what is the encoding of this word
 - What are these bytes in ASCII?
 - Why is hex so prevalent in computers
-- How many bytes are the following ascii characters?
+- How many bytes are the following ASCII characters
 - Why are standards important?
