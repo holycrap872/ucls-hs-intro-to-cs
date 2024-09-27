@@ -10,8 +10,6 @@ prepared to articulate why hex is so commonly seen w/ computers.
 
 ### Setup
 
-- YouTube video loaded up
-    - https://youtu.be/i6LGJ7evrAg?si=1OSXS3fVbOS8tNrK
 - `hex_classwork` GoogleDoc printed out
     - https://docs.google.com/document/d/1W78ZKpljpYbSOuBPiIZ7HeDdjppLFt70yxR65a2MYX4
 - `hex_review_hw` GoogleDoc printed out

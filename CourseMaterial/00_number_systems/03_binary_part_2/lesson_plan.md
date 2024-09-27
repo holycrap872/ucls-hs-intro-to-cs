@@ -14,8 +14,9 @@ like bit, byte, nibble.
 - Various "odometers" loaded up
     - https://studio.code.org/s/odometer/lessons/1/levels/1
         - Use dev tools to delete `<tr>` for Octal and "Custom"
-- Youtube videos loaded up
+- YouTube videos loaded up
     - Cardboard Odometer: https://youtu.be/v83Uvg_ySK8?si=v3vHeVW9aANa8eal&t=8
+    - Gandalf: https://youtu.be/i6LGJ7evrAg?si=1OSXS3fVbOS8tNrK
 - `binary_hw` GoogleDoc printed out
     - Printed b/c they have to show their work and draw
     - https://docs.google.com/document/d/1OVhUWFlEIlsp_gH8zQgWGpHzvemCEDKYeitS9gKngZ8
