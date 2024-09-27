@@ -12,12 +12,13 @@ the year including HexFiend and RBG colors. Finally, the class ends with playing
 
 ### Setup
 
-- Compiled version of `simple.c` (`gcc -o simple simple.c`)
 - HexFiend installed on computers
-- `hexfiend_classwork` GoogleDoc printed out
-    - Printed b/c they're sketching
+- `Hexfiend Classwork` GoogleDoc loaded into Schoology
     - https://docs.google.com/document/d/1QBQFZy7oRVLWU8Fvbh-ymdTY-KpSJ-f1M6pmo1ItcpA
-- Flippybit GoogleDoc shared on Schoology
+- Files to operate/mess with
+    - `simple.bmp`
+    - `simple` executable (`gcc -o simple simple.c`)
+- `Flippy Bit Homework` GoogleDoc shared on Schoology
     - https://docs.google.com/document/d/1lYOHIIgLehjzlOMM8j1c-otZITgJmejcPuDSzgpgOBA
 
 ### Actual Lesson
@@ -26,12 +27,8 @@ the year including HexFiend and RBG colors. Finally, the class ends with playing
     - Hex, decimal, binary
     - ASCII
     - Standards
-- Why hex so important
+- Why hex is so important
     - More compact representation of binary
-- Show places where hex is used
-    - Colors in Microsoft Work sliders
-    - Objdump
-    - Wireshark
 - Show HexFiend
     - HexFiend can read every single file on a computer: why?
 - Open up HexFiend and show what it can do
@@ -42,20 +39,31 @@ the year including HexFiend and RBG colors. Finally, the class ends with playing
     - Put TextEdit and HexFiend side by side
         - Put HexFiend in "reload unmodified" mode
             - `Edit` -> `Reload Unmodified`
+    - Show various things
 - Today you're going to alter fundamental bits
-    - Walk through hexfiend
+    - Walk through HexFiend
     - Have log in
     - Hand out worksheet
     - Go!
 - Reconvene
     - What did you see?
     - Unlimited power meme
+- Show places where hex is used
+    - Numbers
+    - Text
+    - Colors in Microsoft Work sliders
+    - Pictures
+        - Edit `simple.bmp` with HexFiend
+        - Make sure HexEdit is in overwrite mode
+    - Objdump
+    - Wireshark
+        - Need to be admin
 - Start homework if there's time
-    - Homework is to get above 10 in a row in flippy bit game
+    - Homework is to get above 9+ in a row in flippy bit game
         - Take screenshot
     - Top three scores get candybars of their choice
 
  #### Homework
  
- - TIL entry on why hex is so common
+ - TIL entry on topic of choice
  - Flippy bit game

@@ -11,7 +11,7 @@ that has them using HexFiend to create/alter emojis.
 
 ### Setup
 
-- `emoji_classwork` GoogleDoc printed out
+- `Emoji Classwork` GoogleDoc printed out
     - Printed b/c they're sketching
     - https://docs.google.com/document/d/10esTMQ7dVPqxuLoiB1pYsntUwUWHYAAu8rS1RyC4kWs
 
