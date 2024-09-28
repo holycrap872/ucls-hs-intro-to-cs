@@ -14,6 +14,9 @@ that has them using HexFiend to create/alter emojis.
 - `Emoji Classwork` GoogleDoc printed out
     - Printed b/c they're sketching
     - https://docs.google.com/document/d/10esTMQ7dVPqxuLoiB1pYsntUwUWHYAAu8rS1RyC4kWs
+- YouTube videos loaded and ready to go
+    - https://youtu.be/MijmeoH9LT4?si=7pETiHXkcnlVBU_G
+        - Watch from 00:00:00 - 00:04:30
 
 ### Actual Lesson
 

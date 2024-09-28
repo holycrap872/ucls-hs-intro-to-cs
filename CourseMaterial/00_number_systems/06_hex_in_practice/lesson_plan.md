@@ -40,28 +40,30 @@ the year including HexFiend and RBG colors. Finally, the class ends with playing
         - Put HexFiend in "reload unmodified" mode
             - `Edit` -> `Reload Unmodified`
     - Show various things
-- Today you're going to alter fundamental bits
-    - Walk through HexFiend
-    - Have log in
-    - Hand out worksheet
+        - Side by side changes
+        - Emphasize saving and how sends 1's and 0's to harddrive
+        - **GO REALLY SLOW HERE...** they struggle with stuff like files etc.
+- Today you're going to alter the fundamental bits stored in a computer
+    - Talk through worksheet
+    - Partner up (same as ASCII partners)
     - Go!
+    - If finish early, have them work on Flippy Bit homework
 - Reconvene
     - What did you see?
     - Unlimited power meme
 - Show places where hex is used
     - Numbers
     - Text
-    - Colors in Microsoft Work sliders
     - Pictures
         - Edit `simple.bmp` with HexFiend
         - Make sure HexEdit is in overwrite mode
-    - Objdump
-    - Wireshark
-        - Need to be admin
-- Start homework if there's time
+- Flippy Bit
+    - Explain how game works
+    - Give examples of how encode binary nibbles to hit hex digits
     - Homework is to get above 9+ in a row in flippy bit game
         - Take screenshot
-    - Top three scores get candybars of their choice
+    - Top score gets candybar of their choice
+- Start homework if there's time
 
  #### Homework
  
