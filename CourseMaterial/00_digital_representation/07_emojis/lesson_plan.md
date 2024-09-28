@@ -16,14 +16,17 @@ that has them using HexFiend to create/alter emojis.
     - https://docs.google.com/document/d/10esTMQ7dVPqxuLoiB1pYsntUwUWHYAAu8rS1RyC4kWs
 - YouTube videos loaded and ready to go
     - https://youtu.be/MijmeoH9LT4?si=7pETiHXkcnlVBU_G
-        - Watch from 00:00:00 - 00:04:30
+- Unicode websites loaded up:
+    - https://www.unicode.org/alloc/Pipeline.html
+    - https://www.unicode.org/emoji/proposals.html 
 
 ### Actual Lesson
 
 - Announcements:
     - Test coming up
-    - Collect crosswords
-- Reflection
+- Review
+    - Flippy Bit Game
+    - HexFiend
     - Bits, Binary, ASCII
     - Standards
     - 1's and 0's don't mean anything until interpretted
@@ -49,25 +52,25 @@ that has them using HexFiend to create/alter emojis.
     - Save to the desktop
 - Hand out worksheet
     - Work in pairs
-    - Work
     - Any questions?
     - Go!
+- Watch video on Unicode
+    - https://youtu.be/MijmeoH9LT4?si=7pETiHXkcnlVBU_G
+        - Watch from 00:00:00 - 00:04:30
 - Reflection
     - Show some student's emoji riddles on the board
     - To end, emphasize that 1's and 0's don't mean anything until interpreted
     - Unicode consortium
-        - https://www.unicode.org/emoji/proposals.html 
+        - https://www.unicode.org/emoji/proposals.html
         - https://www.unicode.org/alloc/Pipeline.html
         - Why is unicode consortium necessary?
         - What happens when an emoji is "approved"
-    - Skin colors
-        - Just put a bunch of extra stuff after the base yellow person
     - What happens when send an emoji to your friend on your phone with a different OS?
         - https://www.helloleads.io/blog/wp-content/uploads/2020/07/examples-that-appear-in-different-platforms-1024x806.png
 
 ### Homework
 
-- TIL entry on unicode
+- TIL entry on topic of your choice
 - Schoology assessment
 
 ### Resources
