@@ -67,4 +67,4 @@ APPLE: 0X41, 0X50, 0X50, 0X4C, 0X45 in ASCII
 00001000: The number of bits in a byte (binary)
 10101000: A clue of your own that will fit in this space
 ff00ff: A clue of your own that will fit in this space
-
+11001: on on off off on
