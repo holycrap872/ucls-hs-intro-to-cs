@@ -30,32 +30,26 @@ that numbers require context in order to be properly understood.
     - Lick thumb and put it on phone: what colors do you see?
     - RGB
     - Show RGB lattice
-    - Decode a picture together
 - RGB formally
     - Sliders in word
         - Relate to lattice
     - 3 bytes per color
-- Hex in real images
-    - HexFiend of bitmap
-        - `simple.bmp`
-    - Represent/guess various colors
-    - Will eventually do this at end of year
-- Do bunch of hex memes
-    - Why are they funny?
+- Decode a small picture together
 - Set up binary crossword
     - Do small example in slide show
-- Break up into pairs
-- Give half the pairs page 1 to work on and half the pairs page 2
-- Let everyone solve
-    - For kids that finish early:
-        - Have them create _more_ questions for "come up with your own question" sections
-        - Have them create replacement questions for ones I already had
+- Binary crossword
+    - Break up into pairs
+    - Give half the pairs page 1 to work on and half the pairs page 2
+    - Let everyone solve
+        - For kids that finish early:
+            - Have them create _more_ questions for "come up with your own question" sections
+            - Have them create replacement questions for ones I already had
 - Come back together and share the fact two different puzzles with same answers
     - How?
     - Why?
         - Binaries just really store 1s and 0s... just matters how you look at it
-- Favorite question for those who did page 1?
-- Favorite question for those who did page 2?
+    - Favorite question for those who did page 1?
+    - Favorite question for those who did page 2?
 - What questions did people come up with for your own custom question 
 - Bonus questions:
     - 0xDEADBEEF is very common in programs, why?
