@@ -27,8 +27,9 @@ the year including HexFiend and RBG colors. Finally, the class ends with playing
     - Hex, decimal, binary
     - ASCII
     - Standards
-- Why hex is so important
-    - More compact representation of binary
+- How computers save data
+    - Store 1's and 0's on an actual hard drive
+    - Hex is just a more compact representation of binary
 - Show HexFiend
     - HexFiend can read every single file on a computer: why?
 - Open up HexFiend and show what it can do
@@ -40,9 +41,13 @@ the year including HexFiend and RBG colors. Finally, the class ends with playing
         - Put HexFiend in "reload unmodified" mode
             - `Edit` -> `Reload Unmodified`
     - Show various things
-        - Side by side changes
-        - Emphasize saving and how sends 1's and 0's to harddrive
-        - **GO REALLY SLOW HERE...** they struggle with stuff like files etc.
+        - Text
+            - Side by side changes
+            - Emphasize saving and how sends 1's and 0's to hard drive
+            - **GO REALLY SLOW HERE...** they struggle with stuff like files etc.
+        - Pictures
+            - Edit `simple.bmp` with HexFiend
+            - Make sure HexEdit is in overwrite mode
 - Today you're going to alter the fundamental bits stored in a computer
     - Talk through worksheet
     - Partner up (same as ASCII partners)
@@ -50,13 +55,7 @@ the year including HexFiend and RBG colors. Finally, the class ends with playing
     - If finish early, have them work on Flippy Bit homework
 - Reconvene
     - What did you see?
-    - Unlimited power meme
-- Show places where hex is used
-    - Numbers
-    - Text
-    - Pictures
-        - Edit `simple.bmp` with HexFiend
-        - Make sure HexEdit is in overwrite mode
+    - "Unlimited Power" meme
 - Flippy Bit
     - Explain how game works
     - Give examples of how encode binary nibbles to hit hex digits
@@ -68,4 +67,4 @@ the year including HexFiend and RBG colors. Finally, the class ends with playing
  #### Homework
  
  - TIL entry on topic of choice
- - Flippy bit game
+ - Flippy Bit game
