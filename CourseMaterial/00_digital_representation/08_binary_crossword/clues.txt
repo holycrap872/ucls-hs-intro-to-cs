@@ -8,15 +8,15 @@ decimal -> binary
 
 binary -> decimal
 
-118: The binary number 1110110 (decimal)
-51: The binary number 110011 (decimal)
-10010: The binary number 10011100011010 (decimal)
+118: The binary number 0b1110110 (decimal)
+51: The binary number 0b110011 (decimal)
+10010: The binary number 0b10011100011010 (decimal)
 
 hex -> decimal
 
-251: The hexadecimal number fb (decimal)
-300: The hexadecimal number 12c (decimal)
-200: The hexadecimal number C8 (decimal)
+251: The hexadecimal number 0xFB (decimal)
+300: The hexadecimal number 0x12C (decimal)
+200: The hexadecimal number 0xC8 (decimal)
 
 decimal -> hex
 
@@ -38,7 +38,7 @@ Colors
 ffffff: The color white in RGB hex encoding
 ff0000: The color red in RGB hex encoding
 00ffff: The color cyan in RGB hex encoding
-111111: The dark gray in RGB hex encoding
+ff00ff: The color magenta in RGB hex encoding
 
 # Math stuff
 
@@ -48,24 +48,24 @@ ff0000: The color red in RGB hex encoding
 
 # ASCII
 
-101: The letter "A" in ASCII (octal)
-111: The letter "o" in ASCII (decimal)
-50: The letter "P" in ASCII
-127: The number of letters in the original ASCII chart
-01000001: The letter "A" in ASCII (binary)
-00100000: A space in ASCII (binary)
-7B: The character "{" in ASCII (hex)
-12: 0X31, 0X32 in ASCII
-APPLE: 0X41, 0X50, 0X50, 0X4C, 0X45 in ASCII
+101: The ASCII letter "A" (octal)
+111: The ASCII letter "o" (decimal)
+50: The ASCII letter "P" (hex)
+127: The number of letters in the original ASCII chart (decimal)
+01000001: The ASCII letter "A" (binary)
+00100000: A ASCII space character (binary)
+7B: The ASCII character "{" (hex)
+12: 0x31, 0x32 in ASCII
+APPLE: 0x41, 0x50, 0x50, 0x4C, 0x45 in ASCII
 0100100001101001: "Hi" in ASCII (binary)
 
 # Other clues
 
-0a: The character that produces a new line ASCII (hex)
+0a: The character that produces a new line in ASCII (hex)
 40: The number of bits in 5 bytes (decimal)
-16: The number of symbols used in hexadecimal
+16: The number of symbols used in hexadecimal (decimal)
 00001000: The number of bits in a byte (binary)
-10101000: A clue of your own that will fit in this space
-ff00ff: A clue of your own that will fit in this space
-11001: on on off off on
-00001110: off off off off on on on off
+10101000: The number decimal number 168 (binary)
+11001: on on off off on (binary)
+00001110: off off off off on on on off (binary)
+111111: 0b111110 + 0b1 (binary)
