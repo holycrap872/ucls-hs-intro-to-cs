@@ -5,15 +5,18 @@
 
 ## Lesson:
 
-In this class, students are basically reviewing hex representation in computers.
-Students do (a part of) a binary crossword puzzle. The point of the puzzle is
-that numbers require context in order to be properly understood.
+In this class, students are introduced to one final "digital representation"
+concept: RGB. Then, they are basically reviewing all of the ways that data can
+be represented in computers. Students do (a part of) a digital representation
+crossword puzzle. The point of the puzzle is that numbers require context in
+order to be properly understood.
 
 ### Setup
 
 - RGB lattice for demo purposes
 - Candy for students who got highest scores in "the flippy bit game"
-- `bits_and_binary_review.pdf` printed out
+- `digital_representation_crossword` printed out
+    - Printed on two sheets and stapled
 
 ### Actual Lesson
 

@@ -48,11 +48,11 @@ ff00ff: The color magenta in RGB hex encoding
 
 # ASCII
 
-101: The ASCII letter "A" (octal)
-111: The ASCII letter "o" (decimal)
-50: The ASCII letter "P" (hex)
-127: The number of letters in the original ASCII chart (decimal)
-01000001: The ASCII letter "A" (binary)
+101: The ASCII uppercase letter "A" (octal)
+111: The ASCII lowercase letter "o" (decimal)
+50: The ASCII uppercase letter "P" (hex)
+127: The highest valued ASCII character on the original ASCII chart (decimal)
+01000001: The ASCII uppercase letter "A" (binary)
 00100000: A ASCII space character (binary)
 7B: The ASCII character "{" (hex)
 12: 0x31, 0x32 in ASCII
