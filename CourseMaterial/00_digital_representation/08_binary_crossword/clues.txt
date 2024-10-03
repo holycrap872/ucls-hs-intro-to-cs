@@ -30,7 +30,7 @@ hex -> binary
 
 binary -> hex
 
-10: The binary number 0b10100000 (hex)
+10: The binary number 0b00010000 (hex)
 62: The binary number 0b01100010 (hex)
 
 Colors
