@@ -66,5 +66,4 @@ the year including HexFiend and RBG colors. Finally, the class ends with playing
 
  #### Homework
  
- - TIL entry on topic of choice
  - Flippy Bit game
