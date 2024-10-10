@@ -54,4 +54,4 @@ prepared to articulate why hex is so commonly seen w/ computers.
 ### Homework
 
 - `hex_review_hw`
-- TIL entry on hexadecimal
+- TIL entry on converting binary to hex

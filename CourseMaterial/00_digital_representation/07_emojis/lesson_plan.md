@@ -70,7 +70,7 @@ that has them using HexFiend to create/alter emojis.
 
 ### Homework
 
-- TIL entry on topic of your choice
+- TIL entry on ASCII vs. unicode
 - Schoology assessment
 
 ### Resources

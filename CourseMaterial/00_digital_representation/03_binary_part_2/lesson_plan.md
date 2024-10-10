@@ -61,7 +61,7 @@ like bit, byte, nibble.
 ### Homework
 
 - `binary_hw` worksheet
-- TIL entry on topic of your choice
+- TIL entry on what a "bit" of information is
 
 ### Resources
 
