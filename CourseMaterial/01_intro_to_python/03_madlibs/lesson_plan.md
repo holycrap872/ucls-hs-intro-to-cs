@@ -22,11 +22,11 @@ home, students then make their own Mad Libs and share them amongst themselves.
     - Grok stuff
         - String vs. integers
         - 5 * "4"
-    - TIL
-        - Who's got a good one?
-        - Assess it
+- TIL Entries
+    - Find some good ones and put into slide show
 - Talk `input()`
     - Returns a string, so what does "please enter a number" entail?
+    - `int()` function
 - Mad Libs
     - Do example
     ```python
@@ -35,11 +35,11 @@ home, students then make their own Mad Libs and share them amongst themselves.
     animal = input("Enter an animal: ")
     number = int(input("Enter a number: "))
 
-    print(name, "walked into the forest looking for a normal", animal, ".")
-    print("Instead,", name, "got more than they could handle with", number)
-    print(color, animal + "s who were looking very hungry!")
-    print(name, "knew they could handle", number - 1, animal, "s, but", number, "was one too many")
-    print(name, "ran away very quickly")
+    print(f"{name} walked into the forest looking for a normal {animal}.")
+    print(f"Instead, {name} got more than they could handle with {number}")
+    print(f"{color} {animal}s who were looking very hungry! {name} knew")
+    print(f"they could handle {number - 1} {animal}s, but {number} was")
+    print(f"one too many, so {name} ran away very quickly.")
     ```
 - Have them do Mad Libs in pairs
     - Once finish, rotate and do another group's
@@ -52,7 +52,7 @@ home, students then make their own Mad Libs and share them amongst themselves.
 
 #### Homework
 
-- TIL entry
+- TIL entry in the `int()` function
 - Prep for quiz
 
 #### Extensions

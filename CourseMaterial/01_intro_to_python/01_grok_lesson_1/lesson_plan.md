@@ -1,13 +1,16 @@
 ## Essential Questions
 
 - What are variables and why are they useful?
-- How does Python differentiate between strings and numbers?
+- How does Python differentiate between words and numbers?
+- What operations can we perform on different data types?
 
 ## Lesson Plan
 
 This class will formalize the knowledge that students learned in the first
 module of Grok's "Python for Beginners" course, which focuses on strings,
-variables, and printing.
+variables, and printing. It will then cover the primitive "data types" that
+Python uses: string, floats, ints. Finally, it will show students where they
+can get to if they move quickly through the assignments.
 
 ### Setup
 
@@ -31,11 +34,16 @@ variables, and printing.
     - Why data types are important
     - `"4"` vs `4`
     - `"4" + "4"` vs `4 + 4` 
+- Where can get to if finish Grok early
+    - Fishy
+        - `object_fishy.py`
+    - Helisquare
+        - `helisquare.py`
 - Go Grok!
 - Before end of class
     - What are some good TIL entry topics?
 
 ### Homework
 
-- TIL entry on topic of choice
-- Finish Grok Module 1
+- TIL entry on data types
+- Finish Grok Lesson 2

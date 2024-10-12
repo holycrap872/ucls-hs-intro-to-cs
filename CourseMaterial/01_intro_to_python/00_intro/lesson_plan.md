@@ -5,22 +5,29 @@
 
 ## Lesson Plan
 
-This lesson has three purposes. First, it is intended to show students the power
+This lesson has two purposes. First, it is intended to show students the power
 of Python and to allow them to see how Python is similar to the previous ways
-they have learned to program. This is done by showing students three different
-types of Python uses and then showing them the code behind the applications.
-In addition, this lesson gets students started on Grok's "Python for Beginners"
-course. Finally, it serves as a bit of an advertisement for my ML/AI class.
+they have learned to program. This is done by showing students a simple Python
+program and having them notice/wonder about the code behind the application.
+In addition, this lesson gets students started on Grok's `Python for Beginners`
+course.
 
 ### Setup
 
 - Setup Grok
     - Load students into Grok via `.csv` file
-    - Register students for "Python for Beginners" course
+        - Names from exporting gradebook in Schoology
+        - Emails by copying over from PowerSchool
+    - Register students for `Python for Beginners` course
 
 ### Actual Lesson
 
-- Starting new unit
+- Opening problem
+    - Problem from test
+- Review
+    - Another problem from the test
+    - Debrief about test
+- Today starting new unit
     - What was theme of last unit?
         - How computers store and represent information
     - Theme of this unit is learning to program
@@ -35,11 +42,8 @@ course. Finally, it serves as a bit of an advertisement for my ML/AI class.
     - repeat
     - variable...
 - Few examples of the power of Python:
-    - ChatGPT:
-        - https://github.com/tensorflow/gnn
-    - Fishy
-        - https://freefishy.org/
-        - `object_fishy.py`
+    - Tensor flow
+        - Python Program used by ChatGPT
     - Mood light
         - `mood_light.py`
 - Investigate `mood_light.py`
@@ -60,13 +64,13 @@ course. Finally, it serves as a bit of an advertisement for my ML/AI class.
             - Submit
             - Mark
     - Show how finicky it can be with spacing
-- What are ways to get help with Grok
+- What are ways to get help with Grok?
     - Ask partner first
     - Look in documentation
     - Raise hand
 - Expectations
     - Average day will look like:
-        - Come in
+        - Come in  
         - Opening problem
         - Do Grok
         - Reflect
@@ -77,4 +81,4 @@ course. Finally, it serves as a bit of an advertisement for my ML/AI class.
 
 #### Homework
 
-- TIL entry on topic of your choice
+- Finish Grok 1.2
