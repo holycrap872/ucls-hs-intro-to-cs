@@ -13,7 +13,7 @@ asking y/n questions.
 ### Setup
 
 - `three_questions.py` ready to run
-- GoogleDoc loaded up in Schoology
+- `Python Conditionals Worksheet` loaded up in Schoology
     - https://docs.google.com/document/d/1LOTwfDylpD5fnUC1dwykx5nrTQwpntYi2X0pwWtR2Jw
 
 ### Actual Lesson
@@ -29,6 +29,12 @@ asking y/n questions.
     - Pick a number between 1 and thousand
     - What am I doing?
     - How does it compare to 20 questions?
+- Show 3 questions game
+    - Explain
+    - Have someone pick one of the 8 possible words
+    - Run `three_questions.py` to have it pick their word
+    - Talk through program
+    - Draw if/else tree on board
 - Classwork
     - Pick 4 words of your choosing
     - By asking yes or no questions, figure out what person chose
@@ -37,8 +43,8 @@ asking y/n questions.
 
 #### Homework
 
-- TIL entry on topic of your choice
-- Finish Grok Module 3
+- TIL entry on comparisons
+- Finish Grok Lesson 4
 
 ### Other possible ideas
 

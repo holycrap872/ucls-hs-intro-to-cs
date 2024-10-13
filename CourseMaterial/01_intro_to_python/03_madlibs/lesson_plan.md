@@ -13,15 +13,15 @@ home, students then make their own Mad Libs and share them amongst themselves.
 ### Setup
 
 - Students enrolled in "Turtle Playground" course
-- Python Strings Worksheet loaded in Schoology
+- `Python Strings Worksheet` loaded in Schoology
     - https://docs.google.com/document/d/1-AwvVtv59yDz-mvorbLMAJdnjadjgOmC5QAquUhNyp0
 
 ### Actual Lesson
 
 - Review
     - Grok stuff
-        - String vs. integers
-        - 5 * "4"
+        - input
+        - f-string
 - TIL Entries
     - Find some good ones and put into slide show
 - Talk `input()`
@@ -33,12 +33,13 @@ home, students then make their own Mad Libs and share them amongst themselves.
     name = input("Enter a name: ")
     color = input("Enter a color: ")
     animal = input("Enter an animal: ")
-    number = int(input("Enter a number: "))
+    number_str = input("Enter a number: ")
+    number_int = int(number_str)
 
     print(f"{name} walked into the forest looking for a normal {animal}.")
-    print(f"Instead, {name} got more than they could handle with {number}")
+    print(f"Instead, {name} got more than they could handle with {number_int}")
     print(f"{color} {animal}s who were looking very hungry! {name} knew")
-    print(f"they could handle {number - 1} {animal}s, but {number} was")
+    print(f"they could handle {number_int - 1} {animal}s, but {number_int} was")
     print(f"one too many, so {name} ran away very quickly.")
     ```
 - Have them do Mad Libs in pairs

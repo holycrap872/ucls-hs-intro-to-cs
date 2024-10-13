@@ -33,4 +33,5 @@ that for now.
 
 #### Homework
 
-- TIL entry on topic of choice
+- TIL entry on `if` statement
+- Finish Grok 4.2
