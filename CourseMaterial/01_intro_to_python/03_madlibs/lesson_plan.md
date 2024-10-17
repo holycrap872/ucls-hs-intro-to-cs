@@ -5,10 +5,11 @@
 
 ## Lesson Plan
 
-In this lesson, we introduce student's to the `input()` function and talk about
-how it is used. In particular, we focus on how it returns strings from the user
-and then how we can manipulate that data however we'd like. To drive the point
-home, students then make their own Mad Libs and share them amongst themselves.
+In this lesson, we introduce student's to the `int()` function, talk about
+how it is used, and compare it with the `input` function. In particular, we
+focus on how we can manipulate the data returned by a user however we'd like.
+To drive the point home, students then make their own Mad Libs and share them
+amongst themselves.
 
 ### Setup
 
