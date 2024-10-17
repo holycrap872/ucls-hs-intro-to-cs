@@ -5,7 +5,7 @@
 
 ## Lesson Plan
 
-Grok Module 4 is a bit of a reprieve since it's mostly a review. Therefore,
+Grok Module 5 is a bit of a reprieve since it's mostly a review. Therefore,
 students will be given the chance to reflect on everything that they've done
 over the past few classes: conditionals, "Two Questions", and `input()`. After
 this, students will talk about how to get the most out of modules since they are
@@ -30,9 +30,9 @@ documentation.
     - What does it feel like to be digesting information?
     - How do you know you're actually learning and not skimming?
     - Useful techniques?
-- Grok Module 4
+- Grok Module 5
 
 #### Homework
 
 - TIL entry on topic of choice
-- Finish Grok Module 4
+- Finish Grok 5
