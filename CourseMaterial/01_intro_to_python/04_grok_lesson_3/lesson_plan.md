@@ -10,9 +10,6 @@ They will reflect on their previous experience in Scratch and make connections
 with the new material. Finally, they will start to work on the Grok lesson
 on if/elif.
 
-> The lesson also includes discussion of "f-strings", but I'm going to ignore
-that for now.
-
 ### Setup up
 
 - Schoology quiz for first two modules ready to go
