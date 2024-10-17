@@ -10,7 +10,7 @@ and providing complex output to the user.
 
 ### Setup
 
-- None
+- `object_fishy.py` and `helisquare.py` ready to play
 
 ### Actual Lesson
 
@@ -29,6 +29,11 @@ and providing complex output to the user.
     - Importance of f at beginning
 - Emphasize how confusing Grok's use of color is
     - If two colors on same line, means asking a question to user (`input`)
+- Where can get to if finish Grok early
+    - Fishy
+        - `object_fishy.py`
+    - Helisquare
+        - `helisquare.py`
 - Start Grok
 
 ### Homework
