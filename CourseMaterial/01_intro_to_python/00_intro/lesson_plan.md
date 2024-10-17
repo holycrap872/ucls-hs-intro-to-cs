@@ -19,6 +19,7 @@ course.
         - Names from exporting gradebook in Schoology
         - Emails by copying over from PowerSchool
     - Register students for `Python for Beginners` course
+- Have `mood_light.py` open and ready to run
 
 ### Actual Lesson
 
