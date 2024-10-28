@@ -13,9 +13,13 @@ amongst themselves.
 
 ### Setup
 
-- Students enrolled in "Turtle Playground" course
+- Students enrolled in "Playground - Turtle Python" course
 - `Python Strings Worksheet` loaded in Schoology
     - https://docs.google.com/document/d/1-AwvVtv59yDz-mvorbLMAJdnjadjgOmC5QAquUhNyp0
+- Tab to "Playground - Turtle Python" open in two tabs
+    - https://groklearning.com/learn/python-turtle-playground/1/2/
+    - tab 1: Filled with double age (see below)
+    - tab 2: Filled with Mad Lib (see below)
 
 ### Actual Lesson
 
@@ -28,22 +32,26 @@ amongst themselves.
 - Talk `input()`
     - Returns a string, so what does "please enter a number" entail?
     - `int()` function
+    - Do example
+    ```python
+    num_1 = input("Enter a number? ")
+    num_2 = input("Enter a second number? ")
+    print(f"The sum is: {num_1 + num_2}")
+    ```
 - Mad Libs
     - Do example
     ```python
-    name = input("Enter a name: ")
-    color = input("Enter a color: ")
+    exclamation = input("Enter an exclamation: ")
+    adverb = input("Enter an adverb: ")
     animal = input("Enter an animal: ")
-    number_str = input("Enter a number: ")
-    number_int = int(number_str)
+    number_1_str = input("Enter a number: ")
+    number_1_int = int(number_1_str)
 
-    print(f"{name} walked into the forest looking for a normal {animal}.")
-    print(f"Instead, {name} got more than they could handle with {number_int}")
-    print(f"{color} {animal}s who were looking very hungry! {name} knew")
-    print(f"they could handle {number_int - 1} {animal}s, but {number_int} was")
-    print(f"one too many, so {name} ran away very quickly.")
+    print(f'"{exclamation}!" they said {adverb} as they jumped into their car')
+    print(f"with their {number_1_int} big {animal}s. All {number_1_int + 2} of")
+    print("them drove of very happily.")
     ```
-- Have them do Mad Libs in pairs
+- Have them do Mad Libs in pairs (?)
     - Once finish, rotate and do another group's
     - Must have:
         - A variable that take a string and uses it
