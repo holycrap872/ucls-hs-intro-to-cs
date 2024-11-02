@@ -20,7 +20,7 @@ documentation.
 
 - Opening problem
 - Review
-    - if, if/else, if/elif/else
+    - if, if/else
 - "Two Questions" review
     - Play someone's game
     - Critique it
@@ -30,9 +30,12 @@ documentation.
     - What does it feel like to be digesting information?
     - How do you know you're actually learning and not skimming?
     - Useful techniques?
-- Grok Module 5
+- Multiple decisions
+    - if/elif/else
+- Grok Module 5.2
 
 #### Homework
 
 - TIL entry on topic of choice
-- Finish Grok 5
+- Finish Grok 5.2
+- Study for quiz

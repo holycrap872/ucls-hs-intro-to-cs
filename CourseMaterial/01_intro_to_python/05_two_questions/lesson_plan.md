@@ -14,7 +14,7 @@ asking y/n questions.
 
 - `three_questions.py` ready to run
 - `Python Conditionals Worksheet` loaded up in Schoology
-    - https://docs.google.com/document/d/1LOTwfDylpD5fnUC1dwykx5nrTQwpntYi2X0pwWtR2Jw
+    - https://docs.google.com/document/d/1NcvDfJakhP8avnA6hUhPTaHgpXZPpuQ1xUc1henKiYM
 
 ### Actual Lesson
 
@@ -43,8 +43,8 @@ asking y/n questions.
 
 #### Homework
 
-- TIL entry on comparisons
 - Finish Grok Lesson 4
+- TIL entry on comparisons
 
 ### Other possible ideas
 
