@@ -29,7 +29,7 @@ Have `https://www.truity.com/test/big-five-personality-test` open for comparison
 - Personality quiz
     - Do an example
     - Pair programming refresher
-    - Hand out `personality_quiz_classword.py`
+    - Hand out `personality_quiz_classwork`
         - Give a few minutes to review
     - Want to do something interesting today... who wants to use ChatGPT?
     - Go!

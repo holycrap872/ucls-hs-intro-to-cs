@@ -6,7 +6,14 @@
 
 ### Setup up
 
--
+- Quiz
+    - if / elif / else
+    - Comparisons
+- Review
+    - Data types
+    - Conditionals
+    - Functions
+
 
 ### Actual Lesson
 
@@ -14,4 +21,5 @@
 
 #### Homework
 
-- TIL entry on topic of choice
+- TIL entry on `len()` function
+- Finish Grok
