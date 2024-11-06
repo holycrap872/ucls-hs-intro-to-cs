@@ -6,11 +6,11 @@
 
 ### Setup up
 
--
+- https://docs.google.com/document/d/183j9K37eSpVBpgw3tDEmQOA_XPoAF9FEssBAVmYFE4w
 
 ### Actual Lesson
 
-- Loops
+- Iteration
 
 #### Homework
 
