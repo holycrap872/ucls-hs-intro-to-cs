@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
-
+print("********************************************************************************")
+print("*                                                                              *")
+print("*                        Make sure to use y/n!!!!                              *")
+print("*                                                                              *")
+print("********************************************************************************")
+print("")
+print("")
 msft_product = input("Is it a Microsoft product? ")
 if msft_product == "y":
     is_geometry = input("Is it associated with geometry? ")
