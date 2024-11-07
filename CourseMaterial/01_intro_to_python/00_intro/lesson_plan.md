@@ -82,4 +82,4 @@ course.
 
 #### Homework
 
-- Finish Grok 1.2
+- Finish Grok Lesson 1.2

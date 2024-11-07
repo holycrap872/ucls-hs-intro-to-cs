@@ -41,4 +41,4 @@ can get to if they move quickly through the assignments.
 ### Homework
 
 - TIL entry on data types
-- Finish Grok Lesson 2
+- Finish Grok Lesson 2.4 (aka all of Module 2)

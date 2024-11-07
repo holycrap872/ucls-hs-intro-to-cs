@@ -15,6 +15,14 @@ asking y/n questions.
 - `three_questions.py` ready to run
 - `Python Conditionals Worksheet` loaded up in Schoology
     - https://docs.google.com/document/d/1NcvDfJakhP8avnA6hUhPTaHgpXZPpuQ1xUc1henKiYM
+    - Note: if **need to split it up over two days**
+        - Part 1: https://docs.google.com/document/d/1keMkCb7GQpVgJgOLvlvdjq8yrfRqh06dCqElEa3fW90
+            - Talk about conditionals at beginning of class
+            - Do worksheet
+        - Part 2: https://docs.google.com/document/d/1Wyoygda5aoxrpUFvIEYk3zZtb-_mpJxOLmBQyYcHbOQ
+            - Talk about binary search/20 questions at beginning of class
+            - Do worksheet
+            - Come back, talk about if/elif
 
 ### Actual Lesson
 
@@ -25,6 +33,9 @@ asking y/n questions.
     - When did you use them in scratch
     - When might they be useful?
         - Bunch of real world examples
+- Comparisons
+    - What `==`, `<=`, ... mean
+    - How the comparison "plugs into" the if/else, determining the path
 - Magic trick
     - Pick a number between 1 and thousand
     - What am I doing?
@@ -43,7 +54,7 @@ asking y/n questions.
 
 #### Homework
 
-- Finish Grok Lesson 4
+- Finish Grok Lesson 4.4 (aka all of Module 4)
 - TIL entry on comparisons
 
 ### Other possible ideas

@@ -5,12 +5,12 @@
 
 ## Lesson Plan
 
-Grok Module 5 is a bit of a reprieve since it's mostly a review. Therefore,
-students will be given the chance to reflect on everything that they've done
-over the past few classes: conditionals, "Two Questions", and `input()`. After
-this, students will talk about how to get the most out of modules since they are
-so text heavy. The class will discuss the best ways to read/understand
-documentation.
+Going up through Grok Lesson 5.2 is a bit of a reprieve since it's mostly a
+review. Therefore, students will be given the chance to reflect on everything
+that they've done over the past few classes: conditionals, "Two Questions", and
+`input()`. After this, students will talk about how to get the most out of
+modules since they are so text heavy. The class will discuss the best ways to
+read/understand documentation.
 
 ### Setup up
 
@@ -32,10 +32,10 @@ documentation.
     - Useful techniques?
 - Multiple decisions
     - if/elif/else
-- Grok Module 5.2
+- Grok!
 
 #### Homework
 
 - TIL entry on topic of choice
-- Finish Grok 5.2
+- Finish Grok Lesson 5.2
 - Study for quiz
