@@ -6,6 +6,10 @@
 
 ### Setup up
 
+- None
+
+### Actual Lesson
+
 - Quiz
     - if / elif / else
     - Comparisons
@@ -13,13 +17,14 @@
     - Data types
     - Conditionals
     - Functions
+- Strings
+    - `len()`
+    - `in`
+    - `.replace()`
+- Functions
+    - input/output
 
-
-### Actual Lesson
-
-- Elif/substrings
-
-#### Homework
+### Homework
 
 - TIL entry on `len()` function
-- Finish Grok
+- Finish Grok Lesson 5.4
