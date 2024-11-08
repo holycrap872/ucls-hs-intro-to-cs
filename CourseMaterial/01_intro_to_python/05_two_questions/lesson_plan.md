@@ -37,8 +37,9 @@ asking y/n questions.
     - What `==`, `<=`, ... mean
     - How the comparison "plugs into" the if/else, determining the path
 - Magic trick
-    - Pick a number between 1 and thousand
+    - Pick a number between 1 and 100
     - What am I doing?
+    - How many questions to do 1 billion: 30!
     - How does it compare to 20 questions?
 - Show 3 questions game
     - Explain
