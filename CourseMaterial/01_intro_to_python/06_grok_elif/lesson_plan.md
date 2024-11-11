@@ -1,7 +1,7 @@
 ## Essential Questions
 
-- What is the best way to learn from written documentation?
-- What does it feel like to be learning?
+- How do we make programs that react to their environment?
+- How do we represent more than a binary choice in Python?
 
 ## Lesson Plan
 
@@ -20,18 +20,19 @@ read/understand documentation.
 
 - Opening problem
 - Review
-    - if, if/else
+    - `if`, `if`/`else`
+    - Conditionals
 - "Two Questions" review
     - Play someone's game
     - Critique it
-- Understanding documentation
-    - What's been easy?
-    - What's been hard?
-    - What does it feel like to be digesting information?
-    - How do you know you're actually learning and not skimming?
-    - Useful techniques?
 - Multiple decisions
-    - if/elif/else
+    - `if`/`elif`/`else`
+    - Real life:
+        - if/else like a fork in the woods (true path, false path)
+        - `if`/`elif`/`else` like a third path
+    - Code for various decisions
+        - Travel
+    - How `elif` simplifies nested if/elses
 - Grok!
 
 #### Homework
