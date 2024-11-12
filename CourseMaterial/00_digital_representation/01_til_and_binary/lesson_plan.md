@@ -37,6 +37,9 @@ talking about binary numbers.
         - Forces identification/articulation of confusion
         - Easy to reload past knowledge
     - Talk through template
+        - How to turn on spell check in GoogleDocs
+        - Highlight **must have** the phrase "as seen in the example above"
+            - Why?
     - Talk through rubric
         - https://docs.google.com/document/d/1j5vw3IYppMSfC5TPs2JEx6PjW4-oDo8FrpmEhXEj7lA
     - TIL is cheat-sheet you can bring to any test/exam in class
