@@ -26,6 +26,7 @@
     - Iteration loops
     - Range loops
     - Key parts of each
+        - Stress "just have to memorize this"
     - Various problems with loops
         - Given this output, what was the program that produced it?
 - Back to real life loops

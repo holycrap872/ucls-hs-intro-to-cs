@@ -19,32 +19,39 @@ and exploit patterns with loops.
 ### Actual Lesson
 
 - Reflection
-    - String functions
-    - if, if/else, if/elif/else
     - Loops
+        - Iteration loops
+        - Range loops
     - What's been hard?
     - What's been interesting?
-- How do we think about loops
-    - Iterating through a list of things
+- TIL review
+- How do we think about loops?
+    - Same pattern being repeated over and over
     - Various analogies
         - Go to school learn, go home
-    - Some example "real life" programs
-        - Have them come up with stuff
-        - Loop as a hiking trail
 - Loops in Python
     - For loops
     - Bunch of examples
-    - Iterates through
+        - Iteration loops
+        - Range loops
+    - Today going to focus on range loops
+    - Next class focus on iteration loops
 - Turtles
     - Famous way to teach programming
+        - Developed in the 1960's as a way to teach programming
+        - Little "turtle" that you control
+    - This kids a huge fan of turtle programming
         - https://www.youtube.com/watch?v=CMNry4PE93Y
-    - Little "turtle" that you control
-- Handle out classwork
-    - Read through
-    - Show examples of:
-        - How to comment out code
-        - How to exit screen
-    - Go!
+- Turtle problem on the board
+    - Show a square
+    - Could do: forward, left, forward, left, forward, left, forward, left
+    - Fold it: how?
+- Talk through worksheet
+- Go!
+
+### Homework
+
+- Finish Grok 6.4
 
 #### Possible Extensions
 
