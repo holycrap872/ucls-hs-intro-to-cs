@@ -1,6 +1,6 @@
 ## Essential Questions
 
-- How should we visualize if/elif/else and loops?
+- What are loops and how are they useful?
 - How do we use loops to model repeating patterns?
 
 ## Lesson Plan
@@ -21,14 +21,9 @@ and exploit patterns with loops.
 - Reflection
     - String functions
     - if, if/else, if/elif/else
+    - Loops
     - What's been hard?
     - What's been interesting?
-- How do we think of if/elif/else in real life
-    - Various analogies
-        - If hungry then eat
-    - Some example "real life" programs
-        - Have them come up with stuff
-        - If/else as a fork in a trail
 - How do we think about loops
     - Iterating through a list of things
     - Various analogies
@@ -36,9 +31,7 @@ and exploit patterns with loops.
     - Some example "real life" programs
         - Have them come up with stuff
         - Loop as a hiking trail
-    - Loop as a series of patterns
-        - Logic puzzle: can you identify the pattern at the heart of the problem?
-- Loops in python
+- Loops in Python
     - For loops
     - Bunch of examples
     - Iterates through
@@ -46,9 +39,6 @@ and exploit patterns with loops.
     - Famous way to teach programming
         - https://www.youtube.com/watch?v=CMNry4PE93Y
     - Little "turtle" that you control
-    - Show code
-    - Make a square
-    - All about finding the pattern
 - Handle out classwork
     - Read through
     - Show examples of:
