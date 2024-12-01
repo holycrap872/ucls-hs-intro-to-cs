@@ -1,16 +1,14 @@
 ## Essential Questions
 
-- What is the best way to learn from written documentation?
-- What does it feel like to be learning?
+- What is the accumulator pattern?
+- Why is the accumulator pattern so common in CS?
 
 ## Lesson Plan
 
-We're basically paused at Grok Lesson 6.4 to have students really experiment
-with and understand loops. Therefore, students will be given the chance to
-reflect on everything that they've done since the start of the year. This means
-giving students a chance to reflect on how they learn and whether there is
-anything that they can do better as they go through the rest of Grok, Into to
-CS, and high school.
+We're basically paused at Grok Lesson 6.4 to allow students to really experiment
+with and understand loops. In this lesson, we return to the accumulator pattern
+and students work to create programs that callback to their learning from the
+first unit (e.g., binary numbers).
 
 ### Setup
 
@@ -20,22 +18,29 @@ CS, and high school.
 ### Actual Lesson
 
 - Opening problem
+    - Pin counter for bowling alley
+        - Why does the `+= 0` not matter?
+        - Identify parts of "accumulator pattern" with terms
 - Review
     - Loops
     - Iteration loops, Range loops
-    - Accumulators
-- Understanding documentation
-    - What's been easy?
-    - What's been hard?
-    - What does it feel like to be digesting information?
-    - How do you know you're actually learning and not skimming?
-    - Useful techniques?
+    - Accumulator pattern
+- TIL entries
+- Accumulator Patterns in the real world
+    - Analogy to shopping basket
+        - for item in grocery store: if on_list: add to basket
+    - Analogy to basketball scoreboard
+        - for shot in game: if goes in: increase score
 - Today's activity
     - Call back to previous units
     - Builds on accumulators
 - Talk through worksheet
     - Any questions?
 - Go!
+
+### Homework
+
+- Study for quiz
 
 ### Possible Extensions
 

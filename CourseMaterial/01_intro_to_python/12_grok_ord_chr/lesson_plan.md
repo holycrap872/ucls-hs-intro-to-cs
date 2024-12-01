@@ -1,19 +1,35 @@
 ## Essential Questions
 
--
+- How does Python convert between numbers and text?
+- How do the `ord()` and `chr()` functions compare with other Python functions?
 
 ## Lesson Plan
 
 ### Setup up
 
--
+- None
 
 ### Actual Lesson
 
-- Data types and unicode
-- Skippable? Linkable to previous lessons?
-    - I think I did a worksheet that was similar to this about printing out emojis
+- Quiz
+    - Iteration loops
+    - Range loops
+    - Accumulator pattern
+- Opening Problem
+    - Accumulator pattern
+- Review
+    - Iteration loops
+    - Range loops
+    - Accumulator pattern
+- `chr()` and `ord()` functions
+    - ASCII table
+    - Emojis!
+    - How do we know they're functions?
+    - What are their inputs/outputs
+    - Similarities with other functions?
+- Grok!
 
 #### Homework
 
-- TIL entry on topic of choice
+- TIL entry on `ord()` function
+- Finish Grok Lesson 7.2
