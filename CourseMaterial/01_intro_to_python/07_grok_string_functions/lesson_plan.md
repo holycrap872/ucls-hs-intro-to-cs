@@ -14,9 +14,15 @@
 - Quiz
     - `if` / `elif` / `else`
     - Comparisons
+- Any questions from the quiz?
+- Opening problem:
+    - `if if else` vs. `if elif else`
+        - What is the difference?
+        - When would you want to use one over the other?
 - Review
     - Data types
-    - Conditionals
+    - `if` / `elif` / `else`
+    - Comparisons
 - Functions
     - Stolen from math: `f(x)`
         - e.g., `f(x) => x + 5`, `f(4) => 9`
@@ -27,11 +33,12 @@
     - `len()`
     - `in`
     - `.replace()`
-- Functions and complexity
-    - Input/output
-    - Decades of other people's work you're relying on
-    - Functions as building blocks
-        - Show ChatGPT pictures of trying to create a good "functions visual"
+    - Strings are "immutable", so don't make mistake of not saving output of function
+- Explain what want TIL entry to be on
+    - `replace()`
+    - Use words like input and output
+    - Save output of function
+- Start Grok
 
 ### Homework
 
