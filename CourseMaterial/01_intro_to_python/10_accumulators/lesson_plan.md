@@ -8,6 +8,8 @@
 ### Setup
 
 - Giant playing cards
+- `Python Accumulator Worksheet` posted to Schoology
+    - https://docs.google.com/document/d/1TiQm3HpzzWlnJl5ILCaigmE8zZOyYrJGeLjrZ_rafXo
 - Schoology assessment on accumulator pattern posted
 
 ### Actual Lesson
@@ -29,6 +31,7 @@
         - Selection condition
         - Accumulation step
         - Accumulation result
+    - Make clear "selection condition" is optional
 - Acting out with cards
     - Simple programs written where iterate through deck of cards
     - Flip all
@@ -36,11 +39,16 @@
     - Count all
     - Count `if_red`
     - Add up values of "low-value cards"
+    - Add up **all values** of cards
+        - No selection condition
 - Back to accumulator pattern
     - Other analogies people can think of?
     - Going to be using this all year
     - Surprised how much it shows up in CS
 - Start worksheet
+    - Work in pairs
+    - If finish early, can work on homework
+    - If don't finish by end of class, don't have to finish at all
 
 ### Homework
 

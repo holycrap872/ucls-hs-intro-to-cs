@@ -1,16 +1,16 @@
-0. Match each of the following "accumulation pattern" terms with their definition
+0. Match each of the following _accumulator pattern_ terms with their definition
     a. A variable that stores the running total or collected values throughout a program's execution
-    b. A rule that decides when to update the accumulator variable
-    c. The statement inside a loop that updates the accumulator variable
-    d. The final value in the accumulator variable after the program completes
-1. True or False: the "selection condition" is required in every "accumulator pattern":
-2. True or False: the "accumulator pattern" requires a loop:
-3. The "selection condition" is used to:
-    a. Initialize the accumulator
-    b. Decide when to update the accumulator
+    b. A rule that decides when to update the _accumulator variable_
+    c. The statement inside a loop that updates the _accumulator variable_
+    d. The final value in the _accumulator variable_ after the program completes
+1. True or False: the _selection condition_ is required in every _accumulator pattern_:
+2. True or False: the _accumulator pattern_ requires a loop:
+3. The _selection condition_ is used to:
+    a. Initialize the _accumulator variable_
+    b. Decide when to update the _accumulator variable_
     c. Output the final result
     d. Create the loop
-4. Which line shows an "accumulation step"?
+4. Which line shows an instance of an _accumulation step_?
     a. count = 0
     b. for num in numbers:
     c. sum = sum + num
@@ -20,7 +20,7 @@
     count = 0
     word = "hey there you two"
     for c in word:
-        if c == "o":
+        if c in "aeiou":
             count += 1
     print(count)
     ```
