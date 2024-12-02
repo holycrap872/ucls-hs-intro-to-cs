@@ -8,15 +8,16 @@
 ### Setup
 
 - Giant playing cards
-- `Python Accumulator Worksheet` posted to Schoology
+- `Python Accumulator Pattern Worksheet` posted to Schoology
     - https://docs.google.com/document/d/1TiQm3HpzzWlnJl5ILCaigmE8zZOyYrJGeLjrZ_rafXo
 - Schoology assessment on accumulator pattern posted
+    - See `assessment.md`
 
 ### Actual Lesson
 
 - Opening Problem
     - Guess result of turtle program
-    - Accumulator program
+    - Accumulator pattern program
 - Review
     - Turtles
     - Range loops
@@ -32,6 +33,7 @@
         - Accumulation step
         - Accumulation result
     - Make clear "selection condition" is optional
+    - Sorry, but just have to memorize these
 - Acting out with cards
     - Simple programs written where iterate through deck of cards
     - Flip all
