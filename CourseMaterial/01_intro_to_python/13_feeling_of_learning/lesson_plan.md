@@ -1,17 +1,14 @@
 ## Essential Questions
 
-- What is the best way to learn from written documentation?
-- What does it feel like to be learning?
+- How can we modify strings?
+- How do functions work?
+
+- How does Python convert between numbers and text?
+- How do the `ord()` and `chr()` functions compare with other Python functions?
 
 ## Lesson Plan
 
-In this lesson, students will be given the chance to reflect on everything that
-they've done since the start of the year. This means giving students a chance to
-reflect on how they learn and whether there is anything that they can do better
-as they go through the rest of Grok, Into to CS, and high school. The timing is
-good because in the previous class we called back to the first unit we did in
-the class AND because there are a lot of breaks during this time. After this
-discussion, students work to complete Grok Lesson 7.
+
 
 ### Setup up
 
@@ -21,20 +18,23 @@ discussion, students work to complete Grok Lesson 7.
 
 - Opening Problem
 - Review
-    - `ord()`
-    - `chr()`
-- Today going to reflect a little bit on learning:
-    - Understanding Grok documentation
-        - What's been easy?
-        - What's been hard?
-        - How do you know you're actually learning and not skimming?
-        - Useful techniques
-    - Retaining knowledge
-        - How well did you remember stuff from first unit?
-        - What does it feel like to be digesting information?
-        - Useful techniques?
-    - TIL
-        - How useful?
+    - Iteration loops
+    - Range loops
+    - Accumulator pattern
+    - Feeling of learning
+- `chr()` and `ord()` functions
+    - ASCII table
+    - Emojis!
+    - How do we know they're functions?
+    - What are their inputs/outputs
+    - Similarities with other functions?
+- "Name that function game"
+    - This is boring so make it fun by using a ChatBot generated graphic
+        - Show students prompt first
+        - Show actual generated picture second
+    - Show the inputs/output of functions with name of function hidden
+        - Have students guess name of function
+- Libraries vs. builtins
 - Grok!
 
 #### Homework
