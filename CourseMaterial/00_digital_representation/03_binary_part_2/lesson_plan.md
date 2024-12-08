@@ -65,4 +65,6 @@ like bit, byte, nibble.
 
 ### Resources
 
+- Binary adding game: https://learningcontent.cisco.com/games/binary/index.html
+- 2048 game uses binary place values: https://www.2048.org/
 - Binary Adder: https://www.youtube.com/watch?v=vf4_i-sBebU
