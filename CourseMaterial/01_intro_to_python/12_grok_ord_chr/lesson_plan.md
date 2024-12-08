@@ -5,9 +5,9 @@
 
 ## Lesson Plan
 
-### Setup up
+### Setup
 
-- None
+- Quiz up to Grok Lesson 6.4 loaded on Schoology
 
 ### Actual Lesson
 

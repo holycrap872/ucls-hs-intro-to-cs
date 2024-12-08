@@ -12,7 +12,7 @@ on if/else.
 
 ### Setup up
 
-- Schoology quiz up to Grok Lesson 3.2
+- Quiz up to Grok Lesson 3.2 loaded on Schoology
 
 ### Actual Lesson
 

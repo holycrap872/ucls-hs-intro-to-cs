@@ -7,7 +7,7 @@
 
 ### Setup up
 
-- None
+- Quiz up to Grok Lesson 5.2 loaded on Schoology
 
 ### Actual Lesson
 
