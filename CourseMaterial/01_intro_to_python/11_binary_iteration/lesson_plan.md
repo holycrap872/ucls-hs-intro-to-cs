@@ -21,6 +21,7 @@ first unit (e.g., binary numbers).
     - Pin counter for bowling alley
         - Why does the `+= 0` not matter?
         - Identify parts of "accumulator pattern" with terms
+        - Show how to use "iteration table" for pin counter
 - Review
     - Loops
     - Iteration loops, Range loops
@@ -37,6 +38,11 @@ first unit (e.g., binary numbers).
 - Talk through worksheet
     - Any questions?
 - Go!
+- Halfway through the class, ask for everyone's attention
+    - Discuss how to calculate the value of a binary number
+    - Discuss how place values work
+    - Talk about how multiply by 2 going from left to right
+    - Talk about how accumulate value as you go
 
 ### Homework
 

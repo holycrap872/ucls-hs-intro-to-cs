@@ -18,6 +18,7 @@
 - Opening Problem
     - Guess result of turtle program
     - Accumulator pattern program
+        - Going to talk about these types of programs today
 - Review
     - Turtles
     - Range loops
@@ -25,7 +26,7 @@
 - Today going to talk about accumulator pattern
     - Super important "pattern" in programming
     - Most programs have this kind of "data processing" element
-- Show common pattern
+- Show accumulator pattern
     - Python code
     - Terminology:
         - Accumulator variable
@@ -44,7 +45,6 @@
     - Add up **all values** of cards
         - No selection condition
 - Back to accumulator pattern
-    - Other analogies people can think of?
     - Going to be using this all year
     - Surprised how much it shows up in CS
 - Start worksheet
@@ -54,5 +54,5 @@
 
 ### Homework
 
-- Schoology assessment on the accumulator pattern (3 tries)
+- Schoology assessment on the accumulator pattern (5 tries)
 - TIL entry on the accumulator pattern
