@@ -37,6 +37,7 @@
         - Have students guess name of function
 - Libraries vs. builtins
 - Grok!
+    - If long block and work well for 25m, can use rest as study period
 
 #### Homework
 
