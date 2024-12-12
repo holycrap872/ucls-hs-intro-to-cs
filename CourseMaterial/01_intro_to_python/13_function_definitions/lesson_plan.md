@@ -8,8 +8,6 @@
 
 ## Lesson Plan
 
-
-
 ### Setup up
 
 - None
@@ -22,10 +20,13 @@
     - Range loops
     - Accumulator pattern
     - Feeling of learning
+        - How did TIL on topic of choice feel?
+- Show various TILs
+    - Critique
 - `chr()` and `ord()` functions
     - ASCII table
     - Emojis!
-    - How do we know they're functions?
+    - How do we know that they're functions?
     - What are their inputs/outputs
     - Similarities with other functions?
 - "Name that function game"

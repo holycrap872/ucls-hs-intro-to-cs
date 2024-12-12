@@ -39,8 +39,9 @@ first unit (e.g., binary numbers).
     - Any questions?
 - Go!
 - Halfway through the class, ask for everyone's attention
-    - Discuss how to calculate the value of a binary number
+    - Insist that they **take break**
     - Discuss how place values work
+    - Discuss how to calculate the value of a binary number
     - Talk about how multiply by 2 going from left to right
     - Talk about how accumulate value as you go
 
