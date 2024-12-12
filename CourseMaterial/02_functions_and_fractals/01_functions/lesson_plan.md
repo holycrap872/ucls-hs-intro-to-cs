@@ -13,7 +13,9 @@ twenty minutes or so of lecture with the remainder being a worksheet.
 ### Setup
 
 - `real_life_functions.docx` printed out and ready to go
-- `python_functions_worksheet` loaded into Schoology (as google doc)
+- `Python Functions Worksheet` loaded into Schoology
+    - https://docs.google.com/document/d/1pD_fh3PX6DwU3aemTk7Rn886AjMAgYAPAlwt7aCmDlk
+    - FIXME: as of 2024-12-11 needs to be checked for correctness/flow
 
 ### Actual Lesson
 

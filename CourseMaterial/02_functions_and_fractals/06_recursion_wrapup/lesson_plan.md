@@ -1,3 +1,5 @@
+## Essential Questions
+
 ## Actual Lesson
 
 ### Setup
@@ -20,3 +22,5 @@
 - Grok
     - Finish 7.1 - 7.3 for homework
     - If finish 7.4, then can do other work
+
+### Homework

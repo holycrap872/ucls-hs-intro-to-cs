@@ -7,7 +7,7 @@
 
 ### Setup
 
-- Robozzle worksheet
+- `Robozzle Worksheet` loaded into Schoology
     - https://docs.google.com/document/d/1QiQHOOVJecKwnOi_IGNrIDqSbMQhL2UCoL90OGBYXFg
 
 ### Actual Lesson

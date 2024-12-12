@@ -7,6 +7,8 @@
 
 ### Setup
 
+- https://docs.google.com/document/d/1JvvLg1t9qirK5kptCM3CtkF478smpt2b4quSn3QDeHA
+    - FIXME: This needs more content
 - TIL entries
 
 ### Actual Lesson

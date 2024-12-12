@@ -12,7 +12,7 @@
 - Fractal terrain ready to run
     - `terrain.py`
 - `python_recursion_worksheet` accessible on Schoology
-    - https://docs.google.com/document/d/1uxqeDiqkhtJlYv2xL3hek8-EbtCOKydMh9Ba9qL2BvA
+    - https://docs.google.com/document/d/1KZZBXd41aoYjR4rYAPWKPmsHDFJMrjmcIhX95dQPDW0
 
 ### Actual Lesson
 
