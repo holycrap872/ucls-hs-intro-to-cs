@@ -10,6 +10,8 @@
 
 - GoogleDoc loaded up into Schoology
     - https://docs.google.com/document/d/1JRC6dt6In4ur31Bg9uEWnNB6SLyhWFfIBuIyiX1NwrI
+- Practice test loaded up on Schoology
+    - See `practice_test.md`
 
 ### Actual Lesson
 
