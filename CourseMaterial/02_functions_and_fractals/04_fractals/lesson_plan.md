@@ -6,6 +6,7 @@
 ## Lesson Plan
 
 - Mandelbrot movie ready to go
+    - https://www.youtube.com/watch?v=q8EuFziyDwI
 - `mandelbrot_worksheet.docx` printed out
 - Drawing supplies:
     - Tape

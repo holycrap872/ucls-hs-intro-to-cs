@@ -7,6 +7,8 @@
 
 ### Setup
 
+- Fractal tree site loaded up:
+    - https://codepen.io/hippiefuturist/full/NRWOxM
 - Fractal terrain video loaded up:
     - https://youtu.be/9HJKrctqIJI?si=rzqklvXGAoVdFGiP
 - Fractal terrain ready to run
