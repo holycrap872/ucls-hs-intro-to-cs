@@ -6,7 +6,7 @@
 
 ## Lesson Plan
 
-### Setup up
+### Setup
 
 - GoogleDoc loaded up into Schoology
     - https://docs.google.com/document/d/1JRC6dt6In4ur31Bg9uEWnNB6SLyhWFfIBuIyiX1NwrI
@@ -15,6 +15,9 @@
 
 ### Actual Lesson
 
+- Opening Problem
+    - Accumulator problem
+    - Function problem
 - Review
 - What's next
     - Functions, fractals, PythoShop, ...
