@@ -12,13 +12,18 @@ The explanation/game takes up ~45m before students start to get bored.
 
 ### Setup
 
-Enough versions of Skull to cover class (6 people per game)
+- Enough versions of Skull to cover class (6 people per game)
+- Enough printouts so can have one per group
 
 ### Actual Lesson
 
 - Bayesian Learning
     - Using data about the past to make decisions about the future
 - Show two examples
+    - Batting data of me and my sister
+        - What is the chance there's a hit?
+        - What is the chance there's a hit given Eric is up?
+        - What is the chance Megan is up given there's a hit?
     - 3 rows of data where have to make a decision
     - 10 rows of data where have to make a decision
 - Explain skull
@@ -27,6 +32,7 @@ Enough versions of Skull to cover class (6 people per game)
         - Ignore the "defer" where the lead can put down and extra card
         - Make everyone turn over their cards at the end (for data purposes)
     - Do sample round
+        - 
 - Explain sheet
 - Do sample round
     - Fill in sheet
