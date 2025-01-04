@@ -1,6 +1,11 @@
 ## Essential Questions
 
+- What are functions?
+- Why are functions useful?
+
 ## Lesson Plan
+
+Goal is to give students a conceptual view of 
 
 ### Setup
 
@@ -10,8 +15,7 @@
 
 ### Actual Lesson
 
-- Review
-    - What we've done so far
+- Opening problem
 - Today starting to work with functions
     - Who remembers what functions are?
     - Why are they useful?
@@ -29,3 +33,4 @@
 #### Homework
 
 - All of Grok 8
+- Schoology assessment
