@@ -61,7 +61,7 @@ the year including HexFiend and RBG colors. Finally, the class ends with playing
     - Give examples of how encode binary nibbles to hit hex digits
     - Homework is to get above 9+ in a row in flippy bit game
         - Take screenshot
-    - Top score gets candybar of their choice
+    - Top score gets candy bar of their choice
 - Start homework if there's time
 
  ### Homework
