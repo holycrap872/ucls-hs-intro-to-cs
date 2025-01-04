@@ -53,7 +53,7 @@ asking y/n questions.
     - The weirder the questions the better
 - Go!
 
-#### Homework
+### Homework
 
 - Finish Grok Lesson 4.4 (aka all of Module 4)
 - TIL entry on comparisons

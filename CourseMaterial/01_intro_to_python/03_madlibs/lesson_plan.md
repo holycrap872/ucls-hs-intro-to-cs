@@ -60,12 +60,12 @@ amongst themselves.
 - Break
 - Grok
 
-#### Homework
+### Homework
 
 - TIL entry in the `int()` function
 - Prep for quiz
 
-#### Extensions
+### Extensions
 
 - ASCII art
     - https://projects.raspberrypi.org/en/projects/about-me/6

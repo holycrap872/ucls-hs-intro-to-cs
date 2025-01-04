@@ -26,7 +26,7 @@
     - MUST do bonus before starting other work
 - Go!
 
-#### Homework
+### Homework
 
 - TIL Entry
 - Grok 7.4

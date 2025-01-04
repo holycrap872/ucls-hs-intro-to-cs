@@ -35,6 +35,6 @@ Have `https://www.truity.com/test/big-five-personality-test` open for comparison
     - Go!
     - With 5m left, swap so they can play
 
-#### Homework
+### Homework
 
 - TIL entry

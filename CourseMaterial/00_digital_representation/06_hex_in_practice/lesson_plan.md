@@ -64,6 +64,6 @@ the year including HexFiend and RBG colors. Finally, the class ends with playing
     - Top score gets candybar of their choice
 - Start homework if there's time
 
- #### Homework
+ ### Homework
  
  - Flippy Bit game

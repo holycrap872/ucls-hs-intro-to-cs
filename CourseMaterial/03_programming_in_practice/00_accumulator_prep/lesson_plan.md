@@ -31,7 +31,7 @@ None
     - Sum of bowling pins
 - Start Grok
 
-#### Homework
+### Homework
 
 - TIL entry
 - Finish Grok Lesson 5.2

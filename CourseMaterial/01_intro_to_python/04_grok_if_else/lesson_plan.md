@@ -65,7 +65,7 @@ on if/else.
     ```
 - Go!
 
-#### Homework
+### Homework
 
 - TIL entry on `if` statements
 - Finish Grok Lesson 4.2

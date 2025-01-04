@@ -24,7 +24,7 @@
 - Start review sheet
     - Partners
 
-#### Homework
+### Homework
 
 - Practice Test (optional)
 - TIL entry on topic of choice

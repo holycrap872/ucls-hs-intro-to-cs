@@ -80,6 +80,6 @@ course.
     - Occasional quizzes to make sure people are learning
 - Go!
 
-#### Homework
+### Homework
 
 - Finish Grok Lesson 1.2

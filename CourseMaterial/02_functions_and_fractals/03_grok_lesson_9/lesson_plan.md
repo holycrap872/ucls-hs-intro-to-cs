@@ -30,7 +30,7 @@
         - What does it do?
 - Start Groking
 
-#### Homework
+### Homework
 
 - Finish up to start of Grok 6
 

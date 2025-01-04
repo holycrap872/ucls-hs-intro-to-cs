@@ -31,7 +31,7 @@
     - `==` vs `!=`
 - Grok
 
-#### Homework
+### Homework
 
 - TIL Entry
 - Finish through Grok 7.3

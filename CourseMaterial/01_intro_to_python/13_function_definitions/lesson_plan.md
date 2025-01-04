@@ -39,7 +39,7 @@
 - Grok!
     - If long block and work well for 25m, can use rest as study period
 
-#### Homework
+### Homework
 
 - TIL entry on topic of your choice
 - Finish Grok Lesson 7.4

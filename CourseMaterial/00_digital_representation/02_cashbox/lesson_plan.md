@@ -51,7 +51,7 @@ class on binary relates.
     - Any questions?
 - Go!
 
-#### Homework
+### Homework
 
 - Reflection sheet (if didn't finish in class)
 - TIL on what a "base-X number system" means

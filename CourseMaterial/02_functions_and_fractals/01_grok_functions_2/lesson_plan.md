@@ -30,7 +30,7 @@ Goal is to give students a conceptual view of
         - What does it mean when there's no `return`, vs `return`, vs `return x`?
 - Go!
 
-#### Homework
+### Homework
 
-- All of Grok 8
-- Schoology assessment
+- Finish Grok Lesson 8.4
+- TIL Entry on functions

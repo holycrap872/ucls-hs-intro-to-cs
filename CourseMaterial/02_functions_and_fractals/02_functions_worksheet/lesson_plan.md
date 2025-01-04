@@ -49,3 +49,5 @@ twenty minutes or so of lecture with the remainder being a worksheet.
 - Walk through `python_functions_worksheet`
     - Note: YOU MUST RUN YOUR CODE!!!
     - Go!
+
+### Homework

@@ -48,7 +48,7 @@ After this discussion, students work to complete the Grok lessons on 7.2.
     - Last thoughts?
 - Grok!
 
-#### Homework
+### Homework
 
 - TIL entry on topic of your choice
 - Finish Grok Lesson 7.2

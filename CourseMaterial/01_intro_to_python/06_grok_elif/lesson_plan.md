@@ -35,7 +35,7 @@ read/understand documentation.
     - How `elif` simplifies nested if/elses
 - Grok!
 
-#### Homework
+### Homework
 
 - TIL entry on topic of choice
 - Finish Grok Lesson 5.2

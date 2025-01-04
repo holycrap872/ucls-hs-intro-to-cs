@@ -37,7 +37,7 @@
     - Almost like origami
 - Grok!
 
-#### Homework
+### Homework
 
 - Finish Grok Lesson 6.2
 - TIL entry on `for` loops
