@@ -17,6 +17,7 @@ Grok to do this. Finally, students start to work on Grok.
 ### Setup
 
 - Schoology assessment posted
+    - See `assessment.md`
 
 ### Actual Lesson
 
@@ -70,6 +71,12 @@ Grok to do this. Finally, students start to work on Grok.
         - Ordering of functions when things on a single line
         - How to write `4 * 5 + 6 / 3`
             - `add(mul(4, 5), div(6, 3))`
+- Start classwork
+    - Schoology assessment first
+        - Goal is to set you up to see similarities between math and Python
+    - Grok after
+        - Pay particular attention to how `return` works
+        - What does it mean when there's no `return`, vs `return`, vs `return x`?
 
 ### Homework
 
