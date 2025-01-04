@@ -8,7 +8,7 @@
 ### Setup
 
 - Turbozzle worksheet loaded up in Schoology
-    - https://docs.google.com/document/d/1fekLawCFuocIC7UNs41wR1hAvdX_QMzMMIOz599dnUU
+    - https://docs.google.com/document/d/1aCPLTZ5ZrnDYkBXXE87BTv3F9QBSN4nd8OhKO1DcTCc
 - Turbozzle "Skeleton" loaded up in Schoology
     - https://github.com/holycrap872/turbozzle/tree/for_students
 

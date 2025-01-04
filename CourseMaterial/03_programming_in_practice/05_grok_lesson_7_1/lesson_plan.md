@@ -7,7 +7,7 @@
 
 ### Setup
 
-- Quiz ready to be published on schoology
+- Quiz ready to be published on Schoology
 
 ### Actual Lesson
 

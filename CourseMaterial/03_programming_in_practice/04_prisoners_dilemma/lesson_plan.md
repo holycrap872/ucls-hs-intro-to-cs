@@ -7,8 +7,11 @@
 
 ### Setup
 
-- `score_sheet.docx` printed out
-- Candy for the winner
+- Supplies for "live" prisoners dilemma
+    - `score_sheet.docx` printed out
+    - Candy for the winner
+- `Python Lists Worksheet` loaded up in Schoology
+    - https://docs.google.com/document/d/1F0GhWpyZ6LulCuW22pCCAIo370CjpGgNC-VmFXVEn-s
 
 ### Actual Lesson
 
