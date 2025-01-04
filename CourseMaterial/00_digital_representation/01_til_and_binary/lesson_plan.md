@@ -43,8 +43,9 @@ talking about binary numbers.
     - Talk through rubric
         - https://docs.google.com/document/d/1j5vw3IYppMSfC5TPs2JEx6PjW4-oDo8FrpmEhXEj7lA
     - TIL is cheat-sheet you can bring to any test/exam in class
-        - Can do multiple entries per day
-        - I will grade the "worst one" to avoid note dumping
+        - Can **only do a single entry** each day
+            - Makes it easier for 9th graders to understand
+            - Forces them to identify most important thing
 - First unit will be on "digital representation"
     - What does "digital" mean?
     - What does "digital representation" mean?
