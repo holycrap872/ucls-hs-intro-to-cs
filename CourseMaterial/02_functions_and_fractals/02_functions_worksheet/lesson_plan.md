@@ -5,27 +5,25 @@
 
 ## Lesson Plan
 
-This lesson assumes that students are coming back from break and therefore need
-a bit of a refresher. For this reason, we start working on functions because it
-is old stuff (code) wrapped in new stuff (functions). The lesson is composed of
-twenty minutes or so of lecture with the remainder being a worksheet.
+In this lesson, we start to expand from thinking of functions as things to be
+memorized in math and CS to viewing them as things that help humans think and
+reason.
 
 ### Setup
 
-- `real_life_functions.docx` printed out and ready to go
 - `Python Functions Worksheet` loaded into Schoology
     - https://docs.google.com/document/d/1pD_fh3PX6DwU3aemTk7Rn886AjMAgYAPAlwt7aCmDlk
-    - FIXME: as of 2024-12-11 needs to be checked for correctness/flow
 
 ### Actual Lesson
 
 - Review
-    - Common mistakes in Grok
-    - Where have we seen functions before?
+    - Function stuff
+        - Identify parts
+        - Type annotations
 - What is a function?
     - Input/output
     - Look at review problem as ask which are functions?
-        - print() and other()
+        - `print()` and `other()`
         - What are the inputs?
         - What are the outputs?
 - Before going to functions, useful to think of functions in real life
@@ -43,11 +41,16 @@ twenty minutes or so of lecture with the remainder being a worksheet.
         - What are inputs
         - What are outputs?
     - Vending machine just sits there until it's called
-- Do two other examples
-    - `add_one(num)`, `greet(saying, name)`
-    - In each case, identify name, inputs, outputs, function call
+- Demo to show the power of functions
+    - Dragon curve demo
+    - What are the important parts of the function?
+    - How is this like a fractal?
 - Walk through `python_functions_worksheet`
     - Note: YOU MUST RUN YOUR CODE!!!
     - Go!
 
 ### Homework
+
+### Extensions
+
+- `real_life_functions.docx` printed out and ready to go
