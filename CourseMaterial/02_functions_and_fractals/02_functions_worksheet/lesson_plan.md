@@ -1,7 +1,7 @@
 ## Essential Questions
 
 - What are functions?
-- Why are functions useful?
+- How do functions represent the real world?
 
 ## Lesson Plan
 
@@ -13,9 +13,13 @@ reason.
 
 - `Python Functions Worksheet` loaded into Schoology
     - https://docs.google.com/document/d/1pD_fh3PX6DwU3aemTk7Rn886AjMAgYAPAlwt7aCmDlk
+- Schoology assessment posted
+    - See `assessment.md`
 
 ### Actual Lesson
 
+- Opening problem
+    - `f(x)` and `g(x, y)` in Python
 - Review
     - Function stuff
         - Identify parts
@@ -41,15 +45,13 @@ reason.
         - What are inputs
         - What are outputs?
     - Vending machine just sits there until it's called
-- Demo to show the power of functions
-    - Dragon curve demo
-    - What are the important parts of the function?
-    - How is this like a fractal?
 - Walk through `python_functions_worksheet`
     - Note: YOU MUST RUN YOUR CODE!!!
     - Go!
 
 ### Homework
+
+- Schoology assessment
 
 ### Extensions
 
