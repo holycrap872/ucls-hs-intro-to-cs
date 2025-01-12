@@ -10,7 +10,8 @@ language to be able to identify, describe, and create their own functions.
 
 ### Setup
 
-- None
+- Schoology assessment posted
+    - see `assessment.md`
 
 ### Actual Lesson
 
@@ -43,5 +44,6 @@ language to be able to identify, describe, and create their own functions.
 
 ### Homework
 
+- Schoology assessment
 - Finish Grok Lesson 8.4
 - TIL Entry on functions

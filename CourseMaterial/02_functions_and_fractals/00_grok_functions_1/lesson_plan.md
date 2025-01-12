@@ -80,5 +80,5 @@ Grok to do this. Finally, students start to work on Grok.
 
 ### Homework
 
-- Finish Grok Lesson 8.2
 - Schoology assessment
+- Finish Grok Lesson 8.2
