@@ -13,8 +13,6 @@ reason.
 
 - `Python Functions Worksheet` loaded into Schoology
     - https://docs.google.com/document/d/1pD_fh3PX6DwU3aemTk7Rn886AjMAgYAPAlwt7aCmDlk
-- Schoology assessment posted
-    - See `assessment.md`
 
 ### Actual Lesson
 
@@ -51,8 +49,5 @@ reason.
 
 ### Homework
 
-- Schoology assessment
-
-### Extensions
-
-- `real_life_functions.docx` printed out and ready to go
+- Finish `Python Functions Worksheet`
+- Study for quiz

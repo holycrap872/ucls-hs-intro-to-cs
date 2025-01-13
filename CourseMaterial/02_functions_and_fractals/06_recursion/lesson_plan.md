@@ -13,11 +13,16 @@
     - https://youtu.be/9HJKrctqIJI?si=rzqklvXGAoVdFGiP
 - Fractal terrain ready to run
     - `terrain.py`
-- `python_recursion_worksheet` accessible on Schoology
+- `Python Recursion Worksheet` loaded up on Schoology
     - https://docs.google.com/document/d/1KZZBXd41aoYjR4rYAPWKPmsHDFJMrjmcIhX95dQPDW0
 
 ### Actual Lesson
 
+
+- Demo to show the power of functions
+    - Dragon curve demo
+    - What are the important parts of the function?
+    - How is this like a fractal?
 - Review
     - Fractals
     - Cantor set
