@@ -1,16 +1,18 @@
 ## Essential Questions
 
-- What do we need to remember from this unit?
-- What do we actually remember from this unit?
-- What is the best way to prepare for a test?
+- What have I learned in this unit?
 
 ## Lesson Plan
 
 ### Setup
 
-- Test loaded up on Schoology
+- Exam loaded up on Schoology
+    - Make sure there is a reflection question about TIL as last question on test
+        - One point
+        - "What portion of your TIL was most useful while you were taking the test?"
+        - "What is something that you wish you had done differently on your TIL that would have made it more useful?"
 - Scrap paper
-    - ASCII table and RGB
+    - ASCII table and RGB printed out
 
 ### Actual Lesson
 
