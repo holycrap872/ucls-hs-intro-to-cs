@@ -1,23 +1,25 @@
 ## Essential Questions
 
 - How can we use loops to efficiently process data?
+- How can we use groupings of bits to represent pictures?
 
 ## Lesson Plan
 
 ### Setup
 
 - `Python EmojiPics Worksheet` in a GoogleDoc posted to Schoology
-    - https://docs.google.com/document/d/1eRyqf4Wh6QenNvJX7IhwrWWl2eKnvaMdclrB-PerWaM
+    - https://docs.google.com/document/d/1n2gNM9SHSsmScRGtFnI9CtQMvxVWTiKwyfGk17D1FzI
 
 ### Actual Lesson
 
-- Quiz on Grok lessons up to 5.2
-- Start groking after this
-    - Should be starting lesson 5.3 (accumulators)
-    - Let Grok for 15 - 20m
-- Review quiz
-    - Field any questions
-- Break
+- Opening Problem
+- Review
+    - Functions
+    - Fractals
+    - Indexing of strings
+- Slicing
+    - Why called slicing
+    - How similar to loops
 - Classwork prep
     - Today going to do first real, interesting program
         - Going to give you the code b/c reading/understanding code most important skill
@@ -28,11 +30,12 @@
     - Review Pictures/colors
         - Pictures are just a bunch of pixels
         - Black => 0, White => 1
-        - RGB
-        - Grayscale
-- Hand out classwork
-- Go!
+- Break into groups
     - Do all of Problem 1, Section 1 (before running the program) together
+    - Go!
+- Break
+- When come back, talk about RGB and Grayscale
+- Go!
 - Cool final trick
     - Copy B/W data into a text file
     - Shrink so that 2's are all lined up on right edge: Can see figure
@@ -40,4 +43,4 @@
 
 ### Homework
 
-- TIL entry
+- TIL entry on slicing
