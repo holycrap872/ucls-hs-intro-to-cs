@@ -22,13 +22,15 @@ reason.
     - Function stuff
         - Identify parts
         - Type annotations
+- TIL Entries
+    - Find some good ones and put into slide show
 - What is a function?
     - Input/output
-    - Look at review problem as ask which are functions?
-        - `print()` and `other()`
-        - What are the inputs?
-        - What are the outputs?
-- Before going to functions, useful to think of functions in real life
+    - Look at a simple comparison function
+        - What are the pieces
+        - What is the type annotation
+- Functions in Python/Math based on how humans thing
+    - Useful to think of functions in real life
     - Anything where give something and get something back
         - Any examples?
         - Vending machine
@@ -43,8 +45,7 @@ reason.
         - What are inputs
         - What are outputs?
     - Vending machine just sits there until it's called
-- Walk through `python_functions_worksheet`
-    - Note: YOU MUST RUN YOUR CODE!!!
+- Walk through `Python Functions Worksheet`
     - Go!
 
 ### Homework
