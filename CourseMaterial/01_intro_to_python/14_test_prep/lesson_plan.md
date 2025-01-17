@@ -19,10 +19,17 @@
     - Accumulator problem
     - Function problem
 - Review
+    - Input/output/f-strings
+    - Variables
+    - Conditionals
+    - Range and iteration loops
+    - Accumulator pattern
+    - Function basics
+    - String indexing
 - What's next
     - Functions, fractals, PythoShop, ...
 - Start review sheet
-    - Partners
+    - Choose your own group to work with
 
 ### Homework
 
