@@ -32,11 +32,12 @@ language to be able to identify, describe, and create their own functions.
         - `double(x)` (from opening problem)
         - `greet(x, name)`
     - Vocabulary
+        - Creates function
         - Name of function
         - Input(s) to function
-        - Creates function
-        - Function call
+        - Body of function
         - Output of function
+        - Function call
     - Type annotations
 - Grok!
     - Pay particular attention to how `return` works

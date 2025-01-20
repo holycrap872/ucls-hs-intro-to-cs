@@ -9,11 +9,12 @@
     - Because it is required to take one or more inputs when "called"
     - Because it has higher precedence than the + or - symbol
 3. Label each of the parts of the function that are pointed to in the picture below:
+    - Creates function
     - Name of function
     - Input(s) to function
-    - Creates function
-    - Function call
+    - Body of function
     - Output of function
+    - Function call
 4. What does the `return` statement do?
     - It gives the result of a function's computation to the calling code
     - It pauses the program to provide the total time a function ran for
