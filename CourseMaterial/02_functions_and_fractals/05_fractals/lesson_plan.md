@@ -19,25 +19,26 @@
 ### Actual Lesson
 
 - Review
-    - Lightbot
-    - Recursion
-        - http://www.robozzle.com/beta/index.html?puzzle=14133
-        - Lightbot calls it loops, but actually recursion
-    - Functions
     - Python functions
-- Lightbot level with turtles
-    - Do staircase level with turtle
-    - See `example/turtle_recursion.py`
-- Today going to go back to talking about fractals
+    - Robozzle and functions
+        - https://alexanderson1993.github.io/robozzle-react/?level=18001
+    - Function call stack
+- Today going to go back to talking about recursion and fractals
     - Talked about it at the beginning of class
     - Let's see who remembers
-- Before we get started, do a quick drawing exercise
-    - Show a picture of a tree
+- Robozzle recursion
+    - https://alexanderson1993.github.io/robozzle-react/?level=27
+    - How does this work?
+- Python recursion
+    - Do staircase level with turtle
+    - See `example/turtle_recursion.py`
+- How does recursion relate to nature?
+    - Do a quick drawing exercise
     - Have them draw a "speed tree"
-        - Give ~2m
+        - Give ~1m
         - Giving them too long will ruin the before/after effect
 - Going to watch a bit of a movie and then discuss
-    - Mandelbrot movie: https://youtu.be/d0Exnv8Ym7s?si=7nmgnrCIPdN9ThH5
+    - Mandelbrot movie: https://www.youtube.com/watch?v=q8EuFziyDwI
         - Ads from 2:00 - 2:35
         - Watch up to 24:46 (fractal tee-shirts)
 - What did we learn there?
@@ -54,3 +55,7 @@
     - In CS this is called recursion
     - Functions
     - Show tree example
+
+### Homework
+
+- TIL Entry on recursion
