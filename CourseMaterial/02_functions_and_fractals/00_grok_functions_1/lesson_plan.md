@@ -6,9 +6,9 @@
 ## Lesson Plan
 
 This lesson serves both as the introduction to functions and as a bit of a
-refresher after the winter break. In it, students review everything that they
-have covered so far and get a glimpse of where they are going to go in the
-upcoming units. After this, the conceptual foundations of functions are
+refresher after just completing the unit test. In it, students review everything
+that they have covered so far and get a glimpse of where they are going to go in
+the upcoming units. After this, the conceptual foundations of functions are
 discussed - but no actual Python function terminology since we're relying on
 Grok to do this. Finally, students start to work on Grok.
 
@@ -45,6 +45,9 @@ Grok to do this. Finally, students start to work on Grok.
             - functions
             - loops
             - accumulators
+    - Review unit test
+        - Give 5m to look over answers
+        - Any questions?
 - Where are we going?
     - Functions/fractals
     - VSCode/Debugging
