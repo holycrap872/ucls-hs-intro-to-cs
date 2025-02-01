@@ -18,7 +18,8 @@
 
 ### Actual Lesson
 
-
+https://www.youtube.com/watch?v=q8EuFziyDwI
+    - https://youtu.be/q8EuFziyDwI?si=bA5wXreHb9K5QAXm&t=1828
 - Demo to show the power of functions
     - Dragon curve demo
     - What are the important parts of the function?

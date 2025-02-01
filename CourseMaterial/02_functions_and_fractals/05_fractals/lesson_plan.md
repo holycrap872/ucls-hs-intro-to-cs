@@ -55,6 +55,7 @@
     - In CS this is called recursion
     - Functions
     - Show tree example
+    - Way of looking at the world
 
 ### Homework
 
