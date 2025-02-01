@@ -14,6 +14,8 @@ The explanation/game takes up ~45m before students start to get bored.
 
 - Enough versions of Skull to cover class (6 people per game)
 - Enough printouts so can have one per group
+- YouTube video loaded up
+    - https://www.youtube.com/watch?v=Ma1y8Lsv5tY
 
 ### Actual Lesson
 
@@ -36,8 +38,13 @@ The explanation/game takes up ~45m before students start to get bored.
 - Explain sheet
 - Do sample round
     - Fill in sheet
-    - Have _one person per group_ be recorder
 - Go!
+- After a few rounds, pause and explain how going to keep data
+    - Have _one person per group_ be recorder
+    - How is this like bayesian probability?
 - Bayesian debrief
     - How did this sheet prove useful?
     - Why is filling in the sheet an example of Bayesian learning?
+    - Who was the meanest?
+    - Who was the nicest?
+    - Do you feel like your data represents you?
