@@ -22,11 +22,11 @@ language to be able to identify, describe, and create their own functions.
 - Review
     - Functions
 - PEMDAS
+    - LISP: `(+ 2 3)`, Python: `2 + 3`
     - Comes from beginning of algebra
     - Two options:
         - A few more characters
         - Torture school children for centuries
-    - LISP: `(+ 2 3)`, Python: `2 + 3`
 - Functions in Python
     - Math -> Python conversion
         - `double(x)` (from opening problem)
@@ -39,9 +39,11 @@ language to be able to identify, describe, and create their own functions.
         - Output of function
         - Function call
     - Type annotations
-- Grok!
-    - Pay particular attention to how `return` works
-    - What does it mean when there's no `return`, vs `return`, vs `return x`?
+- Classwork
+    - Schoology assessment first!
+    - Grok second!
+        - Pay particular attention to how `return` works
+        - What does it mean when there's no `return`, vs `return`, vs `return x`?
 
 ### Homework
 
