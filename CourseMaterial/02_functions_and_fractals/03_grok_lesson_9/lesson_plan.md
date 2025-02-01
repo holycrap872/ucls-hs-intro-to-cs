@@ -8,6 +8,21 @@
 ### Setup
 
 - Quiz up to Grok Lesson 8.4 loaded on Schoology
+- `make_shapes()` function ready to run in vscode
+    - ```python
+        from turtle import *
+
+        def make_shape(x):
+        for i in range(4):
+            forward(x)
+            left(90)
+        return "all done"
+
+        if __name__ == "__main__":
+            make_shape(30)
+            make_shape(60)
+    ```
+
 
 ### Actual Lesson
 
@@ -25,15 +40,19 @@
     - Details hidden
     - Can just use it
     - Show how can use it to make cool shapes
-- Functions as puzzle pieces
-    - Right types in holes
-    - Just like scratch!
-    - https://app.edublocks.org/project
+    - Use debugger for first time
+        - Step into function
+        - Point out "function call stack"
+            - Will talk more about this later
 - Functions as a way of thinking
     - Recipe
     - Cars
     - Shapes (game)?
     - Factorio (game)?
+- Functions as puzzle pieces
+    - Right types in holes
+    - Just like scratch!
+    - https://app.edublocks.org/project
 - Start Groking
 
 ### Homework
