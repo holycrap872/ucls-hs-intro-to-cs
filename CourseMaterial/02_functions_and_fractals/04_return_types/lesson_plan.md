@@ -1,7 +1,7 @@
 ## Essential Questions
 
+- What is the difference between a function doing something and returning something
 - What types of things can a function return?
-- What is the difference between a function and a procedure?
 
 ## Lesson Plan
 

@@ -20,8 +20,10 @@ language to be able to identify, describe, and create their own functions.
         - `f(5)`
         - ...
 - Review
+    - CS stole a lot from math
     - Functions
-- PEMDAS
+    - Solve from the inside out
+- Functions and order of operations
     - LISP: `(+ 2 3)`, Python: `2 + 3`
     - Comes from beginning of algebra
     - Two options:
