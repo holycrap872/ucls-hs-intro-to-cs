@@ -7,6 +7,8 @@
 
 ### Setup
 
+- YouTube videos loaded and ready to go
+    - 
 - https://docs.google.com/document/d/1JvvLg1t9qirK5kptCM3CtkF478smpt2b4quSn3QDeHA
     - FIXME: This needs more content
 - TIL entries
@@ -17,6 +19,12 @@
     - Prisoner's dilemma one last time
     - `for` vs. `while`
     - TIL entries
+- Recursion
+    - Do iterative version of a square
+    - Do recursive version of a square
+        - How many recursive calls?
+        - What is the base case
+        - What does the call stack look like?
 - Prepare for test
     - Allowed to bring TIL
     - Test should be between 40m - 1h but is untimed

@@ -7,12 +7,11 @@
 
 ### Setup
 
-- Fractal tree site loaded up:
-    - https://codepen.io/hippiefuturist/full/NRWOxM
-- Fractal terrain video loaded up:
-    - https://youtu.be/9HJKrctqIJI?si=rzqklvXGAoVdFGiP
-- Fractal terrain ready to run
-    - `terrain.py`
+- Programs loaded up into Grok:
+    - `examples/decrement.py`
+    - `examples/fence.py`
+- Schoology assessment posted
+    - See `assessment.md`
 - `Python Recursion Worksheet` loaded up on Schoology
     - https://docs.google.com/document/d/1KZZBXd41aoYjR4rYAPWKPmsHDFJMrjmcIhX95dQPDW0
 
@@ -23,16 +22,12 @@
 - Review
     - Functions
     - Fractals
-    - Cantor set
+        - When a concept or process depends on a simpler version of itself
     - Uses
-- Demo to show the power of functions
-    - Dragon curve demo
-        - `dragon_curve.py`
-    - What are the important parts of the function?
-    - How is this like a fractal?
-- Robozzle/Turtle prep
-    - How create a series of repeating steps in Robozzle?
-    - Create same pattern in Python using Turtles
+- Google recursion
+- Robozzle recursion
+    - https://alexanderson1993.github.io/robozzle-react/?level=27
+    - How does this work?
 - Recursion
     - Previous is an example of recursion, why?
     - What is definition of recursion
@@ -41,12 +36,12 @@
             - One foot in front of other (if done race stop)
     - Where have we seen recursion before?
         - Robozzle/Lightbot
+- Python recursion
+    - `examples/decrement.py`
+    - Discussion with function call stack
 - Draw a series of shapes together
-    - Do iterative version of a square
-    - Do recursive version of a square
-        - How many recursive calls?
-        - What is the base case
-        - What does the call stack look like?
+    - Do fence with turtle
+    - See `examples/fence.py.py`
 - Talk through worksheet
     - Have read
 - Go!
