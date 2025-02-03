@@ -18,16 +18,18 @@
 
 ### Actual Lesson
 
-https://www.youtube.com/watch?v=q8EuFziyDwI
-    - https://youtu.be/q8EuFziyDwI?si=bA5wXreHb9K5QAXm&t=1828
-- Demo to show the power of functions
-    - Dragon curve demo
-    - What are the important parts of the function?
-    - How is this like a fractal?
+- Opening problem
+    - Nested functions problem
 - Review
+    - Functions
     - Fractals
     - Cantor set
     - Uses
+- Demo to show the power of functions
+    - Dragon curve demo
+        - `dragon_curve.py`
+    - What are the important parts of the function?
+    - How is this like a fractal?
 - Robozzle/Turtle prep
     - How create a series of repeating steps in Robozzle?
     - Create same pattern in Python using Turtles
@@ -51,7 +53,7 @@ https://www.youtube.com/watch?v=q8EuFziyDwI
 
 ### Homework
 
-- TIL on Recursion
+- Schoology assessment
 
 #### Possible Extension
 
