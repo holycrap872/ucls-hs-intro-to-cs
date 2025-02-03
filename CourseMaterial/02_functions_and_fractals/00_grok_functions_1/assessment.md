@@ -4,7 +4,7 @@
     - Something that produces a random output unrelated to input(s)
     - Something(s) for which individuals are suited
 2. In math, the `+` symbol can be considered a function. Why?
-    - Because it takes two inputs and produces a single output
+    - Because it takes input(s) and produces a single output
     - Because it has lower precedence than the `*` or `/` symbol
     - Because it combines any two numbers together
     - Because it is required to take one more more inputs

@@ -4,7 +4,7 @@
     - Something that produces a constant output unrelated to input(s)
     - Something that takes a set of input(s) and combines them
 2. In math, the / symbol can be considered a function. Why?
-    - Because it takes two inputs and produces a single output
+    - Because it takes input(s) and produces a single output
     - Because it combines any two or more numbers together
     - Because it is required to take one or more inputs when "called"
     - Because it has higher precedence than the + or - symbol
