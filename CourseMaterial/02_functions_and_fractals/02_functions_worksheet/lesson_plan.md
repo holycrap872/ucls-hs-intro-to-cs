@@ -1,13 +1,12 @@
 ## Essential Questions
 
 - What are functions?
-- How do functions represent the real world?
+- How do you create and use functions?
 
 ## Lesson Plan
 
-In this lesson, we start to expand from thinking of functions as things to be
-memorized in math and CS to viewing them as things that help humans think and
-reason.
+In this lesson, we build on the previous lesson to really emphasize the parts
+of a function and how to create and use them.
 
 ### Setup
 
@@ -29,8 +28,7 @@ reason.
     - Look at a simple comparison function
         - What are the pieces
         - What is the type annotation
-- Functions in Python/Math based on how humans thing
-    - Useful to think of functions in real life
+- Useful to think of functions in real life
     - Anything where give something and get something back
         - Any examples?
         - Vending machine
