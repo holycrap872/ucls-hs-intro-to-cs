@@ -39,6 +39,10 @@
 - Python recursion
     - `examples/decrement.py`
     - Discussion with function call stack
+    - Show what happens if don't have base case
+        - StackOverflowException
+    - Show what happens if print() and recursive step flipped
+        - Count up instead of down
 - Draw a series of shapes together
     - Do fence with turtle
     - See `examples/fence.py.py`
