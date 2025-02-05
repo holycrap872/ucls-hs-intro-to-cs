@@ -1,7 +1,7 @@
 ## Essential Questions
 
-- What is the difference between a function doing something and returning something
 - What types of things can a function return?
+- What is the difference between a function returning something and doing something?
 
 ## Lesson Plan
 
@@ -12,7 +12,23 @@
 
 ### Actual Lesson
 
-TODO: Worksheet on `return None` vs. `return` vs. `return 1`
+- Opening problem
+    - `func(func(func(func(5))))`
+- Review
+    - Thinking in functions
+    - Parts of a function
+    - Function annotation
+- Data types
+    - integer, float, string, None
+- Type annotations
+- Functions that return None
+    - Technically called procedures: things that "do"
+- Name that function
+    - Different type annotations to different functions
+    - Make sure to include a `-> None:`
+        - "This is technically called a procedure"
+- Walk through `Return Types Worksheet`
+    - Go!
 
 ### Homework
 
