@@ -1,19 +1,30 @@
 from turtle import *
 
 
-def dragon(level, direction):
-    if level:  # Same as "if level > 0"
-        right(direction * 45)
-        dragon(level - 1, 1)
-        left(direction * 90)
-        dragon(level - 1, -1)
-        right(direction * 45)
-    else:
-        forward(10)  # Base length
+def build_dragon_string(level):
+    if level == 0:
+        return ""
+
+    # Get the previous pattern
+    previous = build_dragon_string(level - 1)
+
+    # Make current pattern by:
+    # 1. Using previous pattern
+    # 2. Adding "L" for fold
+    # 3. Using previous pattern with R's and L's flipped
+    flipped = ""
+    for turn in previous:
+        flipped = turn + flipped
+
+    reversed_and_flipped = ""
+    for turn in flipped:
+        if turn == "L":
+            reversed_and_flipped += "R"
+        else:
+            reversed_and_flipped += "L"
+
+    return previous + "L" + reversed_and_flipped
 
 
-speed(0)  # Fastest speed
-penup()
-goto(-100, 0)  # Start position
-pendown()
-dragon(12, 1)
+instructions = build_dragon_string(6)
+print(instructions)

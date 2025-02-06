@@ -8,6 +8,7 @@
 ### Setup
 
 - YouTube video loaded and ready to go
+    - Dragon Curve: 
     - Fractal terrain: https://youtu.be/9HJKrctqIJI?si=rzqklvXGAoVdFGiP
     - Fractal Tree Morphs: https://www.youtube.com/watch?v=Ec8Q1q9cbbo
     - Fractal Antenna: https://youtu.be/q8EuFziyDwI?si=xQUSxdxRhESKhvBL&t=1684
@@ -19,13 +20,22 @@
 - Opening problem
     - Warm up to recursion: `print(mult(4, mult(3, mult(2, mult(1, 1)))))`
     - Factorial
+        - Show in vscode
+- Review
+    - Recursion
+        - Base case
+        - Recursive step
+    - Function call stack
+    - Fractals
+    - TIL Review
 - Demo to show the power of functions/recursion
-    - Fractal terrain
-        - `examples/terrain.py`
-    - Dragon curve demo
-        - `examples/dragon_curve.py`
-    - What are the important parts of the function?
-    - How is this like a fractal?
+    - Show dragon curve movie
+        - https://www.youtube.com/watch?v=wCyC-K_PnRY
+        - Watch up to 6m30s
+    - Show dragon curve recursive code
+        - Generate L/R string and debug
+        - As class create "printer code"
+- 30m to finish worksheet
 - Wrap up recursion
     - Watch fractal tree video
         - https://www.youtube.com/watch?v=Ec8Q1q9cbbo
@@ -34,9 +44,6 @@
         - useful
         - interesting
         - common in math
-- Grok
-    - Finish 7.1 - 7.3 for homework
-    - If finish 7.4, then can do other work
 
 ### Homework
 
