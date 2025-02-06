@@ -8,17 +8,19 @@
 ### Setup
 
 - YouTube videos loaded and ready to go
-    - 
+    - Fractal terrain: https://youtu.be/9HJKrctqIJI?si=rzqklvXGAoVdFGiP
 - https://docs.google.com/document/d/1JvvLg1t9qirK5kptCM3CtkF478smpt2b4quSn3QDeHA
     - FIXME: This needs more content
-- TIL entries
+- Fractal terrain ready to run
+    - `terrain.py`
 
 ### Actual Lesson
 
-- Review
-    - Prisoner's dilemma one last time
-    - `for` vs. `while`
-    - TIL entries
+- Opening Problem
+    - Recursive fibonacci sequence
+- Demo to show the power of functions/recursion
+    - Fractal terrain
+        - `examples/terrain.py`
 - Recursion
     - Do iterative version of a square
     - Do recursive version of a square

@@ -3,38 +3,53 @@ import random
 import pygame
 
 
-def diamond_square_helper(arr: list[list[float]], size: int, roughness: int) -> None:
+def diamond_square_helper(arr: list[list[float]], size: int, roughness: float) -> None:
     half = size // 2
-    if half == 0:
+    if half < 0.5:
         return
 
+    # Diamond step
     for y in range(half, len(arr) - 1, size):
         for x in range(half, len(arr[0]) - 1, size):
-            # Diamond step
             avg = (
                 arr[y - half][x - half] + arr[y - half][x + half] + arr[y + half][x - half] + arr[y + half][x + half]
             ) / 4.0
             arr[y][x] = avg + random.uniform(-roughness, roughness)
 
+    # Square step
     for y in range(0, len(arr), half):
         for x in range((y + half) % size, len(arr[0]), size):
-            # Square step
-            avg = arr[(y - half) % (len(arr) - 1)][x] + arr[(y + half) % (len(arr) - 1)][x]
-            count = 2
-            if x - half >= 0:
-                avg += arr[y][(x - half) % (len(arr[0]) - 1)]
+            total = 0
+            count = 0
+
+            # Check each adjacent point
+            if y >= half:  # Top
+                total += arr[y - half][x]
                 count += 1
-            if x + half < len(arr[0]):
-                avg += arr[y][(x + half) % (len(arr[0]) - 1)]
+            if y + half < len(arr):  # Bottom
+                total += arr[y + half][x]
                 count += 1
-            arr[y][x] = avg / count + random.uniform(-half, half) * roughness
+            if x >= half:  # Left
+                total += arr[y][x - half]
+                count += 1
+            if x + half < len(arr[0]):  # Right
+                total += arr[y][x + half]
+                count += 1
 
-    diamond_square_helper(arr, size // 2, roughness // 2)
+            if count > 0:
+                arr[y][x] = (total / count) + random.uniform(-roughness, roughness)
+
+    diamond_square_helper(arr, size // 2, roughness / 2)
 
 
-def diamond_square_recursive(size: int, roughness: int) -> list[list[float]]:
+def diamond_square_recursive(size: int, roughness: float) -> list[list[float]]:
     arr = [[0.0 for _ in range(size)] for _ in range(size)]
-    arr[0][0] = arr[0][size - 1] = arr[size - 1][0] = arr[size - 1][size - 1] = size
+
+    # Set higher values for top corners (0,0) and (0,size-1)
+    arr[0][0] = arr[0][size - 1] = random.uniform(roughness / 2, roughness)
+    # Set lower values for bottom corners
+    arr[size - 1][0] = arr[size - 1][size - 1] = random.uniform(0, roughness / 3)
+
     diamond_square_helper(arr, size - 1, roughness)
     return arr
 
@@ -95,7 +110,7 @@ def render_landscape(screen: pygame.Surface, landscape: list[list[float]]) -> No
         for x, height in enumerate(landscape[y]):
             # Convert height to a vertical position
             height = int(height * height_factor)
-            mod_height = screen.get_height() - (height + 250)
+            mod_height = screen.get_height() - (height + 150)
             points.append((x, mod_height))
         points.append((screen.get_width(), screen.get_height()))  # End at bottom right
 
@@ -112,7 +127,7 @@ def main():
     pygame.display.set_caption("Mountain Landscape")
 
     # landscape = diamond_square_iterative(size - 1, 100)  # Adjust roughness as desired
-    landscape = diamond_square_recursive(size, 100)  # Adjust roughness as desired
+    landscape = diamond_square_recursive(size, 1000)  # Adjust roughness as desired
 
     running = True
     while running:

@@ -8,12 +8,14 @@
 ### Setup
 
 - YouTube video loaded and ready to go
-    - Dragon Curve: 
-    - Fractal terrain: https://youtu.be/9HJKrctqIJI?si=rzqklvXGAoVdFGiP
+    - Dragon Curve: https://www.youtube.com/watch?v=wCyC-K_PnRY
     - Fractal Tree Morphs: https://www.youtube.com/watch?v=Ec8Q1q9cbbo
     - Fractal Antenna: https://youtu.be/q8EuFziyDwI?si=xQUSxdxRhESKhvBL&t=1684
-- Fractal terrain ready to run
-    - `terrain.py`
+- TIL entries
+- Dragon curve code ready to run
+    - `exmaple/dragon_curve.py`
+- Schoology assessment posted
+    - see `assessment.md`
 
 ### Actual Lesson
 
@@ -33,7 +35,8 @@
         - https://www.youtube.com/watch?v=wCyC-K_PnRY
         - Watch up to 6m30s
     - Show dragon curve recursive code
-        - Generate L/R string and debug
+        - Generate L/R string
+        - Debug and show call stack
         - As class create "printer code"
 - 30m to finish worksheet
 - Wrap up recursion
@@ -47,4 +50,5 @@
 
 ### Homework
 
-- TIL on Recursion
+- Grok lesson 9.4
+- Schoology assessment
