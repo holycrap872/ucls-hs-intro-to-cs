@@ -3,7 +3,7 @@ import random
 import pygame
 
 
-def diamond_square_helper(arr, size, roughness):
+def diamond_square_helper(arr: list[list[float]], size: int, roughness: int) -> None:
     half = size // 2
     if half == 0:
         return
@@ -29,19 +29,19 @@ def diamond_square_helper(arr, size, roughness):
                 count += 1
             arr[y][x] = avg / count + random.uniform(-half, half) * roughness
 
-    diamond_square_helper(arr, size // 2, roughness / 2)
+    diamond_square_helper(arr, size // 2, roughness // 2)
 
 
-def diamond_square_recursive(size, roughness):
-    arr = [[0 for _ in range(size)] for _ in range(size)]
+def diamond_square_recursive(size: int, roughness: int) -> list[list[float]]:
+    arr = [[0.0 for _ in range(size)] for _ in range(size)]
     arr[0][0] = arr[0][size - 1] = arr[size - 1][0] = arr[size - 1][size - 1] = size
     diamond_square_helper(arr, size - 1, roughness)
     return arr
 
 
-def diamond_square_iterative(size, roughness):
+def diamond_square_iterative(size: int, roughness: int) -> list[list[float]]:
     # Initialize the 2D array with zeros
-    arr = [[0 for _ in range(size + 1)] for _ in range(size + 1)]
+    arr = [[0.0 for _ in range(size + 1)] for _ in range(size + 1)]
 
     # Initial corner values
     arr[0][0] = arr[0][size] = arr[size][0] = arr[size][size] = size // 2
@@ -76,12 +76,12 @@ def diamond_square_iterative(size, roughness):
                 arr[x][y] = total / count + random.uniform(-step, step) * roughness
 
         step //= 2
-        roughness /= 2
+        roughness //= 2
 
     return arr
 
 
-def render_landscape(screen: pygame.Surface, landscape: list[list[int]]):
+def render_landscape(screen: pygame.Surface, landscape: list[list[float]]) -> None:
     sky_color = (135, 206, 235)  # Blue sky
     screen.fill(sky_color)
 
@@ -111,8 +111,8 @@ def main():
     screen = pygame.display.set_mode((size, size))
     pygame.display.set_caption("Mountain Landscape")
 
-    landscape = diamond_square_iterative(size - 1, 100)  # Adjust roughness as desired
-    # landscape = diamond_square_recursive(size, 100)  # Adjust roughness as desired
+    # landscape = diamond_square_iterative(size - 1, 100)  # Adjust roughness as desired
+    landscape = diamond_square_recursive(size, 100)  # Adjust roughness as desired
 
     running = True
     while running:
