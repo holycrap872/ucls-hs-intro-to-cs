@@ -1,28 +1,13 @@
 ## Essential Questions
 
-- Why are functions so powerful?
-- How do functions represent how humans think?
+- How do you create and use functions?
+- How does understanding function I/O types help us?
 
 ## Lesson Plan
 
 ### Setup
 
 - Quiz up to Grok Lesson 8.4 loaded on Schoology
-- `make_shapes()` function ready to run in vscode
-    - ```python
-        from turtle import *
-
-        def make_shape(x):
-        for i in range(4):
-            forward(x)
-            left(90)
-        return "all done"
-
-        if __name__ == "__main__":
-            make_shape(30)
-            make_shape(60)
-    ```
-
 
 ### Actual Lesson
 
@@ -32,27 +17,18 @@
     - Functions as vending machine
         - Just sitting there
         - Need function call to work
-- Why are functions so powerful
-    - Hide details
-    - Form of abstraction
-- Discuss question 3 of `Functions Worksheet`
-    - `def make_shape(size, num_sides):`
-    - Details hidden
-    - Can just use it
-    - Show how can use it to make cool shapes
-    - Use debugger for first time
-        - Step into function
-        - Point out "function call stack"
-            - Will talk more about this later
-- Functions as a way of thinking
-    - Recipe
-    - Cars
-    - Shapes (game)?
-    - Factorio (game)?
+- Importance of function I/O
+    - Nested functions
+    - Almost like puzzle pieces
 - Functions as puzzle pieces
     - Right types in holes
     - Just like scratch!
-    - https://app.edublocks.org/project
+    - Show equivalent Scratch and Python programs side by side
+        - Notice/wonder?
+- Discuss Grok 9.1
+    - What are they asking?
+    - What is `__main__`?
+    - Solve a problem together
 - Start Groking
 
 ### Homework
