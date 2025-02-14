@@ -7,9 +7,10 @@
 
 ### Setup
 
-- `Robozzle Worksheet` loaded into Schoology
+- `Robozzle and Functions Worksheet` loaded into Schoology
     - https://docs.google.com/document/d/1QiQHOOVJecKwnOi_IGNrIDqSbMQhL2UCoL90OGBYXFg
-- `make_shirt()` example ready to run in vscode
+- Examples ready to run in vscode
+    - `examples/pencil.py`
     - `examples/make_shirt.py`
 
 ### Actual Lesson
@@ -23,18 +24,16 @@
         - Why are they so powerful?
 - Function call stack
     - Program pauses and waits for answer from function
-    - Real life example
+- Passing a pencil example
+    - Show `pencil.py`
+    - Enact in real life
         - Pause while chain of people hand me a pencil
-    - Programming example
-        - Making a shirt requires cloth which requires thread
-        - Pause while waiting for delivery
-        - Walk through a visual where the fn call pauses while called fn completes
-        - Show `make_shirt()` example in vscode
-            - Show debugging controls
-            - "Don't have to memorize this, but will use it next unit"
-- Today going to play a game to illustrate the function call stack
+    - Show in vscode
+        - Show debugging controls
+        - "Don't have to memorize this, but will use it next unit"
+    - Show function call stack
+- Today going to play a game to illustrate functions
     - Robozzle
-    - If work hard, then shouldn't have any homework
 - Demonstration
     - Do simple level
     - Explain how their procedures are similar Python's
@@ -47,5 +46,5 @@
 
 ### Homework
 
-- Finish up to level 3.3 of Robozzle worksheet
-- TIL Entry on the function call stack
+- Finish up to level 2.3 of Robozzle worksheet
+- Finish Reflection of Robozzle worksheet
