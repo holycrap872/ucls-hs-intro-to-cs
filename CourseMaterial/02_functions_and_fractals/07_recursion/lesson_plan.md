@@ -45,7 +45,7 @@
         - Count up instead of down
 - Draw a series of shapes together
     - Do fence with turtle
-    - See `examples/fence.py.py`
+    - See `examples/fence.py`
 - Talk through worksheet
     - Have read
 - Go!

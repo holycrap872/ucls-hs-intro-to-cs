@@ -1,16 +1,20 @@
 from turtle import *
 
 
-def do_something_1(num_levels):
+def do_something_1(size, num_levels):
     if num_levels <= 0:
-        forward(15)
+        forward(size)
     else:
-        forward(15)
+        forward(size)
         left(90)
-        forward(15)
-        backward(15)
+        forward(size)
+        backward(size)
         right(90)
-        do_something_1(num_levels - 1)
+        do_something_1(size, num_levels - 1)
 
 
-do_something_1(3)
+if __name__ == "__main__":
+    penup()
+    goto(-100, 0)
+    pendown()
+    do_something_1(30, 3)
