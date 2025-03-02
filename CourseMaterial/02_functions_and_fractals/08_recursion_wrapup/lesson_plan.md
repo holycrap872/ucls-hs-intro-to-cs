@@ -9,11 +9,9 @@
 
 - YouTube video loaded and ready to go
     - Dragon Curve: https://www.youtube.com/watch?v=wCyC-K_PnRY
-    - Fractal Tree Morphs: https://www.youtube.com/watch?v=Ec8Q1q9cbbo
-    - Fractal Antenna: https://youtu.be/q8EuFziyDwI?si=xQUSxdxRhESKhvBL&t=1684
 - TIL entries
 - Dragon curve code ready to run
-    - `exmaple/dragon_curve.py`
+    - `example/dragon_curve.py`
 - Schoology assessment posted
     - see `assessment.md`
 
@@ -39,14 +37,7 @@
         - Debug and show call stack
         - As class create "printer code"
 - 30m to finish worksheet
-- Wrap up recursion
-    - Watch fractal tree video
-        - https://www.youtube.com/watch?v=Ec8Q1q9cbbo
-    - Function call stack
-    - Why recursion?
-        - useful
-        - interesting
-        - common in math
+- If finish early, can start on homework
 
 ### Homework
 
