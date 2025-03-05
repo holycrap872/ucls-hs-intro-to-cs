@@ -28,3 +28,8 @@ To understand the course, there are three places to look:
 ## Contributions
 
 Overall, this course is a work in progress and I am open to any/all suggestions.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the
+[LICENSE](LICENSE) file for details.
