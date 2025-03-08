@@ -8,7 +8,7 @@
 ### Setup
 
 - Clean version of `VSCodeIntro.zip` loaded into Schoology
-    - https://github.com/holycrap872/vscode-intro/tree/for_students
+    - https://github.com/eric-rizzi/vscode-intro/tree/for_students
 
 ### Actual Lesson
 

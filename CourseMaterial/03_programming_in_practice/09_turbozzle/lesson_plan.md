@@ -10,7 +10,7 @@
 - Turbozzle worksheet loaded up in Schoology
     - https://docs.google.com/document/d/1aCPLTZ5ZrnDYkBXXE87BTv3F9QBSN4nd8OhKO1DcTCc
 - Turbozzle "Skeleton" loaded up in Schoology
-    - https://github.com/holycrap872/turbozzle/tree/for_students
+    - https://github.com/eric-rizzi/turbozzle/tree/for_students
 
 ### Actual Lesson
 
