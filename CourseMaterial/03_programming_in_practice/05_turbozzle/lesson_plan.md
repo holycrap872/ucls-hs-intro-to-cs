@@ -1,7 +1,7 @@
 ## Essential Questions
 
 - What is an IDE?
-- How can I visualize loops and recursion?
+- How can we visualize loops and recursion?
 
 ## Lesson Plan
 
@@ -10,10 +10,21 @@
 - Turbozzle worksheet loaded up in Schoology
     - https://docs.google.com/document/d/1aCPLTZ5ZrnDYkBXXE87BTv3F9QBSN4nd8OhKO1DcTCc
 - Turbozzle "Skeleton" loaded up in Schoology
-    - https://github.com/eric-rizzi/turbozzle/tree/for_students
+    - https://github.com/eric-rizzi/ucls-turbozzle
+        - `for_students` branch
+    - Remove extra junk
+        - `image` folder (used for "main" page in github)
+        - `find . -name "__pycache__" -exec rm -r {} \;`
+        - `find . -name ".DS_STORE" -exec rm -r {} \;`
+        - `find . -name "*pytest_cache*" -exec rm -r {} \;`
+- Schoology Assessment
+    - TODO
 
 ### Actual Lesson
 
+- Opening Problem
+    - `opening_problem.py`
+    - Simulating a game of telephone
 - Review
     - Functions
     - Robozzle
@@ -28,6 +39,7 @@
         - `forward()` requires no arguments
         - `left()` and `right()` require arguments
     - Show students how to do a split screen
+        - Code on left, picture on right
     - How is this similar to/different from Robozzle?
         - Similar because controlling motion with functions
         - Different because more powerful (have variables)
@@ -37,3 +49,7 @@
 - Go!
     - Work with a partner, but each person needs to submit their own worksheet
     - LOTS of absences at this point in the year... makes it hard
+
+### Homework
+
+- Schoology assessment

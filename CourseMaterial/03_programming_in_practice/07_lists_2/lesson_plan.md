@@ -1,31 +1,53 @@
 ## Essential Questions
 
-- What is the difference between while loops and for loops?
-- How can we use while loops to solve open ended questions?
+- What are lists are how are they useful?
+- How are lists similar to strings?
 
 ## Lesson Plan
 
 ### Setup
 
-- Quiz ready to be published on Schoology
+- Supplies for "live" prisoners dilemma
+    - `score_sheet.docx` printed out
+    - Candy for the winner
+- Prisoner's dilemma material posted in Schoology
+    - `prisoners_dilemma.mp3`
 
 ### Actual Lesson
 
-- Quiz
-- Grok
-- Review quiz
+- Opening problem
+- Review
+    - Lists
+    - Elements
+    - Iteration
+- Finish list activity
+    - Have ~15 minutes
+- Who's heard of Prisoners Dilemma?
+    - Lucky and Joe rob a bank and then get picked up by police
+    - Draw out grid
+- Give demo with two volunteers
+    - Track the score on the board for five rounds
+    - Come up with names for each of their strategies
+- Tournament
+    - Play the person to your left
+    - Play the person to your right
+    - Two students with highest two point totals play in front of everyone
+    - Have winner explain their strategy
+- Where do we see these types of situations?
+    - Abstract problem of cooperation
+    - Other ideas?
+        - Write up on board and leave them there
+        - Possible ideas if quiet:
+            - Nuclear arms race
+            - Traffic
+            - Pack animals hunting
+            - On time/late for party
 
 ### Homework
 
-- Grok Lesson 7.1
-- Prisoner's dilemma "reading"
-    - Radio lab
-        - https://www.radiolab.org/podcast/103951-the-good-show
-            - 42:10 - 55:52
-            - Extra credit question for 55:52 - 1.05:05
-        - Reading quiz: "What is optimal strategy" -> "tit for tat"
-        - EC Reading quiz: "What is weakness of strategy" -> "echos"
-    - Stanford lecture
-        - https://youtu.be/Y0Oa4Lp5fLE?si=wP3IQ2-WXaBaQ-Z9&t=2490
-            - 41:12 to 48:43
-        - Reading quiz: "What is optimal strategy" -> "tit for tat"
+- Listen to Radio lab
+    - https://www.radiolab.org/podcast/103951-the-good-show
+        - 42:10 - 55:52
+        - Extra credit question for 55:52 - 1.05:05
+    - Reading quiz: "What is optimal strategy" -> "tit for tat"
+    - EC Reading quiz: "What is weakness of strategy" -> "echos"
