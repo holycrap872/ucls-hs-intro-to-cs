@@ -20,8 +20,8 @@
     - Function call
     - Output of function
 4. How is creating a good function name an example of abstraction?
-    - By describing what the function does (what), you prevent the caller from having to think about the details (how)
-    - By explaining times that the function should be called (when), you avoid having them put it in the wrong place (where)
+    - By describing the functions behavior (what), you prevent the caller from having to think about the details (how)
+    - By explaining times that the function should be called (when), you avoid having the caller put it in the wrong place (where)
     - By creating the function near the function call (where), you give a hint at how often the function should be called (when)
     - By listing the instructions inside the function (how), you let the caller know the purpose of calling the function (why)
 5. When run, the program below would output:
@@ -39,11 +39,11 @@
         ret = do_something_0(ret, "e")
         print(ret)
     ```
-    - nylopdia
-    - ecce
-    - cececececece
-    - cneyelopcdia
-    - EnCyClOpEdIa
+    - "nylopdia"
+    - "ecce"
+    - "cececececece"
+    - "cneyelopcdia"
+    - "EnCyClOpEdIa"
 6. A better name for the function above than `do_something_0` is:
     - remove_letter
     - count_letter
@@ -78,3 +78,8 @@
     - Input 1: 5, Input 2: 6
     - Input 1: 4, input 2: 8
     - Input 1: 4.  Input 2: 6
+8. Flashback: What is the number 0b1101 converted to decimal?
+    - 0d13
+    - 0d16
+    - 0d9
+    - 0d7
