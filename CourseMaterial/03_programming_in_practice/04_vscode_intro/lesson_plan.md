@@ -7,6 +7,8 @@
 
 ### Setup
 
+- Schoology assessment posted
+    - See `assessment.md`
 - Clean version of `VSCodeIntro.zip` loaded into Schoology
     - https://github.com/eric-rizzi/ucls-vscode-intro
         - `for_students` branch
@@ -45,4 +47,4 @@
 
 ### Homework
 
-- TIL entry on specific part of `vscode`
+- Schoology assessment
