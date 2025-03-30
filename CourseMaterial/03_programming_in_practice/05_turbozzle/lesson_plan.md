@@ -7,7 +7,7 @@
 
 ### Setup
 
-- Turbozzle worksheet loaded up in Schoology
+- `Turbozzle One Worksheet` loaded up in Schoology
     - https://docs.google.com/document/d/1aCPLTZ5ZrnDYkBXXE87BTv3F9QBSN4nd8OhKO1DcTCc
 - Turbozzle "Skeleton" loaded up in Schoology
     - https://github.com/eric-rizzi/ucls-turbozzle
@@ -29,6 +29,12 @@
     - Functions
     - Robozzle
     - vscode
+- Robozzle
+    - Play https://alexanderson1993.github.io/robozzle-react/?level=16166
+    - How like abstraction?
+    - Point out key parts of Robozzle
+        - Limited spaces leads to code folding
+        - Limited number of options for spaceship
 - Turbozzle
     - Explain rules
         - Need to get to all of the yellow w/o hitting black
@@ -52,4 +58,4 @@
 
 ### Homework
 
-- Schoology assessment
+- TIL entry on what `import` means
