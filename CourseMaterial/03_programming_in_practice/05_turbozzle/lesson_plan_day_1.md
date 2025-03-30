@@ -17,8 +17,6 @@
         - `find . -name "__pycache__" -exec rm -r {} \;`
         - `find . -name ".DS_STORE" -exec rm -r {} \;`
         - `find . -name "*pytest_cache*" -exec rm -r {} \;`
-- Schoology Assessment
-    - TODO
 
 ### Actual Lesson
 
@@ -46,15 +44,18 @@
         - `left()` and `right()` require arguments
     - Show students how to do a split screen
         - Code on left, picture on right
-    - How is this similar to/different from Robozzle?
-        - Similar because controlling motion with functions
-        - Different because more powerful (have variables)
-    - Show final level (tree)
-        - Example of recursion
-        - Wouldn't be possible in Robozzle
+- Do `problem_00.py` together
+    - How to run
+    - What do you think will happen
+    - How to make changes
 - Go!
     - Work with a partner, but each person needs to submit their own worksheet
     - LOTS of absences at this point in the year... makes it hard
+- After break come back and discuss
+    - Thoughts so far?
+    - How to treat "CAN REPLACE"
+    - Discuss `import`
+        - Show how can right click on function and go see definition
 
 ### Homework
 
