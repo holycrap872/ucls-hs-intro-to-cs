@@ -11,7 +11,12 @@
     - `score_sheet.docx` printed out
     - Candy for the winner
 - Prisoner's dilemma material posted in Schoology
-    - `prisoners_dilemma.mp3`
+    - "The Good Show"
+        - https://radiolab.org/podcast/103951-the-good-show
+            - 41:11 - 54:38
+        - https://www.youtube.com/watch?v=OKRV0UX9dBM&t=2007s
+            - 33:27 - 46:24
+        - `prisoners_dilemma.mp3`
 
 ### Actual Lesson
 
