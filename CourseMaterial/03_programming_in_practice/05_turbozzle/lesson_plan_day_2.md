@@ -1,7 +1,7 @@
 ## Essential Questions
 
-- What is an IDE?
-- How can we visualize loops and recursion?
+- How can I visualize loops and recursion?
+- How can the debugger be used to understand a program's state?
 
 ## Lesson Plan
 
@@ -9,6 +9,7 @@
 
 - `Turbozzle Two Worksheet` loaded up in Schoology
     - https://docs.google.com/document/d/1VqiqeUR5QHOZOwnCA5jqNzyj_egTdh7DZ9-goCi3vAc/edit?usp=sharing
+- Turbozzle skeleton loaded on computer for demo purposes
 - Schoology Assessment
     - TODO
 
@@ -26,12 +27,13 @@
     - Let you carefully walk through/understand a problem
 - Show debugging
     - Do `problem_04.py` together
+        - Square problem
     - Set breakpoint
         - Step over, step into, continue
 - Turbozzle
     - Rules to remember?
         - Ask the class
-        - Explain how to treat "CAN_REPLACE"
+        - Explain how to treat `"CAN_REPLACE"`
             - Similar to open slots in Robozzle
             - The more elegant your program, the less spaces you need
     - How is this similar to/different from Robozzle?
@@ -42,9 +44,8 @@
         - Wouldn't be possible in Robozzle
 - Go!
     - Work with a partner, but each person needs to submit their own worksheet
-    - LOTS of absences at this point in the year... makes it hard
 
 ### Homework
 
-- TIL entry on different ways to "step through" program
-
+- TIL Entry on what the "step over" and "step into" buttons mean
+    - Note: this one doesn't require an example, so make that clear

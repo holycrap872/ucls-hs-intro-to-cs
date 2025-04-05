@@ -53,7 +53,7 @@
     - LOTS of absences at this point in the year... makes it hard
 - After break come back and discuss
     - Thoughts so far?
-    - How to treat "CAN REPLACE"
+    - How to treat `"CAN REPLACE"`
     - Discuss `import`
         - Show how can right click on function and go see definition
 
