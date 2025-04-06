@@ -50,6 +50,7 @@
 
 ### Homework
 
+- TIL entry on `list.append()`
 - Listen to Radio lab
     - https://www.radiolab.org/podcast/103951-the-good-show
         - 42:10 - 55:52
