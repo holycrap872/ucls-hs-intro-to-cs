@@ -42,7 +42,12 @@
     - Experience larger program
     - What are your thoughts?
 - Lists
-    - Everything in Python is a list
+    - Purpose of lists:
+        - Bundles multiple things together
+        - Replaces the need of multiple related variables
+- String vs. List comparison
+    - Each composed of individual elements
+        - characters -> strings, elements -> list
     - List slicing vs. string slicing
     - List iteration vs. string iteration
     - Only different is can append
@@ -53,6 +58,6 @@
 
 ### Homework
 
+- Finish `Python Lists One Worksheet`
 - Schoology Assessment on lists
 - TIL on lists vs. strings
-- Finish `Python Lists One Worksheet`

@@ -23,6 +23,8 @@
 - Opening problem
 - Review
     - Lists
+        - Purpose of list is bundling
+        - Replaces the need of multiple related variables
     - Elements
     - Iteration
 - Finish list activity

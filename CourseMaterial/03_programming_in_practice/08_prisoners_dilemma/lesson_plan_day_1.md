@@ -1,13 +1,13 @@
 ## Essential Questions:
 
-- How can we use arrays to make decisions over time
-- How can computers be used to solve problems in other disciplines
+- How can we use lists to make decisions over time?
+- How can computers be used to solve problems in other disciplines?
 
 ## Lesson Plan
 
 ### Setup
 
-- `Python Lists Worksheet` loaded up in Schoology
+- `Python Lists Two Worksheet` loaded up in Schoology
     - https://docs.google.com/document/d/1F0GhWpyZ6LulCuW22pCCAIo370CjpGgNC-VmFXVEn-s
 
 ### Actual Lesson
