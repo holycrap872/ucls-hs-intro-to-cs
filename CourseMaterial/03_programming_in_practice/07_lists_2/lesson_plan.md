@@ -38,6 +38,7 @@
 - Tournament
     - Play the person to your left
     - Play the person to your right
+    - Play person who you haven't played yet
     - Two students with highest two point totals play in front of everyone
     - Have winner explain their strategy
 - Where do we see these types of situations?
