@@ -60,4 +60,4 @@
 
 - Finish `Python Lists One Worksheet`
 - Schoology Assessment on lists
-- TIL on lists vs. strings
+- TIL entry on lists vs. strings

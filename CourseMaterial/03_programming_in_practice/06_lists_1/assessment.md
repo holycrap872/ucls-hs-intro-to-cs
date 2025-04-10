@@ -38,7 +38,7 @@
         l[i] = l[i] * 2
     print(l)
     ```
-5. In what ways are strings the same as lists.
+5. In what ways are strings the same as lists (select six).
     - You can iterate through them
     - You can print them out
     - They are composed of individual elements
@@ -46,3 +46,4 @@
     - You use quotes to create them
     - They can be empty
     - You can get their length
+    - They must have two or more elements
