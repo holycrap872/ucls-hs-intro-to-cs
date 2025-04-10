@@ -1,12 +1,16 @@
 ## Essential Questions
 
 - What are lists are how are they useful?
-- How are lists similar to strings?
+- How can we use lists to store information?
 
 ## Lesson Plan
 
 ### Setup
 
+- `Python Lists Two Worksheet` posted on Schoology
+    - https://docs.google.com/document/d/1F0GhWpyZ6LulCuW22pCCAIo370CjpGgNC-VmFXVEn-s/edit?usp=sharing
+- Schoology Assessment on lists posted to Schoology
+    - See `assessment.md`
 - Supplies for "live" prisoners dilemma
     - `score_sheet.docx` printed out
     - Candy for the winner
