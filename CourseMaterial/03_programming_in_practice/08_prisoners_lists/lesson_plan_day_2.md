@@ -10,11 +10,25 @@
 - Homework posted in Schoology:
     - Watch: https://youtu.be/Y0Oa4Lp5fLE?si=cP7lJUbUYiwVXoNh&t=2090
         - 34:50 - 48:43
+- `./example.py` loaded up for demo purposes
 
 ### Actual Lesson
 
-- Opening problem as first problem from worksheet
-    - Use breakpoints
+- Opening problem
+    - ```python
+      def do_something(words):
+          ret = []
+          for word in words:
+              if len(word) == 4:
+                  ret.append(word)
+          return len(ret)
+
+      if __name__ == "__main__":
+          l = ["This", "is", "string", "list"]
+          result = do_something(l)
+          print(result)
+      ```
+    - Iteration chart
 - Review
     - Lists vs. Strings
     - `.append()`
@@ -24,7 +38,7 @@
 - Pivot to review of prisoner's dilemma worksheet
     - What do we remember?
     - How are lists being used?
-- Walk through piece of code (from Problem 3 of worksheet)
+- Walk through `./example.py` (from Problem 3 of worksheet)
     - What is it doing?
     - How could we add another round?
     - How could we change the behavior and what would happen?
