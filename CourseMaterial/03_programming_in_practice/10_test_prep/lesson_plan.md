@@ -8,11 +8,15 @@
 ### Setup
 
 - Copy people's bot code into tournament and be prepared to run it
+- YouTube video loaded up
+    - https://youtu.be/Y0Oa4Lp5fLE?si=mJ0rgbMmDAAmMwuL&t=3027
+        - 50:27 - 53:15
 
 ### Actual Lesson
 
-- Quick, one question quiz on Prisoner's Dilemma "reading"
-    - "What is the optimal strategy" -> "tit-for-tat"
+- Quick, one question quiz on Biology of Prisoner's Dilemma "reading"
+    - "What are social species better at detecting" -> cheating, altruism
+    - "What would tit-for-tat do if the person's history is ...."
 - Review
     - Prisoner's dilemma debrief
         - Do big tournament of all bots
@@ -23,6 +27,12 @@
                 - Eye for an eye
                 - Turn the other cheek
             - How drive to extinction?
+        - Show YouTube video on tit-for-tat weakness
+            - What does this say
+            - Link to ethics
+                - Eye for an eye
+                - Turn the other cheek
+                - Do unto others
 - While loops lecture
     - Real life while loops
     - difference between `for` and `while`
