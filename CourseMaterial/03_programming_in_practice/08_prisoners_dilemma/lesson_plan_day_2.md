@@ -7,7 +7,10 @@
 
 ### Setup
 
-- None
+- Homework posted in Schoology:
+    - Watch: https://youtu.be/Y0Oa4Lp5fLE?si=cP7lJUbUYiwVXoNh&t=2090
+        - 34:50 - 48:43
+    - Prepare for "reading quiz"
 
 ### Actual Lesson
 
