@@ -16,7 +16,7 @@
 
 - Opening Problem
     ```python
-        #!/usr/bin/env python
+    #!/usr/bin/env python
     def do_something_0(x):
         acc = 1
         for i in range(x):
@@ -29,7 +29,7 @@
         result = do_something_0(8)
         print(result)
     ```
-    - What does it print out
+    - What does it print out?
     - Where have we seen 256 before?
     - How to use breakpoints on this
 - Review
@@ -44,13 +44,27 @@
 - Lists
     - Purpose of lists:
         - Bundles multiple things together
-        - Replaces the need of multiple related variables
-- String vs. List comparison
+        - Replaces the need for multiple related variables
+- String vs. list comparison
     - Each composed of individual elements
-        - characters -> strings, elements -> list
+        - characters -> strings, items/elements -> list
     - List slicing vs. string slicing
     - List iteration vs. string iteration
-    - Only different is can append
+    - Only difference is can append
+- Example (if long block)
+    ```python
+    def do_something(words):
+        count = 0
+        for word in words:
+            if "e" in word.lower():
+                count += 1
+
+        return count
+
+    if __name__ == "__main__":
+        result = do_something(["hey", "there", "you"])
+        print(result)
+    ```
 - Setup worksheet
     - Each person needs their own version
     - Work next to whomever you'd like
@@ -59,5 +73,5 @@
 ### Homework
 
 - Finish `Python Lists One Worksheet`
-- Schoology Assessment on lists
+- Schoology assessment on lists
 - TIL entry on lists vs. strings
