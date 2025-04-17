@@ -72,6 +72,5 @@
 
 ### Homework
 
-- Finish `Python Lists One Worksheet`
 - Schoology assessment on lists
 - TIL entry on lists vs. strings

@@ -12,6 +12,8 @@
 
 ### Actual Lesson
 
+- Do reading quiz for Podcast
+    -"What is optimal strategy" -> "tit for tat"
 - Review
     - Lists
     - Iterators
@@ -30,12 +32,4 @@
 
 ### Homework
 
-- Stanford lecture
-    - https://youtu.be/Y0Oa4Lp5fLE?si=wP3IQ2-WXaBaQ-Z9&t=2490
-        - 41:12 to 48:43
-    - Reading quiz: "What is optimal strategy" -> "tit for tat"
-
-#### Things they get confused by:
-
-- What the `b0_choices` and `b1_choices` lists means?
-- Why the variables are different names
+- TIL entry on `list.append()`

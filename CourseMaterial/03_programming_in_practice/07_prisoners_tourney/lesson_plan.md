@@ -7,10 +7,6 @@
 
 ### Setup
 
-- `Python Lists Two Worksheet` posted on Schoology
-    - https://docs.google.com/document/d/1F0GhWpyZ6LulCuW22pCCAIo370CjpGgNC-VmFXVEn-s/edit?usp=sharing
-- Schoology Assessment on lists posted to Schoology
-    - See `assessment.md`
 - Supplies for "live" prisoners dilemma
     - `score_sheet.docx` printed out
     - Candy for the winner
@@ -21,6 +17,8 @@
         - https://www.youtube.com/watch?v=OKRV0UX9dBM&t=2007s
             - 33:27 - 46:24
         - `prisoners_dilemma.mp3`
+- Schoology assessment on lists posted to Schoology
+    - See `assessment.md`
 
 ### Actual Lesson
 
@@ -57,10 +55,8 @@
 
 ### Homework
 
-- TIL entry on `list.append()`
+- Finish `Lists One Worksheet`
+- Schoology assessment: `Homework: Lists Advanced`
 - Listen to Radio lab
     - https://www.radiolab.org/podcast/103951-the-good-show
         - 42:10 - 55:52
-        - Extra credit question for 55:52 - 1.05:05
-    - Reading quiz: "What is optimal strategy" -> "tit for tat"
-    - EC Reading quiz: "What is weakness of strategy" -> "echos"
