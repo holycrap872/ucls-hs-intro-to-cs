@@ -13,21 +13,25 @@
 ### Actual Lesson
 
 - Do reading quiz for Podcast
-    -"What is optimal strategy" -> "tit for tat"
+    - "What is optimal strategy" -> "tit for tat"
 - Review
     - Lists
     - Iterators
     - `.append()`
-- Program together
-    - Use the `prisoner_1(other_choices):` as a base
-    - Explain the functions
-    - Winner's strategy
-    - Jerk Bot
-    - Con-man bot (array length)
-- Start worksheet
+- TIL review
+- Class coding
+    - Sum of a list of integers
+    - Use breakpoints to emphasize certain parts of the code
+- Set up worksheet
     - Explain that it is an encoding of this game
     - Slowly work up to building your own bot in python
     - Will play all the big bots against each other in an "arena"
+- Show prisoner list examples
+    - What did opponent do in round 1?
+    - How many rounds have been played so far?
+    - What's a good name for this bot?
+- Start worksheet
+    - Explain that it is an encoding of this game
 - Go!
 
 ### Homework
