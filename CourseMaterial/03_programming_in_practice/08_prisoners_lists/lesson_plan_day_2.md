@@ -10,7 +10,7 @@
 - Homework posted in Schoology:
     - Watch: https://youtu.be/Y0Oa4Lp5fLE?si=cP7lJUbUYiwVXoNh&t=2090
         - 34:50 - 48:43
-- `./example.py` loaded up for demo purposes
+- `./prisoners_warm_up.py` loaded up for demo purposes
 
 ### Actual Lesson
 
@@ -33,16 +33,16 @@
     - Lists vs. Strings
     - `.append()`
 - Explain homework
-    - Stanford bio class about Prisoner's dilemma in evolution
-    - Listen and be prepared for one question reading quiz
+    - Stanford bio class about prisoner's dilemma in evolution
+    - Listen and be prepared for two question reading quiz
 - Pivot to review of prisoner's dilemma worksheet
     - What do we remember?
     - How are lists being used?
-- Walk through `./example.py` (from Problem 3 of worksheet)
+- Walk through `./prisoners_warm_up.py` (from Problem 3 of worksheet)
     - What is it doing?
     - How could we add another round?
     - How could we change the behavior and what would happen?
-        - Jerk Bot
+        - Jerk bot
         - Con-man bot (array length)
     - Step through using debugger
 - Continue worksheet
@@ -53,5 +53,5 @@
 
 ### Homework
 
-- Finish `Python Lists Two Worksheet`
+- Finish `Python Lists Two Worksheet` (if long block)
 - Watch video and prepare for "reading quiz"
