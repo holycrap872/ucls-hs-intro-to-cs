@@ -17,8 +17,6 @@
 - Quick, two question quiz on Biology of Prisoner's Dilemma "reading"
     - "What are social species better at detecting" -> cheating, altruism
     - "What would tit-for-tat do if the person's history is ...."
-- Opening Problem
-    - Fibonacci through lists
 - Review
     - Lists
     - Lists vs. strings
@@ -34,18 +32,20 @@
     - Talk through winner's code
     - Winning individually vs. winning globally
 - Show YouTube video on tit-for-tat weakness
+    - https://youtu.be/Y0Oa4Lp5fLE?si=mJ0rgbMmDAAmMwuL&t=3027
+        - End at "vulnerable to signal error"
     - What does this say
     - Rerun tournament with changes
         - Discuss any changes
 - Break up into groups of three
     - What would be code for each of the following:
-        - Eye for an eye
-        - Turn the other cheek
-        - Do unto others
+        - "Eye for an eye"
+        - "Turn the other cheek"
+        - "Do unto others as you would have others do unto you"
 - Soap box
-    - Humans prone to see faults others make
+    - Humans evolved to see cheating by others
     - Sometimes signals get crossed
-    - Eye for an eye is too theoretical
+    - Eye for an eye is too "selfish"
     - Ethics requires us to break these cycles
 - Rest of class
     - If done, can work on something else
@@ -54,3 +54,12 @@
 ### Homework
 
 - TIL entry on code of "tit-for-tat"
+    ```python
+    def tit_for_tat(my_choices, other_choices):
+        if len(my_choices) == 0:
+            return "cooperate"
+        elif other_choices[-1] == "defect":
+            return "defect"
+        else:
+            return "cooperate"
+    ```
