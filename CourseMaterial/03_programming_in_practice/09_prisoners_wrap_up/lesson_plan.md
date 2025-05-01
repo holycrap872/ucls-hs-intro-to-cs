@@ -11,6 +11,8 @@
 - YouTube video loaded up
     - https://youtu.be/Y0Oa4Lp5fLE?si=mJ0rgbMmDAAmMwuL&t=3027
         - 50:27 - 53:15
+- `Ethical Bots Worksheet` printed out
+    - https://docs.google.com/document/d/1KNNtQMK6_d6f2RiPlGFRtmx3YRv7AXc7hqOug6m-9W8
 
 ### Actual Lesson
 
@@ -34,14 +36,14 @@
 - Show YouTube video on tit-for-tat weakness
     - https://youtu.be/Y0Oa4Lp5fLE?si=mJ0rgbMmDAAmMwuL&t=3027
         - End at "vulnerable to signal error"
-    - What does this say
-    - Rerun tournament with changes
-        - Discuss any changes
-- Break up into groups of three
+    - What does this say about code vs. humans?
+    - How could we simulate this in our tournament?
+- Break up into groups of 2-3
     - What would be code for each of the following:
         - "Eye for an eye"
         - "Turn the other cheek"
         - "Do unto others as you would have others do unto you"
+    - Hand out `Ethical Bots Worksheet`
 - Soap box
     - Humans evolved to see cheating by others
     - Sometimes signals get crossed
