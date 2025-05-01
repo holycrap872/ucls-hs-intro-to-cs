@@ -7,6 +7,9 @@
 
 ### Setup
 
+- Code.org File Format example ready to go
+    - https://studio.code.org/s/pixelation/lessons/5/levels/1
+    - Use `./code_dot_org.txt` for data
 - `PythoShop.zip` loaded up into Schoology
     - Built version of https://github.com/dwheadon/PythoShop/tree/bmp
     - See README.md for build instructions
@@ -20,6 +23,10 @@
     - Bitmaps
     - Debugging
     - `vscode`
+- File formats
+    - Show code.org file format
+    - BMP
+    - PDF
 - Starting PythoShop today
     - 4-5 week project
     - Editing images
