@@ -10,6 +10,7 @@
 - Code.org File Format example ready to go
     - https://studio.code.org/s/pixelation/lessons/5/levels/1
     - Use `./code_dot_org.txt` for data
+    - Make sure in **hexadecimal format**
 - `PythoShop.zip` loaded up into Schoology
     - Built version of https://github.com/dwheadon/PythoShop/tree/bmp
     - See README.md for build instructions
@@ -22,7 +23,7 @@
 - Review
     - Bitmaps
     - Debugging
-    - `vscode`
+    - VSCode
 - File formats
     - Show code.org file format
     - BMP
