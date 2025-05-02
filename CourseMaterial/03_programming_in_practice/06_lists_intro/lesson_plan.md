@@ -24,7 +24,6 @@
 
         return acc
 
-
     if __name__ == "__main__":
         result = do_something_0(8)
         print(result)
@@ -49,6 +48,7 @@
     - Each composed of individual elements
         - characters -> strings, items/elements -> list
     - List slicing vs. string slicing
+    - List containment (`in`) vs string containment
     - List iteration vs. string iteration
     - Only difference is can append
 - Example (if long block)
