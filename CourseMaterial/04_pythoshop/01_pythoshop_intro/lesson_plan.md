@@ -7,16 +7,17 @@
 
 ### Setup
 
-- Code.org File Format example ready to go
-    - https://studio.code.org/s/pixelation/lessons/5/levels/1
+- Code.org file format example ready to go
     - Use `./code_dot_org.txt` for data
-    - Make sure in **hexadecimal format**
+    - https://studio.code.org/s/pixelation/lessons/5/levels/1
+    - Make sure website is in **hexadecimal format**
 - `PythoShop.zip` loaded up into Schoology
     - Built version of https://github.com/dwheadon/PythoShop/tree/bmp
     - See README.md for build instructions
-- First two assignments loaded up in Schoology
-    - `00_introducing_pythoshop`
-    - `01_change_a_pixel`
+- `PythoShop Intro Worksheet` loaded up in Schoology
+    - https://docs.google.com/document/d/1Rzz1DHyQRh50dsOCXfTXANEcuKeSc4270jnIuOL54PA
+- `Change a Pixel Worksheet` loaded up in Schoology
+    - https://docs.google.com/document/d/1vai-0xjDI6uLtVG7dGk1mcJOQsknVRocFFkGs8LMb7A
 
 ### Actual Lesson
 
@@ -43,6 +44,8 @@
     - Coding
         - Walk through helper functions
         - Create `change_pixel` tool together
+            - Change at specific location
+            - Change where clicked   
     - What are 4 takeaways you should remember?
 - Helper functions
     - Discuss
@@ -55,4 +58,6 @@
 
 ### Homework
 
-- Finish both assignments (if didn't finish in class)
+- Finish `PythoShop Intro Worksheet`
+- TIL entry on tools vs. filters
+    - No example needed in entry

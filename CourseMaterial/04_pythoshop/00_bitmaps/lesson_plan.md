@@ -5,6 +5,16 @@
 
 ## Lesson Plan
 
+In this lesson, students use Hex Fiend to manipulate BitMaps. The goal is to
+show them how real data requires very strict formatting rules. In addition,
+it provides the opportunity to discuss the importance of abstraction and
+functions; in some future lesson we can use the debugger to see the actions
+they're exploring be used in the PythoShop software.
+
+> Note: This class doesn't have to be the first class of the PythoShop unit.
+  It can be put pretty much anywhere (during a long block) and framed as a
+  "looking under the hood" / deabstraction lesson.
+
 ### Setup
 
 - `simple.bmp` loaded up on Schoology
@@ -24,7 +34,7 @@
         - 1, 0 -> black/white
     - EmojiPic data
         - 3-bit pictures
-        - RGB, YCM, WB
+        - RGB, yellow, cyan, magenta, white, black
 - BitMaps
     - Real file format
     - Uncompressed

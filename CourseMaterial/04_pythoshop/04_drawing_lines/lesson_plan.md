@@ -8,7 +8,7 @@
 ### Setup
 
 - Have `reflective_symmetry` tool coded and ready to go
-    ```
+    ```python
     @export_tool
     def do_something(image, clicked_coordinate, color, **kwargs):
         height = get_height(image) - 1
@@ -20,8 +20,10 @@
         set_pixel_rgb(image, (width - x, height - y), color)
 
     ```
-- Fourth assignment loaded up in Schoology
-    - Drawing lines
+- `Drawing Lines Worksheet` loaded up in Schoology
+    - https://docs.google.com/document/d/1kv9eGOh2T1Kr3K7YNIEm_U7-RmefU2ErWha9lOEuQKQ
+- `Changing Pixel Parts Worksheet` loaded up in Schoology (just in case)
+    - https://docs.google.com/document/d/1S8WVgXGo02PCV_ldPlcWhPZB8NezWh2wP-ahVrTVwZo
 
 ### Actual Lesson
 
