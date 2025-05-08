@@ -35,28 +35,14 @@
     - Why a tool and not a filter?
     - Figure it out together
 - Minutia
-    - Testing
-        - Don't have to worry about it now
-        - Will show you in next few classes how tests get run
-        - Eventually move to GoogleDrive so I can auto-grade everything
-    - Cheating
-        - Will get caught
-        - Variable changes get caught by "abstract syntax trees"
-            - Show wikipedia article
-            - https://observablehq.com/@aarebecca/ast-explorer with simple example
-            - https://astexplorer.net/
-                - Choose python
-        - Honestly a little hard to detect in the beginning with small programs
-        - People always get caught at the end when functions get harder
-        - Just work hard in class and won't have to worry about it
-    - Extra credit
+    - Grading
         - Start at a B
         - 85 points to get to an A+
 - Show assignment
-    - Talk through
+    - Talk through it
 - Go!
 
 ### Homework
 
-- Finish `Change a Pixel` worksheet
+- Finish `Change a Pixel Worksheet`
 - TIL entry on `set_pixel_rgb()` helper function

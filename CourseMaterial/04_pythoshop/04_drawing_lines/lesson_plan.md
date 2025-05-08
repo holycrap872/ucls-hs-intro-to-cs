@@ -48,4 +48,5 @@
 
 ### Homework
 
-- None
+- Finish `Drawing Lines Worksheet`
+- TIL entry on TBD
