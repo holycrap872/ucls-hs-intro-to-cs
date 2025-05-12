@@ -7,7 +7,8 @@
 
 ### Setup
 
-- Have `reflective_symmetry` tool coded and ready to go
+
+- Have `reflective_symmetry` PythoShop tool coded and ready to go
     ```python
     @export_tool
     def do_something(image, clicked_coordinate, color, **kwargs):
@@ -18,7 +19,6 @@
         set_pixel_rgb(image, (width - x, y), color)
         set_pixel_rgb(image, (x, height - y), color)
         set_pixel_rgb(image, (width - x, height - y), color)
-
     ```
 - `Drawing Lines Worksheet` loaded up in Schoology
     - https://docs.google.com/document/d/1kv9eGOh2T1Kr3K7YNIEm_U7-RmefU2ErWha9lOEuQKQ
@@ -34,8 +34,9 @@
     - Set/get pixel
 - Loops in PythoShop
     - Why loops useful?
-    - Create a border filter as a class
-        - First do one pixel border than multi-pixel border
+- Class filter
+    - Create a border
+    - First do one pixel border than multi-pixel border
 - Start assignment
 - Before end of class, have students:
     - Create GoogleDrive folder via website

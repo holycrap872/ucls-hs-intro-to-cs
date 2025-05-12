@@ -51,10 +51,10 @@
     - Discuss
     - Why useful?
 - Today's assignment
-    - Will eventually move to your laptop, but starting on lab computers
+    - Allowed (if you'd like) to move to your laptop, but starting on lab computers
     - Working alone, but can work next to anyone you'd like
     - Get lab computer set up
-    - Go on assignment
+- Go!
 
 ### Homework
 

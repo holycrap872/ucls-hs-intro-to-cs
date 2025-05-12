@@ -7,7 +7,7 @@
 
 ### Setup
 
-- Have `bottom_l_pixels` tool coded and ready to go
+- Have `bottom_l_pixels` PythoShop tool coded and ready to go
     ```python
     @export_tool
     def do_something(image, clicked_coordinate, **kwargs):
@@ -36,8 +36,10 @@
     - Figure it out together
 - Minutia
     - Grading
-        - Start at a B
-        - 85 points to get to an A+
+        - If finish all expected requirements (87)
+        - 40 pts of extensions -> 91
+        - 80 pts of extensions -> 96
+        - 120 pts of extensions -> 100
 - Show assignment
     - Talk through it
 - Go!

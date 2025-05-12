@@ -7,7 +7,7 @@
 
 ### Setup
 
-- Have `rotate_colors` filter coded and ready to go
+- Have `rotate_colors` PythoShop filter coded and ready to go
     ```
     @export_filter
     def do_something(image, color, **kwargs):

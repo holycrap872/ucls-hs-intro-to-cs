@@ -7,7 +7,7 @@
 
 ### Setup
 
-- Have `four_corners` filter coded and ready to go
+- Have `four_corners` PythoShop filter coded and ready to go
     ```python
     @export_filter
     def do_something(image, color, **kwargs):
@@ -28,18 +28,17 @@
 - Review
     - PRIMM of `four_corners`
     - PythoShop
-    - Tools vs. Filters
+    - Tools vs. filters
     - Helper functions
     - How to run PythoShop
-- Class tool
-    - Create a class tool to create an `X` wherever the user clicks
-    - Why a tool and not a filter?
-    - Figure it out together
+- Class filter
+    - Yellow line along bottom row
 - Minutia
+    - Reemphasize grading
     - Cheating
         - Will get caught
         - Variable changes get caught by "abstract syntax trees"
-            - Show wikipedia article
+            - Show Wikipedia article
             - https://observablehq.com/@aarebecca/ast-explorer with simple example
             - https://astexplorer.net/
                 - Choose `Python`
@@ -48,9 +47,12 @@
         - Just work hard in class and won't have to worry about it
 - Show assignment
     - Talk through it
+    - How to set background to a particular picture
+        - Change `config.py`
+        - Requires overwrite
 - Go!
 
 ### Homework
 
 - Finish `Change Multiple Pixels Worksheet`
-- TIL entry on TBD
+- TIL entry on `get_width()` / `get_height()` helper functions
