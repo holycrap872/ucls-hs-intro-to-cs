@@ -7,7 +7,6 @@
 
 ### Setup
 
-
 - Have `reflective_symmetry` PythoShop tool coded and ready to go
     ```python
     @export_tool
@@ -24,6 +23,7 @@
     - https://docs.google.com/document/d/1kv9eGOh2T1Kr3K7YNIEm_U7-RmefU2ErWha9lOEuQKQ
 - `Changing Pixel Parts Worksheet` loaded up in Schoology (just in case)
     - https://docs.google.com/document/d/1S8WVgXGo02PCV_ldPlcWhPZB8NezWh2wP-ahVrTVwZo
+- `loops.py` ready for demo
 
 ### Actual Lesson
 
@@ -34,20 +34,27 @@
     - Set/get pixel
 - Loops in PythoShop
     - Why loops useful?
+    - Show `loops.py`
 - Class filter
-    - Create a border
-    - First do one pixel border than multi-pixel border
+    - Create a picture half-filled with a given color
+    - First do bottom-half filled with color
+    - Then do top-half filled with color
 - Start assignment
-- Before end of class, have students:
-    - Create GoogleDrive folder via website
-    - Share folder with me
-    - Close out out `vscode`
-    - Log into GoogleDrive on Desktop/laptop
-    - Navigate to new folder in GoogleDrive
-    - Drag `PythoShop` to GoogleDrive folder
-    - Reopen `vscode` from that location 
 
 ### Homework
 
 - Finish `Drawing Lines Worksheet`
-- TIL entry on TBD
+
+### Possible Extensions
+
+- Various teachers in use GoogleDocs to automatically get/greade students work
+    - I find it more trouble than it's worth
+    - If you do want to do this then:
+    - Before end of class, have students:
+        - Create GoogleDrive folder via website
+        - Share folder with me
+        - Close out out `vscode`
+        - Log into GoogleDrive on Desktop/laptop
+        - Navigate to new folder in GoogleDrive
+        - Drag `PythoShop` to GoogleDrive folder
+        - Reopen `vscode` from that location 
