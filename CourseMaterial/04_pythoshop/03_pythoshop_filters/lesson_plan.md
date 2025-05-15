@@ -22,6 +22,8 @@
     - https://docs.google.com/document/d/1HLtrNlvG8lK3hfLYP8F_Riwv06pI9ktlbIk8dypn5ds
 - `Drawing Lines Worksheet` loaded up in Schoology (just in case)
     - https://docs.google.com/document/d/1kv9eGOh2T1Kr3K7YNIEm_U7-RmefU2ErWha9lOEuQKQ
+- AST Website open
+    - https://observablehq.com/@aarebecca/ast-explorer
 
 ### Actual Lesson
 
@@ -35,13 +37,11 @@
     - Yellow line along bottom row
 - Minutia
     - Reemphasize grading
-    - Cheating
+    - Cheating (delay until next class if not long block)
         - Will get caught
         - Variable changes get caught by "abstract syntax trees"
             - Show Wikipedia article
             - https://observablehq.com/@aarebecca/ast-explorer with simple example
-            - https://astexplorer.net/
-                - Choose `Python`
         - Honestly a little hard to detect in the beginning with small programs
         - People always get caught at the end when functions get harder
         - Just work hard in class and won't have to worry about it
@@ -55,4 +55,4 @@
 ### Homework
 
 - Finish `Change Multiple Pixels Worksheet`
-- TIL entry on `get_width()` / `get_height()` helper functions
+- TIL entry on `get_width()` and `get_height()` helper functions
