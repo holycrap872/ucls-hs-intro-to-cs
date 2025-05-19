@@ -1,7 +1,7 @@
 ## Essential Questions
 
 - How can I use python to edit images?
-- How do I visualize loops so I can easily detect when they're useful?
+- How do I visualize loops so I can detect when they're useful?
 
 ## Lesson Plan
 
@@ -20,8 +20,10 @@
                 if r + g + b > 700:
                     set_pixel_rgb(image, (x, y), (0, 0, 0))
     ```
-- Fifth assignment loaded up in Schoology
-    - `04_changing_parts_of_pixels`
+- `Value Based Changes Worksheet`
+    - https://docs.google.com/document/d/1qHopc_4zF7gBwDq1mNek4pfs8pqFPa32jo2Nk7IMQHE
+- `Conditional Modifications Worksheet` loaded up in Schoology (just in case)
+    - https://docs.google.com/document/d/1i1K_0L-XeLQaoK2A_rpamfJCfCU8Gf279b7Lblk4Qto
 
 ### Actual Lesson
 
@@ -47,4 +49,4 @@
 
 ### Homework
 
-- None
+- Finish `Value Based Changes Worksheet`
