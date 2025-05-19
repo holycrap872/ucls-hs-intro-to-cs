@@ -1,7 +1,7 @@
 ## Essential Questions
 
 - How can I use python to edit images?
-- How do I effectively share my work with myself and others?
+- How do I use loops to change many pixels at once?
 
 ## Lesson Plan
 
@@ -32,6 +32,8 @@
     - How to run
     - Tools vs. filters
     - Set/get pixel
+    - Abstract syntax trees
+        - Emphasize how abstract away details of variable names etc.
 - Loops in PythoShop
     - Why loops useful?
     - Show `loops.py`
@@ -39,6 +41,10 @@
     - Create a picture half-filled with a given color
     - First do bottom-half filled with color
     - Then do top-half filled with color
+- Reframe grading
+    - Do the extensions you like
+    - Move on if don't like/get it
+    - This is confusing for the students, so take time here
 - Start assignment
 
 ### Homework

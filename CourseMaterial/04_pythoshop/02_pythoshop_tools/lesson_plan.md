@@ -38,12 +38,15 @@
     - Create a class tool to create an `X` wherever the user clicks
     - Why a tool and not a filter?
     - Figure it out together
-- Minutia
-    - Grading
+- Grading minutia
+    - Extensions
         - If finish all expected requirements (87)
         - 40 pts of extensions -> 91
         - 80 pts of extensions -> 96
         - 120 pts of extensions -> 100
+    - Do the extensions you like
+    - Move on if don't like/get it
+    - This is confusing for the students, so take time here
 - Show assignment
     - Talk through it
 - Go!

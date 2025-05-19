@@ -22,7 +22,8 @@
     - https://docs.google.com/document/d/1HLtrNlvG8lK3hfLYP8F_Riwv06pI9ktlbIk8dypn5ds
 - `Drawing Lines Worksheet` loaded up in Schoology (just in case)
     - https://docs.google.com/document/d/1kv9eGOh2T1Kr3K7YNIEm_U7-RmefU2ErWha9lOEuQKQ
-- AST Website open
+- AST Websites open
+    - https://en.wikipedia.org/wiki/Abstract_syntax_tree
     - https://observablehq.com/@aarebecca/ast-explorer
 
 ### Actual Lesson
@@ -34,17 +35,21 @@
     - Helper functions
     - How to run PythoShop
 - Class filter
-    - Yellow line along bottom row
-- Minutia
-    - Reemphasize grading
-    - Cheating (delay until next class if not long block)
-        - Will get caught
-        - Variable changes get caught by "abstract syntax trees"
-            - Show Wikipedia article
-            - https://observablehq.com/@aarebecca/ast-explorer with simple example
-        - Honestly a little hard to detect in the beginning with small programs
-        - People always get caught at the end when functions get harder
-        - Just work hard in class and won't have to worry about it
+    - Yellow _line_ along bottom row
+    - Don't add any width to it for now
+- Grading minutia
+    - Remphasize and acknowledge it's confusing
+    - Do the extensions you like
+    - Move on if don't like/get it
+    - This is confusing for the students, so take time here
+- Cheating (delay until next class if not long block)
+    - Will get caught
+    - Variable changes get caught by "abstract syntax trees"
+        - https://en.wikipedia.org/wiki/Abstract_syntax_tree
+        - https://observablehq.com/@aarebecca/ast-explorer with simple example
+    - Honestly a little hard to detect in the beginning with small programs
+    - People always get caught at the end when functions get harder
+    - Just work hard in class and won't have to worry about it
 - Show assignment
     - Talk through it
     - How to set background to a particular picture
