@@ -19,7 +19,7 @@
             for y in range(height):
                 set_pixel_rgb(image, (x, y), (r, g, b))
     ```
-- `Changing Pixel Parts Worksheet` loaded up in Schoology
+- `Pixel Parts Worksheet` loaded up in Schoology
     - https://docs.google.com/document/d/1S8WVgXGo02PCV_ldPlcWhPZB8NezWh2wP-ahVrTVwZo
 - `Value Based Changes Worksheet` loaded up in Schoology (just in case)
     - https://docs.google.com/document/d/1qHopc_4zF7gBwDq1mNek4pfs8pqFPa32jo2Nk7IMQHE
@@ -36,6 +36,9 @@
     - PythoShop
     - Tools vs. Filters
     - Helper functions
+- Class filter
+    - Bottom left red channel
+    - Bottom right blue channel
 - Show assignment
     - Talk through
 - Go!

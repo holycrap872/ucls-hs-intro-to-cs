@@ -30,18 +30,25 @@
                 r, g, b = get_pixel_rgb(image, (x, y))
                 set_pixel_rgb(image, (x, y), (0, 0, b))
     ```
-- Sixth assignment loaded up in Schoology
-    - `05_changing_pixels_based_on_values`
+- `Conditional Modifications Worksheet` loaded up in Schoology
+    - https://docs.google.com/document/d/1i1K_0L-XeLQaoK2A_rpamfJCfCU8Gf279b7Lblk4Qto
+- `Blending Pictures Worksheet` loading up in Schoology (just in case)
+    - https://docs.google.com/document/d/16v8pJ_XwWuXVoKElX4S1r91-ELbhgBXlVNmu23_AKio
 
 ### Actual Lesson
 
 - Review
-    - PRIMM of `make_light_black`
+    - PRIMM of `quarter_image`
+        - Show `extra` space in PythoShop
+            - Breakpoint to show that it passes value through
         - How could we use `extra` here?
+            - Replace 0's with set value
     - How to identify loops?
-    - ...
-- Class filter: random walk
-    - Figure it out together
-    - Why `while` loop?
-    - When should it stop?
-- Get start on assignment
+- Class filter:
+    - 45 degree line moving up and right: `color`
+    - 45 degree line moving up and left: `extra`
+- Get started on assignment
+
+### Homework
+
+- Finish `Conditional Modifications Worksheet`

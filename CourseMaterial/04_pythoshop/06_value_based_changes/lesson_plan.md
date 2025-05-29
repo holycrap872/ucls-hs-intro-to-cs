@@ -29,10 +29,10 @@
 
 - Review
     - PRIMM of `make_light_black`
-        - How could we use `extra` here?
+        - Do for 700, then 500, then 300
     - Functions
     - Filters
-    - ...
+    - Use break and examine values
 - How to identify loops?
     - Find starting point
     - Plot out several next steps
