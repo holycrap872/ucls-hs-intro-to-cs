@@ -8,7 +8,7 @@
 ### Setup
 
 - Have `make_light_black` filter coded and ready to go
-    ```
+    ```python
     @export_filter
     def do_something(image, color, **kwargs):
         height = get_height(image)

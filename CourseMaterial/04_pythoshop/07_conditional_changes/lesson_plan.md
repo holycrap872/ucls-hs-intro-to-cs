@@ -7,7 +7,7 @@
 ### Setup
 
 - Have `quarter_image` filter coded and ready to go
-    ```
+    ```python
     @export_filter
     def do_something(image, color, **kwargs):
         width = get_width(image)
@@ -39,8 +39,9 @@
 
 - Review
     - PRIMM of `quarter_image`
-        - Show `extra` space in PythoShop
-            - Breakpoint to show that it passes value through
+        - Intentional bug... can you find it?
+        - Show `extra` field in PythoShop GUI
+            - **Breakpoint** to show that it passes value through
         - How could we use `extra` here?
             - Replace 0's with set value
     - How to identify loops?
