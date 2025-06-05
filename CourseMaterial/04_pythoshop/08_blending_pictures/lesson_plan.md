@@ -53,8 +53,8 @@
     - What's been hard?
     - Things to remember?
 - `create_bmp`
-    - Why exist
-    - Important of return
+    - Why exists
+    - Importance of return
 - Class filter
     - Split images
     - Half from `image`, have from `other_image`

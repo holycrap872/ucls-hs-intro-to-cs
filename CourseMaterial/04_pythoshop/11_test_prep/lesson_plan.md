@@ -7,7 +7,7 @@
 ### Setup
 
 - Have `flip_vertical` filter coded and ready to go
-    ```
+    ```python
     @export_filter
     def do_something(image, color, extra, **kwargs):
         width = get_width(image)
@@ -22,6 +22,8 @@
 
         return new_image
     ```
+- Practice Test released
+    - See `assessment.md`
 
 ### Actual Lesson
 
@@ -35,3 +37,7 @@
     - Difference between `(r1 + r2 / 2)` and `((r1 + r2) / 2)`
 - Remind that have CS help on lunch, Wednesdays
 - Go!
+
+### Homework
+
+- Complete Practice Test

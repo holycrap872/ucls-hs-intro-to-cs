@@ -46,7 +46,7 @@
         - What is second loop doing?
         - Pay attention, you will use something like this today
 - Discuss blending via example that is "close"
-    ```
+    ```python
     @export_filter
     def blend_channels(image, other_image, color, extra, **kwargs):
         width = get_width(image)
