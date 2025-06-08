@@ -1,6 +1,6 @@
 # What TODO at the Start of the Year
 
- [ ] Create new slideshow(s) and save in proper spot in GoogleDrive
+-  [ ] Create new slideshow(s) and save in proper spot in GoogleDrive
     - `Shared drives/Computer Science Department/Curriculum/intro_to_cs/202X/class_slides`
     - Give proper theme and name
 - [ ] In Schoology, reorder classes so new ones at front
