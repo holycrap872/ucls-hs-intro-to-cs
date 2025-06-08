@@ -32,7 +32,7 @@
     ```
 - `Conditional Modifications Worksheet` loaded up in Schoology
     - https://docs.google.com/document/d/1i1K_0L-XeLQaoK2A_rpamfJCfCU8Gf279b7Lblk4Qto
-- `Blending Pictures Worksheet` loading up in Schoology (just in case)
+- `Blending Pictures Worksheet` loaded up in Schoology (just in case)
     - https://docs.google.com/document/d/16v8pJ_XwWuXVoKElX4S1r91-ELbhgBXlVNmu23_AKio
 
 ### Actual Lesson

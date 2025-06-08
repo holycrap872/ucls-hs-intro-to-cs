@@ -28,7 +28,7 @@
 
         return new_image
     ```
-- `Pixel Positions Worksheet` loading up in Schoology
+- `Pixel Positions Worksheet` loaded up in Schoology
     - https://docs.google.com/document/d/165RAbgEFPmXiVjfx0JV7hHfMXBaBbA-7KXSoFgDGc20
 
 ### Actual Lesson
@@ -51,9 +51,9 @@
 - Do art exercise
 - Programming as art AND engineering
     - Art is finding space where human's intuitively engage with concepts
-        - function naming
+        - Function naming
     - Engineering is filling in the details and making it work well
-        - function code writing
+        - Function code writing
 
 ### Homework
 

@@ -20,7 +20,7 @@
                 if r + g + b > 700:
                     set_pixel_rgb(image, (x, y), (0, 0, 0))
     ```
-- `Value Based Changes Worksheet`
+- `Value Based Changes Worksheet` loaded up in Schoology
     - https://docs.google.com/document/d/1qHopc_4zF7gBwDq1mNek4pfs8pqFPa32jo2Nk7IMQHE
 - `Conditional Modifications Worksheet` loaded up in Schoology (just in case)
     - https://docs.google.com/document/d/1i1K_0L-XeLQaoK2A_rpamfJCfCU8Gf279b7Lblk4Qto

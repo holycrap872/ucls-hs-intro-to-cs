@@ -6,42 +6,28 @@
 
 ### Setup
 
-- Have `most_color` filter coded and ready to go
-    ```
+- Have `weird_gradient` filter coded and ready to go
+    ```python
     @export_filter
-    def do_something(image, color, extra, **kwargs):
-        width = get_width(image)
-        height = get_height(image)
+    def do_something1(image, color, extra, **kwargs):
+        h = get_height(image)
+        w = get_width(image)
 
-        total_r = 0
-        total_g = 0
-        total_b = 0
-        for x in range(width):
-            for y in range(0, height):
-                r, g, b = get_pixel_rgb(image, (x, y))
-                total_r = total_r + r
-                total_g = total_g + g
-                total_b = total_b + b
+        acc = 0
+        for x in range(w):
+            for y in range(h):
+                set_pixel_rgb(image, (x, y), (acc, acc, acc))
+                acc += 1
 
-        if total_r >= total_g and total_r >= total_b:
-            c = (255, 0, 0)
-        elif total_g >= total_r and total_g >= total_b:
-            c = (0, 255, 0)
-        else:
-            c = (0, 0, 255)
+                if acc > 255:
+                    acc = 0
 
-        print("Printing color:", c)
-        for y in range(height):
-            for x in range(0, width):
-                set_pixel_rgb(image, (x, y), c)
     ```
-- Seventh assignment loaded up in Schoology
-    - `07_blending_pictures`
 
 ### Actual Lesson
 
 - Review
-    - PRIMM `most_color`
+    - PRIMM `weird_gradient`
         - What is first loop doing?
         - What is second loop doing?
         - Pay attention, you will use something like this today
@@ -69,3 +55,7 @@
     - Look in slides for `max_color`
     - I'll leave `blend_channels` up here
 - Go!
+
+### Homework
+
+- Work on project

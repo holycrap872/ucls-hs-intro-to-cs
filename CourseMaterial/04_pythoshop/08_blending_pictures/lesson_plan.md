@@ -36,9 +36,9 @@
             for y in range(h):
                 set_pixel_rgb(image, (x, y), c)
     ```
-- `Blending Pictures Worksheet` loading up in Schoology
+- `Blending Pictures Worksheet` loaded up in Schoology
     - https://docs.google.com/document/d/16v8pJ_XwWuXVoKElX4S1r91-ELbhgBXlVNmu23_AKio
-- `Pixel Positions Worksheet` loading up in Schoology (just in case)
+- `Pixel Positions Worksheet` loaded up in Schoology (just in case)
     - https://docs.google.com/document/d/165RAbgEFPmXiVjfx0JV7hHfMXBaBbA-7KXSoFgDGc20
 
 ### Actual Lesson
