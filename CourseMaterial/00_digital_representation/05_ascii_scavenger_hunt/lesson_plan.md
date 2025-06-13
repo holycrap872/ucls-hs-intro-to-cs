@@ -14,7 +14,7 @@ and protocols for allowing people to communicate.
 ### Setup
 
 - Scavenger hunt set up
-    - https://docs.google.com/spreadsheets/d/1-6gDOtzs0r-PXiVjRgclm6DzgXySXCEntQzXS9CB3tU
+    - https://docs.google.com/spreadsheets/d/1RQApjOZ6VUouywrprzMgdUlHvhKBGveX4A5EsMaNa_A
         - Clue 1: Decimal to a: 1, b: 2 (spaces included)
         - Clue 2: Decimal to a: 1, b: 2 (0 for spaces)
         - Clue 3: Ambiguous/impossible decimal
@@ -23,6 +23,9 @@ and protocols for allowing people to communicate.
         - Clue 6: Binary to hex to ASCII
     - Clues distributed around school
         - Put into envelopes with name/date/time on envelopes
+- `Homework: ASCII Basics` Schoology assessment posted
+    - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 
@@ -57,12 +60,11 @@ and protocols for allowing people to communicate.
         - Traffic lights
         - RGB
 
-## Instructions if Sick
+### Instructions if Sick
 
 - Watch: https://youtu.be/z_URHQzlFro?si=pepneo2PAkTnDGHi
 
 ### Homework
 
+- Schoology assessment: `Homework: ASCII Basics`
 - TIL on ASCII
-- Assessment on Schoology
-    - Up to 20 retakes

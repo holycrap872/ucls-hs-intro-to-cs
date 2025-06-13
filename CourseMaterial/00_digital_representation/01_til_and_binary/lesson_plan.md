@@ -17,10 +17,15 @@ talking about binary numbers.
     - Infinite fern: https://youtu.be/Zh4oVYty61M?si=34V-WuqAFQC64uN2
 - Josh's GitHub repo up and ready to talk about
     - https://github.com/jbranchaud/til
-- TIL template deployed on Schoology
-    - Template: https://docs.google.com/document/d/1ynScUCTYosNu9PKraO--jkVsilk-S9OxNUXmhR1HxsI
-    - Rubric: https://docs.google.com/document/d/1j5vw3IYppMSfC5TPs2JEx6PjW4-oDo8FrpmEhXEj7lA
+- TIL resources loaded up in Schoology
+    - `TIL Template`
+        - https://docs.google.com/document/d/1UbokQ47ORX79JaZikecLuy_0I5r6HCI0HNNXYDKPyxs
+        - Assigned as homework
+    - `TIL Rubric`
+        - https://docs.google.com/document/d/1AY3Asj5EEfTrH0GaAF8AYqD6kzleuQShxMAbmnfpDbg
+        - In class `Administration` folder
 - 16, 8, 4, 2, 1 dot pages printed out
+    - `dots.docx`
 
 ### Actual Lesson
 
@@ -40,8 +45,8 @@ talking about binary numbers.
         - How to turn on spell check in GoogleDocs
         - Highlight **must have** the phrase "as seen in the example above"
             - Why?
-    - Talk through rubric
-        - https://docs.google.com/document/d/1j5vw3IYppMSfC5TPs2JEx6PjW4-oDo8FrpmEhXEj7lA
+    - Talk through TIL rubric
+        - https://docs.google.com/document/d/1AY3Asj5EEfTrH0GaAF8AYqD6kzleuQShxMAbmnfpDbg
     - TIL is cheat-sheet you can bring to any test/exam in class
         - Can **only do a single entry** each day
             - Makes it easier for 9th graders to understand

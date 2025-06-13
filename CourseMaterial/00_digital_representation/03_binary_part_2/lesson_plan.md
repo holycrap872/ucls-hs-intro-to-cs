@@ -17,9 +17,9 @@ like bit, byte, nibble.
 - YouTube videos loaded up
     - Cardboard Odometer: https://youtu.be/v83Uvg_ySK8?si=v3vHeVW9aANa8eal&t=8
     - Gandalf: https://youtu.be/i6LGJ7evrAg?si=1OSXS3fVbOS8tNrK
-- `binary_hw` GoogleDoc printed out
+- `Binary Worksheet` GoogleDoc printed out
+    - https://docs.google.com/document/d/1n42N0Uybq7bOcYpqOO4pN0giH0ZPIDtrD3CybB8GLXs
     - Printed b/c they have to show their work and draw
-    - https://docs.google.com/document/d/1OVhUWFlEIlsp_gH8zQgWGpHzvemCEDKYeitS9gKngZ8
 
 ### Lesson Plan
 
@@ -60,7 +60,7 @@ like bit, byte, nibble.
 
 ### Homework
 
-- `binary_hw` worksheet
+- Finish `Binary Worksheet`
 - TIL entry on what a "bit" of information is
 
 ### Resources

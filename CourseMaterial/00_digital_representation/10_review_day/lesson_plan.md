@@ -7,6 +7,7 @@
 ### Setup
 
 - Practice exam loaded on to Schoology
+    - See `assessment.md`
 
 ### Actual Lesson
 

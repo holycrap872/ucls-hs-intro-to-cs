@@ -10,10 +10,10 @@ prepared to articulate why hex is so commonly seen w/ computers.
 
 ### Setup
 
-- `hex_classwork` GoogleDoc printed out
-    - https://docs.google.com/document/d/1W78ZKpljpYbSOuBPiIZ7HeDdjppLFt70yxR65a2MYX4
-- `hex_review_hw` GoogleDoc printed out
-    - https://docs.google.com/document/d/1osuLJE9oAnvgQAfeegF0ETATsofoaKNIx-_WLV3xXlo
+- `Hexadecimal Classwork Worksheet` GoogleDoc printed out
+    - https://docs.google.com/document/d/1tJpkMQ1rLbRfKy2Ent6zz7kkN-DsHcLGRth0LzemI5o
+- `Hexadecimal Review Homework` GoogleDoc printed out
+    - https://docs.google.com/document/d/1LMxGxYX0jBF968o3fj1FSeXA0JBwOUz9GdapFbqxk-8
     - Printed out so can show work
 
 ### Actual Lesson
@@ -53,5 +53,5 @@ prepared to articulate why hex is so commonly seen w/ computers.
 
 ### Homework
 
-- `hex_review_hw`
+- `Hexadecimal Review Homework`
 - TIL entry on converting binary to hex

@@ -13,13 +13,13 @@ the year including HexFiend and RBG colors. Finally, the class ends with playing
 ### Setup
 
 - HexFiend installed on computers
-- `Hexfiend Classwork` GoogleDoc loaded into Schoology
-    - https://docs.google.com/document/d/1QBQFZy7oRVLWU8Fvbh-ymdTY-KpSJ-f1M6pmo1ItcpA
+- `Hex Fiend Worksheet` GoogleDoc loaded into Schoology
+    - https://docs.google.com/document/d/13eJslDI9i5UYEd8glOq47R2497vZk1R8reYMuMlNjxI
 - Files to operate/mess with
     - `simple.bmp`
     - `simple` executable (`gcc -o simple simple.c`)
 - `Flippy Bit Homework` GoogleDoc shared on Schoology
-    - https://docs.google.com/document/d/1lYOHIIgLehjzlOMM8j1c-otZITgJmejcPuDSzgpgOBA
+    - https://docs.google.com/document/d/1Sm5TEATMYc-sA4SrZ5NAhuTCLezKGyqXJ0k8bECo0LM
 
 ### Actual Lesson
 
@@ -66,4 +66,4 @@ the year including HexFiend and RBG colors. Finally, the class ends with playing
 
  ### Homework
  
- - Flippy Bit game
+ - Finish `Flippy Bit Homework`

@@ -12,13 +12,16 @@ that has them using HexFiend to create/alter emojis.
 ### Setup
 
 - `Emoji Classwork` GoogleDoc printed out
+    - https://docs.google.com/document/d/1NG4p17nloX6iNKq1-LA3gYhqKkOa6fZJjj4jn99J4Dk
     - Printed b/c they're sketching
-    - https://docs.google.com/document/d/10esTMQ7dVPqxuLoiB1pYsntUwUWHYAAu8rS1RyC4kWs
 - YouTube videos loaded and ready to go
     - https://youtu.be/MijmeoH9LT4?si=7pETiHXkcnlVBU_G
 - Unicode websites loaded up:
     - https://www.unicode.org/alloc/Pipeline.html
     - https://www.unicode.org/emoji/proposals.html 
+- `Homework: Unicode Basics` Schoology assessment posted
+    - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 
@@ -70,8 +73,8 @@ that has them using HexFiend to create/alter emojis.
 
 ### Homework
 
+- Schoology assessment: `Homework: Unicode Basics`
 - TIL entry on ASCII vs. unicode
-- Schoology assessment
 
 ### Resources
 

@@ -5,11 +5,14 @@
 
 ## Lesson Plan
 
+Note: I never actually did this in class. The activity itself is good, though, and could
+be turned into some sort of review worksheet.
+
 ### Setup
 
-- `binary_communications` GoogleDoc worksheet printed out
-    - 
-- Practice exam loaded up in Schoology
+- `Binary Communication Worksheet` GoogleDoc worksheet printed out
+    - TODO: https://docs.google.com/document/d/1wpFj4S4D8JzFoU-8Wzd5z_-02UyaapOr64IH0NqqjLM
+    - Printed out because they are working in pairs away from computer
 
 ### Actual Lesson
 
@@ -22,5 +25,4 @@
 
 ### Homework
 
-- Practice Exam (optional)
-    - Available on Schoology
+- TODO

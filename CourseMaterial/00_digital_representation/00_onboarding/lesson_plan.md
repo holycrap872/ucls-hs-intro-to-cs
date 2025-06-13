@@ -16,8 +16,9 @@ closer in tenor to a math class than a "fun elective".
     - One for "emergency book"
 - Proper dates put into "Appointment Assignment"
 - Dates added to Google Appointment Calendar that match those dates
-- `onboarding_questionnaire` GoogleDoc printed out
-    - https://docs.google.com/document/d/1bW9b2NI0djoE6E-tIGxNxXCssTkwl12l5mdgXjBWh_E
+- `Onboarding Questionnaire` GoogleDoc printed out
+    - https://docs.google.com/document/d/1OLyUAmo8NrEYZoTB7jcOJvJF1j6hoABrZ_s8kdk7VOk
+    - Printed out so they can draw on the back page
 
 ### Actual Lesson
 
@@ -95,7 +96,7 @@ closer in tenor to a math class than a "fun elective".
                 do_something_2(100.0, 5)
                 ```
 - Distribute "getting to know you" sheet
-    - `onboarding_questionnaire`
+    - `Onboarding Questionnaire`
 
 ### Homework
 

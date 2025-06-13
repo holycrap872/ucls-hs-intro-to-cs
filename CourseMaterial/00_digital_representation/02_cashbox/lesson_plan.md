@@ -16,10 +16,10 @@ class on binary relates.
 
 - TIL ownership turned back over to original person
     - TIL excel sheet made
-- `cashboxes_classwork` GoogleDoc printed out
-    - https://docs.google.com/document/d/1esNFXNXknUZ8u6ecfAX23CCBElGLJUJnZ275CTJN3lY
+- `Cashbox Worksheet` GoogleDoc printed out
+    - https://docs.google.com/document/d/1DTNY0ksbI0Quo3H6z9qIpiYgfVbzm_xVUw64MLy1z-k
     - Printed b/c they're working in pairs
-    - Collated so that will get new sheet once finish previous sheet
+    - **Collated** so that will get new sheet once finish previous sheet
 
 ### Actual Lesson
 
@@ -31,8 +31,8 @@ class on binary relates.
         - What do you notice for decimal?
         - What do you notice for binary?
 - TIL reviews
-    - Good examples
-    - Bad examples
+    - Show 2-3 good example from previous night's homework
+    - Show 2-3 bad examples
     - Will eventually "spin the wheel", so be prepared
 - Today going to continue to talk about number systems
     - What are number systems you know about?
@@ -53,5 +53,5 @@ class on binary relates.
 
 ### Homework
 
-- Reflection sheet (if didn't finish in class)
+- `Reflection` portion of `Cashbox Worksheet` (if didn't finish in class)
 - TIL on what a "base-X number system" means
