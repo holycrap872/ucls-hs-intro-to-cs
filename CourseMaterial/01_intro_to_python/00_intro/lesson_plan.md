@@ -16,8 +16,8 @@ course.
 
 - Setup Grok
     - Load students into Grok via `.csv` file
-        - Names from exporting gradebook in Schoology
-        - Emails by copying over from PowerSchool
+        - Get names by exporting `Gradebook` in Schoology
+        - Get emails by copying over from PowerSchool
     - Register students for `Python for Beginners` course
 - Have `mood_light.py` open and ready to run
 

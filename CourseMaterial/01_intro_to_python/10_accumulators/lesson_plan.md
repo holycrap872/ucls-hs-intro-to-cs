@@ -8,10 +8,11 @@
 ### Setup
 
 - Giant playing cards
-- `Python Accumulator Pattern Worksheet` posted to Schoology
-    - https://docs.google.com/document/d/1TiQm3HpzzWlnJl5ILCaigmE8zZOyYrJGeLjrZ_rafXo
-- Schoology assessment on accumulator pattern posted
+- `Python Accumulator Pattern Worksheet` loaded up in Schoology
+    - https://docs.google.com/document/d/1kCU81XrEW-kdEjA12UGQ7GsgEIX7UPOKX9wWCAj-7zI/
+- `Homework: Accumulator Pattern` Schoology assessment posted
     - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 
@@ -54,5 +55,5 @@
 
 ### Homework
 
-- Schoology assessment on the accumulator pattern (5 tries)
+- Schoology assessment: `Homework: Accumulator Pattern`
 - TIL entry on the accumulator pattern

@@ -13,7 +13,7 @@ first unit (e.g., binary numbers).
 ### Setup
 
 - `Python Iteration Worksheet` posted to Schoology
-    - https://docs.google.com/document/d/183j9K37eSpVBpgw3tDEmQOA_XPoAF9FEssBAVmYFE4w
+    - https://docs.google.com/document/d/1voH0kpTzbl_flMfR4tsE4Kpz7WkNeEoItoQuqvzDwDU
 
 ### Actual Lesson
 

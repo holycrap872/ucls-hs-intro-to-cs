@@ -7,7 +7,9 @@
 
 ### Setup
 
-- None
+- `Homework: For Loops` Schoology assessment posted
+    - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 
@@ -39,5 +41,6 @@
 
 ### Homework
 
+- Schoology assessment: `Homework: For Loops`
 - Finish Grok Lesson 6.2
 - TIL entry on `for` loops

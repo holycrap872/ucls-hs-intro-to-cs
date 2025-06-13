@@ -15,7 +15,7 @@ amongst themselves.
 
 - Students enrolled in "Playground - Turtle Python" course
 - `Python Strings Worksheet` loaded in Schoology
-    - https://docs.google.com/document/d/1WiPOm2rhkvlUwcjVRlnW2JvUplX-uTHkN4JJL3AG09Q
+    - https://docs.google.com/document/d/1PKTX96nevZkhuZXIfXBkfYeKSSEbxsmHfldVZJNMGY4
 - Tab to "Playground - Turtle Python" open in two tabs
     - https://groklearning.com/learn/python-turtle-playground/1/2/
     - tab 1: Filled with double age (see below)

@@ -14,7 +14,9 @@ can get to if they move quickly through the assignments.
 
 ### Setup
 
-- None
+- `Homework: Python Data Types` Schoology assessment posted
+    - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 
@@ -40,5 +42,6 @@ can get to if they move quickly through the assignments.
 
 ### Homework
 
+- Schoology assessment: `Homework: Python Data Types`
 - TIL entry on data types
 - Finish Grok Lesson 2.4 (aka all of Module 2)

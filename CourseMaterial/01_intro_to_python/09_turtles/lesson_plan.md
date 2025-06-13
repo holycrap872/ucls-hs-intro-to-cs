@@ -11,8 +11,8 @@ and exploit patterns with loops.
 
 ### Setup
 
-- GoogleDoc about loops/turtles loaded up into Schoology
-    - https://docs.google.com/document/d/1M3QkPWw4FBevTRVVvPYrpMLnrxy3whFOzJG3GN-qLyo
+- `Python Loops Worksheet` GoogleDoc loaded up into Schoology
+    - https://docs.google.com/document/d/13WFLn6IJltz6DW2W2dIHbWaCuKltTYjuxj3KeJhyZNQ
 - YouTube video loaded up
     - "I like turtles": https://www.youtube.com/watch?v=CMNry4PE93Y
 

@@ -12,7 +12,7 @@ that they've done over the past few classes: conditionals, "Two Questions", and
 modules since they are so text heavy. The class will discuss the best ways to
 read/understand documentation.
 
-### Setup up
+### Setup
 
 - Example of someone's "Two Questions" program to run
 

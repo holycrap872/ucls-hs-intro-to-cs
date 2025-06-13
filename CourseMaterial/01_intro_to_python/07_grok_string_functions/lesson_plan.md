@@ -8,6 +8,9 @@
 ### Setup up
 
 - Quiz up to Grok Lesson 5.2 loaded on Schoology
+- `Homework: String Functions` Schoology assessment posted
+    - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 
@@ -42,5 +45,6 @@
 
 ### Homework
 
+- Schoology assessment: `Homework: String Functions`
 - TIL entry on `replace()` function
 - Finish Grok Lesson 5.4

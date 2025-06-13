@@ -3,14 +3,16 @@
 - How can we modify strings?
 - How do functions work?
 
-- How does Python convert between numbers and text?
-- How do the `ord()` and `chr()` functions compare with other Python functions?
-
 ## Lesson Plan
 
 ### Setup up
 
-- None
+- `Homework: Function Definitions` Schoology assessment posted
+    - See `assessment.md`
+    - Allowed to take assessment up to two times
+- Note: if coming **back from a break**, can utilize following worksheets to "warm up"
+    - https://docs.google.com/document/d/1OKl6XFj32gIqM7QUVV-dqqRFpypmETZVU1c0xg4QYYw
+    - https://docs.google.com/document/d/1Iq5EB1De_EKVaqtwEkzWIpeEmacNm_2fA_8qjnitia4
 
 ### Actual Lesson
 
@@ -41,5 +43,6 @@
 
 ### Homework
 
+- Schoology assessment: `Homework: Function Definition`
 - TIL entry on topic of your choice
 - Finish Grok Lesson 7.4

@@ -13,6 +13,9 @@ on if/else.
 ### Setup up
 
 - Quiz up to Grok Lesson 3.2 loaded on Schoology
+- `Homework: Conditional Statements` Schoology assessment posted
+    - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 
@@ -67,5 +70,6 @@ on if/else.
 
 ### Homework
 
+- Schoology assessment: `Homework: Conditional Statements`
 - TIL entry on `if` statements
 - Finish Grok Lesson 4.2

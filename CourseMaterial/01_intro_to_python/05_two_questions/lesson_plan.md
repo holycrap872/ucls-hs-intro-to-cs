@@ -14,12 +14,12 @@ asking y/n questions.
 
 - `three_questions.py` ready to run
 - `Python Conditionals Worksheet` loaded up in Schoology
-    - https://docs.google.com/document/d/1NcvDfJakhP8avnA6hUhPTaHgpXZPpuQ1xUc1henKiYM
+    - https://docs.google.com/document/d/1lgCOv0inhZBYfx1952ibRwoQXSh_euaeJeuWUNQ95fQ
     - Note: if **need to split it up over two days**
-        - Part 1: https://docs.google.com/document/d/1keMkCb7GQpVgJgOLvlvdjq8yrfRqh06dCqElEa3fW90
+        - Part 1: https://docs.google.com/document/d/1O4FCpj5O9x9q-rzll1xqu5_VLT8JRNKbX4Gvb3wjwGw
             - Talk about conditionals at beginning of class
             - Do worksheet
-        - Part 2: https://docs.google.com/document/d/1Wyoygda5aoxrpUFvIEYk3zZtb-_mpJxOLmBQyYcHbOQ
+        - Part 2: https://docs.google.com/document/d/13XnWWXEJov7akZHXzqi2Xgp08u4lXG1_O66kouHrIys
             - Talk about binary search/20 questions at beginning of class
             - Do worksheet
             - Come back, talk about if/elif
