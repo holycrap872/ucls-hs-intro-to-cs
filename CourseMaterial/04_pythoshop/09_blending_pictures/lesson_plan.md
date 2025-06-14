@@ -1,6 +1,6 @@
 ## Essential Questions
 
-- How can I use python to edit images?
+- How can I use Python to edit images?
 - What is a debugger and how do I use it?
 
 ## Lesson Plan

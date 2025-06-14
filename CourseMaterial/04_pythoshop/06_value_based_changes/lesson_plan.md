@@ -1,6 +1,6 @@
 ## Essential Questions
 
-- How can I use python to edit images?
+- How can I use Python to edit images?
 - How do I visualize loops so I can detect when they're useful?
 
 ## Lesson Plan

@@ -7,7 +7,7 @@
 ### Setup
 
 - Exam loaded on to Schoology
-    - See `assessment.md`
+    - See `test.md`
     - Make sure there is a reflection question about TIL as last question on test
         - one point
         - "What portion of your TIL was most useful while you were taking the test?"

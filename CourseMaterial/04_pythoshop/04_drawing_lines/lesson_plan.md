@@ -1,6 +1,6 @@
 ## Essential Questions
 
-- How can I use python to edit images?
+- How can I use Python to edit images?
 - How do I use loops to change many pixels at once?
 
 ## Lesson Plan

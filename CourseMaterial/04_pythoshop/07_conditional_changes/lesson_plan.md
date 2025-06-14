@@ -1,6 +1,7 @@
 ## Essential Questions
 
-- How can I use python to edit images?
+- How can I use Python to edit images?
+- How do I conditionally change the value of individual pixels?
 
 ## Lesson Plan
 
@@ -52,4 +53,4 @@
 
 ### Homework
 
-- Finish `Conditional Modifications Worksheet`
+- Study for quiz
