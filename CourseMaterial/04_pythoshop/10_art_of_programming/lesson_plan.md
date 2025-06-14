@@ -58,3 +58,4 @@
 ### Homework
 
 - Finish `Pixel Positions Worksheet`
+    - Perhaps make it due before test?

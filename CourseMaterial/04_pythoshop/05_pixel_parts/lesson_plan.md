@@ -37,8 +37,18 @@
     - Tools vs. Filters
     - Helper functions
 - Class filter
-    - Bottom left red channel
-    - Bottom right blue channel
+    - Bottom-left quarter: red channel
+    - Bottom-right quarter: blue channel
+    - Use debugger to show it working step by step
+        - Use on small 4 x 2 multi-color bmp so can really see it working
+- Cheating (delay until next class if not long block)
+    - Will get caught
+    - Variable changes get caught by "abstract syntax trees"
+        - https://en.wikipedia.org/wiki/Abstract_syntax_tree
+        - https://observablehq.com/@aarebecca/ast-explorer with simple example
+    - Honestly a little hard to detect in the beginning with small programs
+    - People always get caught at the end when functions get harder
+    - Just work hard in class and won't have to worry about it
 - Show assignment
     - Talk through
 - Go!

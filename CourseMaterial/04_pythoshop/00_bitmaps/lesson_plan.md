@@ -17,9 +17,9 @@ they're exploring be used in the PythoShop software.
 
 ### Setup
 
-- `simple.bmp` loaded up on Schoology
 - `BitMap Manual Editing Worksheet` loaded up on Schoology
     - https://docs.google.com/document/d/1ZvwvCIIadERbB6w8pEogAD431598T8ARJezJt5OjL3Q
+- `simple.bmp` loaded up on Schoology
 
 ### Actual Lesson
 

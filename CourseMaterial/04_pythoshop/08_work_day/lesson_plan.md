@@ -21,10 +21,11 @@
 - Review
     - Questions from quiz?
     - Intensify
-- How to test program
+- How to test programs
     - Show ability to do side-by-side comparison in terminal
+    - Encourage them to use from now on
+    - Also check all right before turning everything in
 - Start classwork
-    - 
 
 ### Homework
 

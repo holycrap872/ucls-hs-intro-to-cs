@@ -37,19 +37,18 @@
 - Class filter
     - Yellow _line_ along bottom row
     - Don't add any width to it for now
+    - Use debugger to show it working step by step
+        - Reemphasize how important understanding debugger is
+        - I will ask "did you debug it" before I help you
 - Grading minutia
-    - Remphasize and acknowledge it's confusing
+    - Extensions
+        - If finish all expected requirements (87)
+        - 40 pts of extensions -> 91
+        - 80 pts of extensions -> 96
+        - 120 pts of extensions -> 100
     - Do the extensions you like
     - Move on if don't like/get it
     - This is confusing for the students, so take time here
-- Cheating (delay until next class if not long block)
-    - Will get caught
-    - Variable changes get caught by "abstract syntax trees"
-        - https://en.wikipedia.org/wiki/Abstract_syntax_tree
-        - https://observablehq.com/@aarebecca/ast-explorer with simple example
-    - Honestly a little hard to detect in the beginning with small programs
-    - People always get caught at the end when functions get harder
-    - Just work hard in class and won't have to worry about it
 - Show assignment
     - Talk through it
     - How to set background to a particular picture

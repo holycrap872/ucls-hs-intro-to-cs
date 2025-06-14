@@ -19,7 +19,7 @@
     - Can use TIL cheat sheet
     - No talking
     - Raise hand if have questions
-    - Once done, can leave
+    - Once done, can continue to work on PythoShop or leave
 
 ### Homework
 

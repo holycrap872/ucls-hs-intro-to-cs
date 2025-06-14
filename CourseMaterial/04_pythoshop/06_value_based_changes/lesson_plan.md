@@ -30,9 +30,12 @@
 - Review
     - PRIMM of `make_light_black`
         - Do for 700, then 500, then 300
+        - Use breakpoint and examine values
+            - Use on small 4 x 2 gradient bmp so can really see it working
     - Functions
     - Filters
-    - Use break and examine values
+    - Abstract syntax trees
+        - Emphasize how abstract away details of variable names etc.
 - How to identify loops?
     - Find starting point
     - Plot out several next steps

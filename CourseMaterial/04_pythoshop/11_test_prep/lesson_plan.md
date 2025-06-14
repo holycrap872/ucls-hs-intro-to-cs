@@ -30,11 +30,14 @@
 - Review
     - PRIMM `flip_vertical`
     - RGB in color vs RGB in grayscale
-- Schedule for the rest of the year
 - Debrief on 
     - Go to old one (`blending_images`) and talk about it
     - What was easy, what was hard?
     - Difference between `(r1 + r2 / 2)` and `((r1 + r2) / 2)`
+- Things to remember:
+    - Schedule for the rest of the year
+    - Cheating
+    - Grade minutia
 - Remind that have CS help on lunch, Wednesdays
 - Go!
 

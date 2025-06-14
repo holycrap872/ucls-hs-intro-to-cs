@@ -32,8 +32,6 @@
     - How to run
     - Tools vs. filters
     - Set/get pixel
-    - Abstract syntax trees
-        - Emphasize how abstract away details of variable names etc.
 - Loops in PythoShop
     - Why loops useful?
     - Show `loops.py`
@@ -41,6 +39,9 @@
     - Create a picture half-filled with a given color
     - First do bottom-half filled with color
     - Then do top-half filled with color
+    - Use debugger to show it working step by step
+        - Reemphasize how important understanding debugger is
+        - I will ask "did you debug it" before I help you
 - Reframe grading
     - Do the extensions you like
     - Move on if don't like/get it
