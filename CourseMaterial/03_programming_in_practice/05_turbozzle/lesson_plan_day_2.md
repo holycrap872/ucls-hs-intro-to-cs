@@ -8,7 +8,7 @@
 ### Setup
 
 - `Turbozzle Two Worksheet` loaded up in Schoology
-    - https://docs.google.com/document/d/1VqiqeUR5QHOZOwnCA5jqNzyj_egTdh7DZ9-goCi3vAc/edit?usp=sharing
+    - https://docs.google.com/document/d/1BnV0GSvBOEZ2PJy4ujrIu6QMUwxihd54SyGKFMUhNi8
 - Turbozzle skeleton loaded on computer for demo purposes
 - Schoology Assessment
     - TODO

@@ -8,9 +8,10 @@
 ### Setup
 
 - `Python Lists One Worksheet` posted to Schoology
-    - https://docs.google.com/document/d/1R7hoFZN1GLhcQP5pjsA7wAkP0vrvYi7KMlhexvfcFOM
-- Schoology Assessment on lists posted to Schoology
+    - https://docs.google.com/document/d/1tL68q2oaaD0fEsTa9MwGxtojVM07-NpRFrItekMkhrA
+- `Homework: Basic Lists` Schoology assessment posted
     - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 
@@ -72,5 +73,5 @@
 
 ### Homework
 
-- Schoology assessment on lists
+- Schoology assessment: `Homework: Basic Lists`
 - TIL entry on lists vs. strings

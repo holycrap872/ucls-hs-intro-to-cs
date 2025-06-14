@@ -7,8 +7,6 @@
 
 ### Setup
 
-- `Turbozzle One Worksheet` loaded up in Schoology
-    - https://docs.google.com/document/d/1aCPLTZ5ZrnDYkBXXE87BTv3F9QBSN4nd8OhKO1DcTCc
 - Turbozzle "Skeleton" loaded up in Schoology
     - https://github.com/eric-rizzi/ucls-turbozzle
         - `for_students` branch
@@ -17,6 +15,8 @@
         - `find . -name "__pycache__" -exec rm -r {} \;`
         - `find . -name ".DS_STORE" -exec rm -r {} \;`
         - `find . -name "*pytest_cache*" -exec rm -r {} \;`
+- `Turbozzle One Worksheet` loaded up in Schoology
+    - https://docs.google.com/document/d/1HZcC1fA7iTOl4Kmoke7aKtkx7M0s2XSbByKXmCnwUCo
 
 ### Actual Lesson
 

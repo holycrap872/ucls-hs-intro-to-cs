@@ -5,7 +5,7 @@
 ### Setup
 
 - `Unit 3 Review Worksheet` posted to Schoology
-    - https://docs.google.com/document/d/11ORZhMtBqzmDqsrYX1VE_qR09RsNOQUTkmnzKB6YVLQ
+    - https://docs.google.com/document/d/1UtyDgtCTtZxbZIY6ug8IuFvKHtzjOZF166owtk-4gTQ
 - Practice test posted to Schoology
 
 ### Actual Lesson

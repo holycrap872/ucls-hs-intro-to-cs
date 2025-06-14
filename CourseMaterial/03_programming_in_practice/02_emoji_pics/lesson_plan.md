@@ -7,8 +7,11 @@
 
 ### Setup
 
-- `Python EmojiPics Worksheet` in a GoogleDoc posted to Schoology
-    - https://docs.google.com/document/d/1n2gNM9SHSsmScRGtFnI9CtQMvxVWTiKwyfGk17D1FzI
+- `Python EmojiPics Worksheet` GoogleDoc posted to Schoology
+    - https://docs.google.com/document/d/1BdM1WXwt0Zht_RwshvBTymoVOp4R-Nc4CFgPwJo5iEE
+- `Homework: Slicing` Schoology assessment posted
+    - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 
@@ -34,7 +37,7 @@
     - Do all of Problem 1, Section 1 (before running the program) together
     - Go!
 - Break
-- When come back, talk about RGB and Grayscale
+- When come back, talk about RGB and grayscale
 - Go!
 - Cool final trick
     - Copy B/W data into a text file
@@ -43,4 +46,5 @@
 
 ### Homework
 
+- Schoology assessment: `Homework: Slicing`
 - TIL entry on slicing

@@ -7,7 +7,7 @@
 
 ### Setup
 
-- Function and Fractal unit test open
+- `Exam: Functions and Fractals` open
 - Grok turtle playground open
 
 ### Actual Lesson
@@ -20,7 +20,7 @@
 - Abstraction
     - Hiding unnecessary details
         - Who remembers from 8th grade?
-    - How is the green line like abstraction?
+    - How is the CTA green line like abstraction?
     - How is baking a cake like abstraction?
     - How is Grok 9.4 an example of abstraction
 - Class coding

@@ -7,8 +7,6 @@
 
 ### Setup
 
-- Schoology assessment posted
-    - See `assessment.md`
 - Clean version of `VSCodeIntro.zip` loaded into Schoology
     - https://github.com/eric-rizzi/ucls-vscode-intro
         - `for_students` branch
@@ -16,6 +14,9 @@
         - `find . -name "__pycache__" -exec rm -r {} \;`
         - `find . -name ".DS_STORE" -exec rm -r {} \;`
         - `find . -name "*pytest_cache*" -exec rm -r {} \;`
+- `Homework: Abstraction and Functions` Schoology assessment posted
+    - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 
@@ -47,4 +48,4 @@
 
 ### Homework
 
-- Schoology assessment
+- Schoology assessment: `Homework: Abstraction and Functions`

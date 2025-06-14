@@ -7,8 +7,8 @@
 
 ### Setup
 
-- `Python Lists Two Worksheet` loaded up in Schoology
-    - https://docs.google.com/document/d/1F0GhWpyZ6LulCuW22pCCAIo370CjpGgNC-VmFXVEn-s
+- `Python Lists Two Worksheet` GoogleDoc loaded up in Schoology
+    - https://docs.google.com/document/d/1n2QzH0GqMnWIzZjZWrJmvGEoMoQ5zYNj5kigQviBqPQ
 
 ### Actual Lesson
 

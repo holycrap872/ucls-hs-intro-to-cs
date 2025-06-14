@@ -1,3 +1,8 @@
+## Essential Questions
+
+- How can I visualize loops and recursion?
+- How can the debugger be used to understand a program's state?
+
 ## Lesson Plan
 
 - How can I visualize loops and recursion?

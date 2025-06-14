@@ -17,8 +17,9 @@
         - https://www.youtube.com/watch?v=OKRV0UX9dBM&t=2007s
             - 33:27 - 46:24
         - `prisoners_dilemma.mp3`
-- Schoology assessment on lists posted to Schoology
+- `Homework: Advanced Lists` Schoology assessment posted
     - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 
@@ -56,7 +57,7 @@
 ### Homework
 
 - Finish `Lists One Worksheet`
-- Schoology assessment: `Homework: Lists Advanced`
+- Schoology assessment: `Homework: Advanced Lists`
 - Listen to Radio lab
     - https://www.radiolab.org/podcast/103951-the-good-show
         - 42:10 - 55:52

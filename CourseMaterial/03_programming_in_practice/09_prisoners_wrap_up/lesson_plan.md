@@ -11,8 +11,9 @@
 - YouTube video loaded up
     - https://youtu.be/Y0Oa4Lp5fLE?si=mJ0rgbMmDAAmMwuL&t=3027
         - 50:27 - 53:15
-- `Ethical Bots Worksheet` printed out
-    - https://docs.google.com/document/d/1KNNtQMK6_d6f2RiPlGFRtmx3YRv7AXc7hqOug6m-9W8
+- `Ethical Bots Worksheet` GoogleDoc printed out
+    - https://docs.google.com/document/d/1Y1NmVivQTx39OA9RNYZytmFFvYmFDOKJHDhmTNzPyBE
+    - Printed out because they need space to write/draw
 
 ### Actual Lesson
 
