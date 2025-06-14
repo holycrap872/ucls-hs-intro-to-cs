@@ -8,8 +8,8 @@
 ### Setup
 
 - `Robozzle and Functions Worksheet` loaded into Schoology
-    - https://docs.google.com/document/d/1QiQHOOVJecKwnOi_IGNrIDqSbMQhL2UCoL90OGBYXFg
-- Examples ready to run in vscode
+    - https://docs.google.com/document/d/1TeF9WRD4uSSb1x0b77DhhJxep5XlrphEtiZ_X6Ey5LA
+- Examples ready to run in VSCode
     - `examples/pencil.py`
     - `examples/make_shirt.py`
 
@@ -47,4 +47,4 @@
 ### Homework
 
 - Finish up to level 2.3 of Robozzle worksheet
-- Finish Reflection of Robozzle worksheet
+- Finish `Reflection` of `Robozzle and Functions Worksheet`

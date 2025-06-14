@@ -7,13 +7,14 @@
 
 ### Setup
 
+- `Python Recursion Worksheet` loaded up on Schoology
+    - https://docs.google.com/document/d/1SZ2lSbpvMwsL8xCm2NlcC7pxM9mHmknapGU8jOoeBko
+- `Homework: Recursive Functions` Schoology assessment posted
+    - See `assessment.md`
+    - Allowed to take assessment up to two times
 - Programs loaded up into Grok:
     - `examples/decrement.py`
     - `examples/fence.py`
-- Schoology assessment posted
-    - See `assessment.md`
-- `Python Recursion Worksheet` loaded up on Schoology
-    - https://docs.google.com/document/d/1KZZBXd41aoYjR4rYAPWKPmsHDFJMrjmcIhX95dQPDW0
 
 ### Actual Lesson
 
@@ -52,7 +53,7 @@
 
 ### Homework
 
-- Schoology assessment
+- Schoology assessment: `Homework: Recursive Functions`
 
 #### Possible Extension
 

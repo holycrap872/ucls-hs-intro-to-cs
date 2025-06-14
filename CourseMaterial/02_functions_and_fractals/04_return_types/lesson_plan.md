@@ -8,7 +8,10 @@
 ### Setup
 
 - `Return Types Worksheet` posted to Schoology
-    - https://docs.google.com/document/d/1YcTDvjttDOR_3be6ru09AZmekXhPPpsQGAwZuhSxA3w
+    - https://docs.google.com/document/d/1_nVZIjzZjRCCmJnm9EirO92FmBdu74Jwtds3Mwlvw6w
+- `Homework: Return Functions` Schoology assessment posted
+    - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 
@@ -32,4 +35,5 @@
 
 ### Homework
 
+- Schoology assessment: `Homework: Return Functions`
 - TIL entry on what `return None` means

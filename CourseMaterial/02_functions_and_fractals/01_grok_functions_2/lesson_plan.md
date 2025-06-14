@@ -10,8 +10,9 @@ language to be able to identify, describe, and create their own functions.
 
 ### Setup
 
-- Schoology assessment posted
-    - see `assessment.md`
+- `Homework: CS Functions` Schoology assessment posted
+    - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 
@@ -49,6 +50,6 @@ language to be able to identify, describe, and create their own functions.
 
 ### Homework
 
-- Schoology assessment
+- Schoology assessment: `Homework: CS Functions`
 - Finish Grok Lesson 8.4
 - TIL Entry on functions

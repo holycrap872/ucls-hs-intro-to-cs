@@ -11,7 +11,7 @@ of a function and how to create and use them.
 ### Setup
 
 - `Python Functions Worksheet` loaded into Schoology
-    - https://docs.google.com/document/d/1pD_fh3PX6DwU3aemTk7Rn886AjMAgYAPAlwt7aCmDlk
+    - https://docs.google.com/document/d/1F2LopOKUzo7Me46r443AR9AAHAGyhx6UGzbuqCuz9X0
 
 ### Actual Lesson
 

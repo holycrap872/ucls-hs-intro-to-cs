@@ -12,8 +12,9 @@
 - TIL entries
 - Dragon curve code ready to run
     - `example/dragon_curve.py`
-- Schoology assessment posted
-    - see `assessment.md`
+- `Homework: Recursive Functions 2` Schoology assessment posted
+    - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 
@@ -41,5 +42,5 @@
 
 ### Homework
 
+- Schoology assessment: `Homework: Recursive Functions 2`
 - Grok lesson 9.4
-- Schoology assessment

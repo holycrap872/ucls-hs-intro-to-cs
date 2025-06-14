@@ -16,8 +16,9 @@ Grok to do this. Finally, students start to work on Grok.
 
 ### Setup
 
-- Schoology assessment posted
+- `Homework: Math Functions` Schoology assessment posted
     - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 
@@ -83,5 +84,5 @@ Grok to do this. Finally, students start to work on Grok.
 
 ### Homework
 
-- Schoology assessment
+- Schoology assessment: `Homework: Math Functions`
 - Finish Grok Lesson 8.2
