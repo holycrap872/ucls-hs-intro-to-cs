@@ -21,9 +21,9 @@
         set_pixel_rgb(image, (0, h - 1), (0, 0, 0))
     ```
 - `Change a Pixel Worksheet` loaded up in Schoology
-    - https://docs.google.com/document/d/1vai-0xjDI6uLtVG7dGk1mcJOQsknVRocFFkGs8LMb7A
+    - https://docs.google.com/document/d/1LGuQQPHvYpMwVn269lRUtp7xrQAV-5hhj4m443Yi9n0
 - `Change Multiple Pixels Worksheet` loaded up in Schoology (just in case)
-    - https://docs.google.com/document/d/1HLtrNlvG8lK3hfLYP8F_Riwv06pI9ktlbIk8dypn5ds
+    - https://docs.google.com/document/d/1xbOrwUMz_48eGLWHmHnraCnf2AQEE11Qt9aEErpWM5c
 
 ### Actual Lesson
 

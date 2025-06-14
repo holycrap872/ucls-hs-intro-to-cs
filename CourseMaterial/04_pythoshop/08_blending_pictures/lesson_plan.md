@@ -37,9 +37,9 @@
                 set_pixel_rgb(image, (x, y), c)
     ```
 - `Blending Pictures Worksheet` loaded up in Schoology
-    - https://docs.google.com/document/d/16v8pJ_XwWuXVoKElX4S1r91-ELbhgBXlVNmu23_AKio
+    - https://docs.google.com/document/d/16Ojx0zLR8qMaISlor8awAbqrqwX1n94_QZEQiyfUnLw
 - `Pixel Positions Worksheet` loaded up in Schoology (just in case)
-    - https://docs.google.com/document/d/165RAbgEFPmXiVjfx0JV7hHfMXBaBbA-7KXSoFgDGc20
+    - https://docs.google.com/document/d/1E35rBAmndMOJv5E_0s2g_jLdgOgs1UGzaxkVFDe1eDA
 
 ### Actual Lesson
 

@@ -31,9 +31,9 @@
                 set_pixel_rgb(image, (x, y), (0, 0, b))
     ```
 - `Conditional Modifications Worksheet` loaded up in Schoology
-    - https://docs.google.com/document/d/1i1K_0L-XeLQaoK2A_rpamfJCfCU8Gf279b7Lblk4Qto
+    - https://docs.google.com/document/d/1E3v36HUh18ogVqMij1zDeYAKccBm6d_4fSuFeeACrlc
 - `Blending Pictures Worksheet` loaded up in Schoology (just in case)
-    - https://docs.google.com/document/d/16v8pJ_XwWuXVoKElX4S1r91-ELbhgBXlVNmu23_AKio
+    - https://docs.google.com/document/d/16Ojx0zLR8qMaISlor8awAbqrqwX1n94_QZEQiyfUnLw
 
 ### Actual Lesson
 

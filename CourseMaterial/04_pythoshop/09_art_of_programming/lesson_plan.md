@@ -29,7 +29,7 @@
         return new_image
     ```
 - `Pixel Positions Worksheet` loaded up in Schoology
-    - https://docs.google.com/document/d/165RAbgEFPmXiVjfx0JV7hHfMXBaBbA-7KXSoFgDGc20
+    - https://docs.google.com/document/d/1E35rBAmndMOJv5E_0s2g_jLdgOgs1UGzaxkVFDe1eDA
 
 ### Actual Lesson
 

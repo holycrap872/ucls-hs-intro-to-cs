@@ -15,9 +15,9 @@
     - Built version of https://github.com/dwheadon/PythoShop/tree/bmp
     - See README.md for build instructions
 - `PythoShop Intro Worksheet` loaded up in Schoology
-    - https://docs.google.com/document/d/1Rzz1DHyQRh50dsOCXfTXANEcuKeSc4270jnIuOL54PA
+    - https://docs.google.com/document/d/1Co6Id-9qtCxzNMBk7_v8Oq3BS5wKaXHpJM-hJi3OGms
 - `Change a Pixel Worksheet` loaded up in Schoology
-    - https://docs.google.com/document/d/1vai-0xjDI6uLtVG7dGk1mcJOQsknVRocFFkGs8LMb7A
+    - https://docs.google.com/document/d/1LGuQQPHvYpMwVn269lRUtp7xrQAV-5hhj4m443Yi9n0
 
 ### Actual Lesson
 

@@ -13,13 +13,13 @@ they're exploring be used in the PythoShop software.
 
 > Note: This class doesn't have to be the first class of the PythoShop unit.
   It can be put pretty much anywhere (during a long block) and framed as a
-  "looking under the hood" / deabstraction lesson.
+  "looking under the hood" / de-abstraction lesson.
 
 ### Setup
 
 - `simple.bmp` loaded up on Schoology
 - `BitMap Manual Editing Worksheet` loaded up on Schoology
-    - https://docs.google.com/document/d/1mXds0rRripRBa4IQNibcQGxw7QDTVycqa_ilK6mHu4s
+    - https://docs.google.com/document/d/1ZvwvCIIadERbB6w8pEogAD431598T8ARJezJt5OjL3Q
 
 ### Actual Lesson
 
@@ -39,7 +39,7 @@ they're exploring be used in the PythoShop software.
     - Real file format
     - Uncompressed
     - RGB values stored throughout
-- HexFiend refresher
+- Hex Fiend refresher
     - Put in `Overwrite Mode`
     - Put left side into decimal mode
     - Show how to find particular bytes
@@ -50,11 +50,11 @@ they're exploring be used in the PythoShop software.
     - Put on `Desktop`
     - Right click to get to "Get Info"
     - Right click to get to `Preview`
-    - Right click to get to `HexFiend`
+    - Right click to get to `Hex Fiend`
 - `BitMap Manual Editing Worksheet`
     - Walk through first problem
     - Explain that can use hex -> decimal and decimal -> hex converter
-    - As a class, put HexFiend in OVERWRITE MODE!!!!
+    - As a class, put Hex Fiend in OVERWRITE MODE!!!!
         - Raise your hand if you see it at the top
 - Debrief
     - What is the stuff before the actual data?

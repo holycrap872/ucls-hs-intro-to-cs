@@ -20,9 +20,9 @@
         set_pixel_rgb(image, (width - x, height - y), color)
     ```
 - `Drawing Lines Worksheet` loaded up in Schoology
-    - https://docs.google.com/document/d/1kv9eGOh2T1Kr3K7YNIEm_U7-RmefU2ErWha9lOEuQKQ
+    - https://docs.google.com/document/d/1wijKCu1sCK8tCembiKr5q3JuGVCXh5LgpYa_k9Daz2c
 - `Changing Pixel Parts Worksheet` loaded up in Schoology (just in case)
-    - https://docs.google.com/document/d/1S8WVgXGo02PCV_ldPlcWhPZB8NezWh2wP-ahVrTVwZo
+    - https://docs.google.com/document/d/1uXbiT-LXxW9RWpdDqQPeNiizP-wa0hThpcdDe1A90_I
 - `loops.py` ready for demo
 
 ### Actual Lesson

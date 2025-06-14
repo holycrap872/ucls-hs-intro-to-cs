@@ -21,9 +21,9 @@
                     set_pixel_rgb(image, (x, y), (0, 0, 0))
     ```
 - `Value Based Changes Worksheet` loaded up in Schoology
-    - https://docs.google.com/document/d/1qHopc_4zF7gBwDq1mNek4pfs8pqFPa32jo2Nk7IMQHE
+    - https://docs.google.com/document/d/1b-_Eq48VScdFNqXwF3JEXckwO5AoHbu4r5UPynUX7JQ
 - `Conditional Modifications Worksheet` loaded up in Schoology (just in case)
-    - https://docs.google.com/document/d/1i1K_0L-XeLQaoK2A_rpamfJCfCU8Gf279b7Lblk4Qto
+    - https://docs.google.com/document/d/1E3v36HUh18ogVqMij1zDeYAKccBm6d_4fSuFeeACrlc
 
 ### Actual Lesson
 

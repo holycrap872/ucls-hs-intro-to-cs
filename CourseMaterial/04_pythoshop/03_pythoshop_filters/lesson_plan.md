@@ -19,9 +19,9 @@
         set_pixel_rgb(image, (width - 1, height - 1), color)
     ```
 - `Change Multiple Pixels Worksheet` loaded up in Schoology
-    - https://docs.google.com/document/d/1HLtrNlvG8lK3hfLYP8F_Riwv06pI9ktlbIk8dypn5ds
+    - https://docs.google.com/document/d/1xbOrwUMz_48eGLWHmHnraCnf2AQEE11Qt9aEErpWM5c
 - `Drawing Lines Worksheet` loaded up in Schoology (just in case)
-    - https://docs.google.com/document/d/1kv9eGOh2T1Kr3K7YNIEm_U7-RmefU2ErWha9lOEuQKQ
+    - https://docs.google.com/document/d/1wijKCu1sCK8tCembiKr5q3JuGVCXh5LgpYa_k9Daz2c
 - AST Websites open
     - https://en.wikipedia.org/wiki/Abstract_syntax_tree
     - https://observablehq.com/@aarebecca/ast-explorer

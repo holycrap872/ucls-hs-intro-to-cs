@@ -13,21 +13,18 @@
 
 ### Actual Lesson
 
-- Review:
-    - PythoShop
-    - Functions
-    - Loops
 - Last class of the year... time to reflect
     - Goal of reflection is to solidify knowledge and improve
+    - John Dewey: "We do not learn from experience. We learn from reflecting on experience."
     - This class operates on two axes: enjoyment and learning
-        - Learning is to more important one
+        - Learning is the more important one
 - Reflect on various topics covered
     - Things learned:
         - Bits, bytes
         - ASCII scavenger hunt
         - Pictures
         - Grok
-        - Madlibs
+        - Mad Libs
         - 20 Questions
         - Turtles
         - EmojiPics
@@ -43,7 +40,7 @@
     - What was easy?
     - What was hard?
     - What is useful for the future, and what isn't?
-- Why I love programming
+- Soap box: why I love programming
     - Forces you to understand ideas clearly and specifically
     - Work with others
     - Powerful
@@ -51,7 +48,7 @@
     - AI is making reading code more important
 - Hand out `exit_questionaire.docx`
     - Please fill out thoughtfully
-        - I read these very carefully and tune the curriculum based on feedback
+        - I read these carefully and tune the curriculum based on feedback
         - The more thoughtful/detailed you are, the more helpful it is
     - Have a good summer
     - Can leave once done (or spend remainder of class working on PythoShop)
