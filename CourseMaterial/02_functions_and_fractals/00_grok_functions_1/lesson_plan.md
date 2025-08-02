@@ -18,6 +18,7 @@ Grok to do this. Finally, students start to work on Grok.
 
 - `Homework: Math Functions` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/1sjmQpqJSmFOKEa8sKDLACe9iKu4V4IVB
     - Allowed to take assessment up to two times
 
 ### Actual Lesson

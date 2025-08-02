@@ -19,6 +19,7 @@
         - `prisoners_dilemma.mp3`
 - `Homework: Advanced Lists` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/1gYdEPN3Gqx-5wyUAX5xycAZn9Y9Xhb8k
     - Allowed to take assessment up to two times
 
 ### Actual Lesson

@@ -9,7 +9,7 @@
 ### Setup
 
 - `Intro to Python Review Worksheet` GoogleDoc loaded up into Schoology
-    - https://docs.google.com/document/d/1o6eBL84HLTr1vCj9oku2eNq_9ztDQDRnnwpZuXnTZpA/edit?usp=sharing
+    - https://docs.google.com/document/d/1o6eBL84HLTr1vCj9oku2eNq_9ztDQDRnnwpZuXnTZpA
 - Practice test loaded up on Schoology
     - See `practice_test.md`
 

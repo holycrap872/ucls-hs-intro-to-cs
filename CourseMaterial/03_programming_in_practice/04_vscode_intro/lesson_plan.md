@@ -16,6 +16,7 @@
         - `find . -name "*pytest_cache*" -exec rm -r {} \;`
 - `Homework: Abstraction and Functions` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/1KWTJPB4nU_XxK2vwDQcR1ecWIjHyjj6T
     - Allowed to take assessment up to two times
 
 ### Actual Lesson

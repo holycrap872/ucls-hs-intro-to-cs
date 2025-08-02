@@ -12,6 +12,7 @@ language to be able to identify, describe, and create their own functions.
 
 - `Homework: CS Functions` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/1E_BSD4P0bUXPLBK-2b1Hqmntnt15Fgbz
     - Allowed to take assessment up to two times
 
 ### Actual Lesson

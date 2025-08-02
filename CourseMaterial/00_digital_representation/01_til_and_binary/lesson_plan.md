@@ -46,7 +46,6 @@ talking about binary numbers.
         - Highlight **must have** the phrase "as seen in the example above"
             - Why?
     - Talk through TIL rubric
-        - https://docs.google.com/document/d/1AY3Asj5EEfTrH0GaAF8AYqD6kzleuQShxMAbmnfpDbg
     - TIL is cheat-sheet you can bring to any test/exam in class
         - Can **only do a single entry** each day
             - Makes it easier for 9th graders to understand

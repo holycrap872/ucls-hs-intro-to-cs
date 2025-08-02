@@ -11,6 +11,7 @@
     - https://docs.google.com/document/d/1SZ2lSbpvMwsL8xCm2NlcC7pxM9mHmknapGU8jOoeBko
 - `Homework: Recursive Functions` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/15-ZRAWv3MGsGhcaHwqW57Mq2R3f9Xkvl
     - Allowed to take assessment up to two times
 - Programs loaded up into Grok:
     - `examples/decrement.py`

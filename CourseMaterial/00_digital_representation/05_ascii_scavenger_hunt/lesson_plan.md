@@ -25,6 +25,7 @@ and protocols for allowing people to communicate.
         - Put into envelopes with name/date/time on envelopes
 - `Homework: ASCII Basics` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/10UtBd8DXcCJ-8u4JcUqeRzxM_6xmtqN_
     - Allowed to take assessment up to two times
 
 ### Actual Lesson

@@ -16,12 +16,18 @@ solving, and differentiated difficulty.
 
 ## Navigation
 
-To understand the course, there are three places to look:
+To understand the course, there are four places to look:
 
 - The [Course Syllabus](./CourseDocuments/syllabus.md) document for 
   the general expectations of the course handed out at the beginning of the class.
 - The [Course Overview](./CoursDocuments/course_overview.md)
   document for and understanding of the units of covered in during the class.
+- The Course Slides that anchor each lesson.
+    - [Digital Repr Unit](https://docs.google.com/presentation/d/1xtApJyjZF8joReU1AgiOyBgTkJKBOUjK-dURfVn_hfQ)
+    - [Intro to Python Unit](https://docs.google.com/presentation/d/1AQQUnWN89XewjB5BxkjZo0kcswoafx4Duaxb6VYnR-Y)
+    - [Functions and Fractals Unit](https://docs.google.com/presentation/d/1HCzD-3aaoLSdaW71j2XLM55avDzd3xXfgSb-42nqzV8)
+    - [Programming in Practice Unit](https://docs.google.com/presentation/d/1XlHD8ACYAaNY3zZPtUgydCavL550-OdlcOEG1OvNCuc)
+    - [PythoShop Unit](https://docs.google.com/presentation/d/1Xv8M9BBIJSzkkeBRApU6jNcrwXNBSvQWgDNRtn-uKw8)
 - The [Course Material](./CourseMaterial/) folder for the full set of lesson plans
   and activities.
 

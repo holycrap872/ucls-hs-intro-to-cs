@@ -14,6 +14,7 @@
     - `example/dragon_curve.py`
 - `Homework: Recursive Functions 2` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/1OvUJl4H3jgR9NNwDjqOYEOWzNeRTDpO1
     - Allowed to take assessment up to two times
 
 ### Actual Lesson

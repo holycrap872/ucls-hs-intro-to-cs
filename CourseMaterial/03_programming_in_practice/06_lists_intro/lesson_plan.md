@@ -11,6 +11,7 @@
     - https://docs.google.com/document/d/1tL68q2oaaD0fEsTa9MwGxtojVM07-NpRFrItekMkhrA
 - `Homework: Basic Lists` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/16am0sqpLfLhdsG3oeZFfVhCWYN9xlka9
     - Allowed to take assessment up to two times
 
 ### Actual Lesson

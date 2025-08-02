@@ -9,9 +9,11 @@
 
 - Giant playing cards
 - `Python Accumulator Pattern Worksheet` loaded up in Schoology
+    - https://docs.google.com/document/d/1kCU81XrEW-kdEjA12UGQ7GsgEIX7UPOKX9wWCAj-7zI/edit?usp=sharing
     - https://docs.google.com/document/d/1kCU81XrEW-kdEjA12UGQ7GsgEIX7UPOKX9wWCAj-7zI/
 - `Homework: Accumulator Pattern` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/1lezxX0I7GIS_LYtaf7Ei9mAECCzH8QyH
     - Allowed to take assessment up to two times
 
 ### Actual Lesson
